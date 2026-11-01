@@ -1,0 +1,23 @@
+name: 题目或解析纠错
+description: 报告题面、公式、答案、分类或来源问题
+title: "[纠错] "
+body:
+  - type: input
+    id: question
+    attributes:
+      label: 题目链接或 ID
+      placeholder: 请粘贴 questions/ 下的题目链接
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题位置与说明
+      description: 请指出哪一行、公式或步骤有问题。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 修正建议与参考依据
+      description: 可以提供推导或可公开访问的参考链接。

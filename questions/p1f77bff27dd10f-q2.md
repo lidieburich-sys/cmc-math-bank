@@ -1,0 +1,72 @@
+# 第14届 第一次补赛 · 数学A类 · 二
+
+[全部题目](README.md) · [所属试卷](../papers/p1f77bff27dd10f.md) · [专题目录](../topics/README.md)
+
+归档年份：2022 · 证明题 · 题号：二
+
+专题：[定积分及其性质](../topics/definite.md) · [不等式证明与导数应用](../topics/onevar-inequality.md)
+
+## 题目
+
+设 $`f`$ 是 $`[0,1]`$ 上的凸函数，证明
+
+
+```math
+\int_0^1t(1-t)f(t)\,dt\le\frac13\int_0^1\bigl(t^3+(1-t)^3\bigr)f(t)\,dt.
+```
+
+<details>
+<summary>展开参考解答</summary>
+
+记
+
+
+```math
+w(t)=\frac13\bigl(t^3+(1-t)^3\bigr)-t(1-t)=2(t-\tfrac12)^2-\frac16,
+```
+
+
+$`g(t)=f(t)+f(1-t)`$。凸性保证 $`g`$ 在 $`[1/2,1]`$ 上单调不减：若 $`1/2\le s<t\le1`$，则 $`s,1-s`$ 都是 $`t,1-t`$ 的凸组合，且对应系数互换，两条凸性不等式相加便得 $`g(s)\le g(t)`$。
+
+令 $`c=(1+1/\sqrt3)/2`$。由于 $`w`$ 在 $`[1/2,c]`$ 上非正、在 $`[c,1]`$ 上非负，故
+
+
+```math
+w(t)\bigl(g(t)-g(c)\bigr)\ge0.
+```
+
+
+又 $`w(1-t)=w(t)`$，且 $`\int_{1/2}^1w(t)\,dt=0`$，所以
+
+
+```math
+\int_0^1w(t)f(t)\,dt=\int_{1/2}^1w(t)g(t)\,dt
+=\int_{1/2}^1w(t)\bigl(g(t)-g(c)\bigr)\,dt\ge0.
+```
+
+
+这正是待证不等式。证明不要求 $`f`$ 可微。
+
+</details>
+
+## 来源与核对说明
+
+题库核对标记：公开题文核对·重排题答。
+
+原档案处理标记：公开题文重排（`public-transcription`）。后续题文核对见下列历史备注；全库并非全部题目重新人工终审。
+
+原题库核对备注（历史记录）：第14届第一次补赛（2022年）数学A类，第二题。题文：安云野逸《CMC数学类题》公开页面第1.21/1.22节（印刷页25/26），https://www.scribd.com/document/910194838/CMC数学类题-安云野逸。仅使用正常公开可见题文，未下载或解除受限预览。解答独立推导；本地p1f77bff27dd10f.pdf为本批题文重排，不是原卷扫描。 公开汇编题文正常可见；本地PDF为题文重排与独立解答，不是官方原卷或官方参考解答。
+
+解答来源：独立数学推导并复核。
+
+题面依据公开题文重排，解答包含独立推导；不是原卷扫描件。
+
+- [来源 1 · www.scribd.com](https://www.scribd.com/document/910194838/CMC%E6%95%B0%E5%AD%A6%E7%B1%BB%E9%A2%98-%E5%AE%89%E4%BA%91%E9%87%8E%E9%80%B8)
+- [来源 2 · m.saikr.com](https://m.saikr.com/a/478181)
+- [来源 3 · gdjpkc.xmu.edu.cn](https://gdjpkc.xmu.edu.cn/DocumentList.aspx?cID=22&dID=383)
+
+---
+
+[本卷上一题](p1f77bff27dd10f-q1.md) · [本卷下一题](p1f77bff27dd10f-q3.md) · [返回试卷](../papers/p1f77bff27dd10f.md)
+
+题目 ID：`p1f77bff27dd10f-q2`

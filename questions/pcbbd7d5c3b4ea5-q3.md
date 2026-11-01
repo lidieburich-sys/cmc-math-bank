@@ -1,0 +1,47 @@
+# 第17届 初赛 · 非数学B类 · 一（3）
+
+[全部题目](README.md) · [所属试卷](../papers/pcbbd7d5c3b4ea5.md) · [专题目录](../topics/README.md)
+
+归档年份：2025 · 填空题 · 题号：一（3）
+
+专题：[定积分及其性质](../topics/definite.md) · [函数方程与函数性质](../topics/functional.md)
+
+## 题目
+
+设连续函数 $`f`$ 满足 $`f(x)+f(-x)=2`$。计算
+
+
+```math
+\int_{-1}^1\left[f(x)+x^2\ln\left(x+\sqrt{x^2+1}\right)\right]dx.
+```
+
+<details>
+<summary>展开参考解答</summary>
+
+函数 $`\ln(x+\sqrt{x^2+1})`$ 为奇函数，乘以偶函数 $`x^2`$ 后积分仍为零。而
+
+
+```math
+\int_{-1}^1f(x)dx=\int_0^1[f(x)+f(-x)]dx=2.
+```
+
+
+所以所求为 $`\boxed2`$。
+
+</details>
+
+## 来源与核对说明
+
+题库核对标记：完整题答逐题核对。
+
+原档案处理标记：由 AI 看图转写（`image-ai-transcribed`）。后续题文核对见下列历史备注；全库并非全部题目重新人工终审。
+
+原题库核对备注（历史记录）：逐页看图核对公开原卷 pcbbd7d5c3b4ea5.pdf；题目第1页，答案第2页；https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf
+
+- [来源 1 · www.cmathc.org.cn](https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf)
+
+---
+
+[本卷上一题](pcbbd7d5c3b4ea5-q2.md) · [本卷下一题](pcbbd7d5c3b4ea5-q4.md) · [返回试卷](../papers/pcbbd7d5c3b4ea5.md)
+
+题目 ID：`pcbbd7d5c3b4ea5-q3`

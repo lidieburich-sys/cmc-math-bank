@@ -1,0 +1,32 @@
+# 第7届全国大学生数学竞赛非数学类初赛试卷（2015年）
+
+[试卷目录](README.md) · [专题目录](../topics/README.md)
+
+第 7 届 · 归档年份 2015 · 初赛 · 非数学类
+
+已收录 10 题；本卷状态：**完整**。
+
+## 题目
+
+| 题号 | 题型 | 专题 |
+| --- | --- | --- |
+| [一（1）](../questions/pd6b54f7a2fda6e-q1.md) | 填空题 | [数列极限](../topics/sequence-limits.md)、[定积分及其性质](../topics/definite.md) |
+| [一（2）](../questions/pd6b54f7a2fda6e-q2.md) | 填空题 | [偏导数与全微分](../topics/partial.md)、[隐函数与参数方程求导](../topics/implicit.md) |
+| [一（3）](../questions/pd6b54f7a2fda6e-q3.md) | 填空题 | [二重积分与三重积分](../topics/multiple.md)、[空间解析几何](../topics/space-geometry.md) |
+| [一（4）](../questions/pd6b54f7a2fda6e-q4.md) | 填空题 | [傅里叶级数](../topics/fourier.md) |
+| [一（5）](../questions/pd6b54f7a2fda6e-q5.md) | 填空题 | [反常积分](../topics/improper.md)、[二重积分与三重积分](../topics/multiple.md) |
+| [二、](../questions/pd6b54f7a2fda6e-q6.md) | 解答题 | [空间解析几何](../topics/space-geometry.md) |
+| [三、](../questions/pd6b54f7a2fda6e-q7.md) | 解答题 | [导数与微分](../topics/derivative.md) |
+| [四、](../questions/pd6b54f7a2fda6e-q8.md) | 解答题 | [幂级数与函数展开](../topics/power-series.md) |
+| [五、](../questions/pd6b54f7a2fda6e-q9.md) | 解答题 | [连续性与一致连续](../topics/continuity.md)、[定积分及其性质](../topics/definite.md) |
+| [六、](../questions/pd6b54f7a2fda6e-q10.md) | 解答题 | [二重积分与三重积分](../topics/multiple.md)、[泰勒展开](../topics/taylor.md) |
+
+## 来源
+
+原档案处理标记：自动导入，原档案标记为待复核（`automatic_unreviewed`）。后续题文核对备注见各题；全库并非全部题目重新人工终审。
+
+【往届真题】全国大学生数学竞赛往届真题/第7届全国大学生数学竞赛赛题/第7届全国大学生数学竞赛非数学类初赛试卷（2015年） .pdf
+
+- [来源 1 · github.com](https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882015%E5%B9%B4%EF%BC%89%20.pdf)
+
+原归档 PDF 的 SHA-256：`d6b54f7a2fda6e81c76abccc31adfa73e525dfc6197333c86907293be1c73f9c`。本仓库保留题文与来源，不附原始扫描文件。

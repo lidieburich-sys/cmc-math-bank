@@ -1,0 +1,2879 @@
+[
+  {
+    "id": "p0434fa8986cd1b",
+    "title": "第1届全国大学生数学竞赛数学类决赛试卷（2010年）",
+    "edition": 1,
+    "year": 2010,
+    "stage": "决赛",
+    "group": "数学类",
+    "question_ids": [
+      "p0434fa8986cd1b-q1",
+      "p0434fa8986cd1b-q2",
+      "p0434fa8986cd1b-q3",
+      "p0434fa8986cd1b-q4",
+      "p0434fa8986cd1b-q5",
+      "p0434fa8986cd1b-q6",
+      "p0434fa8986cd1b-q7",
+      "p0434fa8986cd1b-q8",
+      "p0434fa8986cd1b-q9",
+      "p0434fa8986cd1b-q10",
+      "p0434fa8986cd1b-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882010%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第1届全国大学生数学竞赛赛题/第1届全国大学生数学竞赛数学类决赛试卷（2010年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "0434fa8986cd1b1752bb715f69b67a100b6461a6ad2466479a30e3bce7901d16"
+  },
+  {
+    "id": "pfb056c1651b9ac",
+    "title": "第1届全国大学生数学竞赛非数学类决赛试卷（2010年）",
+    "edition": 1,
+    "year": 2010,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pfb056c1651b9ac-q1",
+      "pfb056c1651b9ac-q2",
+      "pfb056c1651b9ac-q3",
+      "pfb056c1651b9ac-q4",
+      "pfb056c1651b9ac-q5",
+      "pfb056c1651b9ac-q6",
+      "pfb056c1651b9ac-q7",
+      "pfb056c1651b9ac-q8",
+      "pfb056c1651b9ac-q9",
+      "pfb056c1651b9ac-q10",
+      "pfb056c1651b9ac-q11",
+      "pfb056c1651b9ac-q12"
+    ],
+    "question_count": 12,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882010%E5%B9%B4%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第1届全国大学生数学竞赛赛题/第1届全国大学生数学竞赛非数学类决赛试卷（2010年）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "fb056c1651b9ac576b49611b1cdd3e777e11d8209e452523ef00380ff05a87d5"
+  },
+  {
+    "id": "pc25d6cbba9a8da",
+    "title": "第1届全国大学生数学竞赛数学类初赛试卷（2009年）",
+    "edition": 1,
+    "year": 2009,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "pc25d6cbba9a8da-q1",
+      "pc25d6cbba9a8da-q2",
+      "pc25d6cbba9a8da-q3",
+      "pc25d6cbba9a8da-q4",
+      "pc25d6cbba9a8da-q5",
+      "pc25d6cbba9a8da-q6",
+      "pc25d6cbba9a8da-q7"
+    ],
+    "question_count": 7,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882009%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第1届全国大学生数学竞赛赛题/第1届全国大学生数学竞赛数学类初赛试卷（2009年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "c25d6cbba9a8da17cc4726a0c6e693bbfc4a2d9328689a716fe30a44e666e849"
+  },
+  {
+    "id": "p62a137a79f3604",
+    "title": "第1届全国大学生数学竞赛非数学类初赛试卷（2009年）",
+    "edition": 1,
+    "year": 2009,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p62a137a79f3604-q1",
+      "p62a137a79f3604-q2",
+      "p62a137a79f3604-q3",
+      "p62a137a79f3604-q4",
+      "p62a137a79f3604-q5",
+      "p62a137a79f3604-q6",
+      "p62a137a79f3604-q7",
+      "p62a137a79f3604-q8",
+      "p62a137a79f3604-q9",
+      "p62a137a79f3604-q10",
+      "p62a137a79f3604-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC1%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882009%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第1届全国大学生数学竞赛赛题/第1届全国大学生数学竞赛非数学类初赛试卷（2009年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "62a137a79f3604ad96690458084e72079315244d9ac158b8c0b75f5458119e83"
+  },
+  {
+    "id": "p086fca4d15380c",
+    "title": "第2届全国大学生数学竞赛数学类决赛试卷（2011年）",
+    "edition": 2,
+    "year": 2011,
+    "stage": "决赛",
+    "group": "数学类",
+    "question_ids": [
+      "p086fca4d15380c-q1",
+      "p086fca4d15380c-q2",
+      "p086fca4d15380c-q3",
+      "p086fca4d15380c-q4",
+      "p086fca4d15380c-q5",
+      "p086fca4d15380c-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882011%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第2届全国大学生数学竞赛赛题/第2届全国大学生数学竞赛数学类决赛试卷（2011年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "086fca4d15380c7aae0486fbde66861753cda9b152971210f2331edc62930994"
+  },
+  {
+    "id": "pb488325cf2a65a",
+    "title": "第2届全国大学生数学竞赛非数学类决赛试卷（2011年）",
+    "edition": 2,
+    "year": 2011,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pb488325cf2a65a-q1",
+      "pb488325cf2a65a-q1-2",
+      "pb488325cf2a65a-q1-3",
+      "pb488325cf2a65a-q2",
+      "pb488325cf2a65a-q3",
+      "pb488325cf2a65a-q4",
+      "pb488325cf2a65a-q5",
+      "pb488325cf2a65a-q6",
+      "pb488325cf2a65a-q7"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882011%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第2届全国大学生数学竞赛赛题/第2届全国大学生数学竞赛非数学类决赛试卷（2011年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "b488325cf2a65a8b9ebb2002aaba3972e31a8f48a433ae33d45612c7b12d9238"
+  },
+  {
+    "id": "p1e8404fe6f5600",
+    "title": "第2届全国大学生数学竞赛数学类初赛试卷（2010年）",
+    "edition": 2,
+    "year": 2010,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "p1e8404fe6f5600-q1",
+      "p1e8404fe6f5600-q2",
+      "p1e8404fe6f5600-q3",
+      "p1e8404fe6f5600-q4",
+      "p1e8404fe6f5600-q5",
+      "p1e8404fe6f5600-q6",
+      "p1e8404fe6f5600-q7",
+      "p1e8404fe6f5600-q8"
+    ],
+    "question_count": 8,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882010%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第2届全国大学生数学竞赛赛题/第2届全国大学生数学竞赛数学类初赛试卷（2010年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "1e8404fe6f56004e244049ad0ee89720170190f56cf65fffedf7104c67fc1ac2"
+  },
+  {
+    "id": "peca6a0bd177035",
+    "title": "第2届全国大学生数学竞赛非数学类初赛试卷（2010年）",
+    "edition": 2,
+    "year": 2010,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "peca6a0bd177035-q1",
+      "peca6a0bd177035-q2",
+      "peca6a0bd177035-q3",
+      "peca6a0bd177035-q4",
+      "peca6a0bd177035-q5",
+      "peca6a0bd177035-q6",
+      "peca6a0bd177035-q7",
+      "peca6a0bd177035-q8",
+      "peca6a0bd177035-q9",
+      "peca6a0bd177035-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC2%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882010%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第2届全国大学生数学竞赛赛题/第2届全国大学生数学竞赛非数学类初赛试卷（2010年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "eca6a0bd177035aed0f27768fd1a4ef1821d5c599779f332fc270b7355a6091d"
+  },
+  {
+    "id": "peabc6d53b9b491",
+    "title": "第3届全国大学生数学竞赛数学类决赛试卷（2012年）",
+    "edition": 3,
+    "year": 2012,
+    "stage": "决赛",
+    "group": "数学类",
+    "question_ids": [
+      "peabc6d53b9b491-q1",
+      "peabc6d53b9b491-q2",
+      "peabc6d53b9b491-q3",
+      "peabc6d53b9b491-q4",
+      "peabc6d53b9b491-q5",
+      "peabc6d53b9b491-q6",
+      "peabc6d53b9b491-q7"
+    ],
+    "question_count": 7,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882012%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第3届全国大学生数学竞赛赛题/第3届全国大学生数学竞赛数学类决赛试卷（2012年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "eabc6d53b9b491d636ae5ef322734b89a3fc146ab479beca46b505438a50c0dc"
+  },
+  {
+    "id": "pe57d739e476428",
+    "title": "第3届全国大学生数学竞赛非数学类决赛试卷（2012年）",
+    "edition": 3,
+    "year": 2012,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pe57d739e476428-q1",
+      "pe57d739e476428-q2",
+      "pe57d739e476428-q3",
+      "pe57d739e476428-q4",
+      "pe57d739e476428-q5",
+      "pe57d739e476428-q6",
+      "pe57d739e476428-q7",
+      "pe57d739e476428-q8",
+      "pe57d739e476428-q9",
+      "pe57d739e476428-q10",
+      "pe57d739e476428-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882012%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第3届全国大学生数学竞赛赛题/第3届全国大学生数学竞赛非数学类决赛试卷（2012年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "e57d739e47642871b7161a4d04bb0e12a839f3f559899081c8900f80959933e4"
+  },
+  {
+    "id": "pa301de0b296cc7",
+    "title": "第3届全国大学生数学竞赛数学类初赛试卷（2011年）",
+    "edition": 3,
+    "year": 2011,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "pa301de0b296cc7-q1",
+      "pa301de0b296cc7-q2",
+      "pa301de0b296cc7-q3",
+      "pa301de0b296cc7-q4",
+      "pa301de0b296cc7-q5",
+      "pa301de0b296cc7-q6",
+      "pa301de0b296cc7-q7"
+    ],
+    "question_count": 7,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882011%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第3届全国大学生数学竞赛赛题/第3届全国大学生数学竞赛数学类初赛试卷（2011年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a301de0b296cc7838a6670e62d7ff573f461040047376011cd27449b9cb86e52"
+  },
+  {
+    "id": "p00df646b595a4e",
+    "title": "第3届全国大学生数学竞赛非数学类初赛试卷（2011年）",
+    "edition": 3,
+    "year": 2011,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p00df646b595a4e-q1",
+      "p00df646b595a4e-q2",
+      "p00df646b595a4e-q3",
+      "p00df646b595a4e-q4",
+      "p00df646b595a4e-q5",
+      "p00df646b595a4e-q6",
+      "p00df646b595a4e-q7",
+      "p00df646b595a4e-q8",
+      "p00df646b595a4e-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC3%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882011%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第3届全国大学生数学竞赛赛题/第3届全国大学生数学竞赛非数学类初赛试卷（2011年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "00df646b595a4efbc91ad75af8377a80e9cc31468ad708efb7629466b0ee9be4"
+  },
+  {
+    "id": "p0e380fcfeb11b6",
+    "title": "第4届全国大学生数学竞赛数学类决赛试卷（2013年）",
+    "edition": 4,
+    "year": 2013,
+    "stage": "决赛",
+    "group": "数学类",
+    "question_ids": [
+      "p0e380fcfeb11b6-q1",
+      "p0e380fcfeb11b6-q2",
+      "p0e380fcfeb11b6-q3",
+      "p0e380fcfeb11b6-q4",
+      "p0e380fcfeb11b6-q5",
+      "p0e380fcfeb11b6-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882013%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第4届全国大学生数学竞赛赛题/第4届全国大学生数学竞赛数学类决赛试卷（2013年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "0e380fcfeb11b60247fd24ebf52dd4ac654a2d53baef691e3f1226f3d240c51b"
+  },
+  {
+    "id": "p0677c2688f6a25",
+    "title": "第4届全国大学生数学竞赛非数学类决赛试卷（2013年）",
+    "edition": 4,
+    "year": 2013,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p0677c2688f6a25-q1",
+      "p0677c2688f6a25-q1-2",
+      "p0677c2688f6a25-q1-3",
+      "p0677c2688f6a25-q1-4",
+      "p0677c2688f6a25-q1-5",
+      "p0677c2688f6a25-q2",
+      "p0677c2688f6a25-q3",
+      "p0677c2688f6a25-q4",
+      "p0677c2688f6a25-q5",
+      "p0677c2688f6a25-q6"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882013%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第4届全国大学生数学竞赛赛题/第4届全国大学生数学竞赛非数学类决赛试卷（2013年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "0677c2688f6a252a0020882aca3c238a8cebca6df68ea9bfbabe33025304f1d9"
+  },
+  {
+    "id": "pc80cb476df1ae7",
+    "title": "第4届全国大学生数学竞赛数学类初赛试卷（2012年）",
+    "edition": 4,
+    "year": 2012,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "pc80cb476df1ae7-q1",
+      "pc80cb476df1ae7-q2",
+      "pc80cb476df1ae7-q3",
+      "pc80cb476df1ae7-q4",
+      "pc80cb476df1ae7-q5",
+      "pc80cb476df1ae7-q6",
+      "pc80cb476df1ae7-q7"
+    ],
+    "question_count": 7,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882012%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第4届全国大学生数学竞赛赛题/第4届全国大学生数学竞赛数学类初赛试卷（2012年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "c80cb476df1ae7a176c7fe1d331a61b723cb3e7b28ce8e5134560e77e0655c59"
+  },
+  {
+    "id": "p5cfd13df7b2cc3",
+    "title": "第4届全国大学生数学竞赛非数学类初赛试卷（2012年）",
+    "edition": 4,
+    "year": 2012,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p5cfd13df7b2cc3-q1",
+      "p5cfd13df7b2cc3-q2",
+      "p5cfd13df7b2cc3-q3",
+      "p5cfd13df7b2cc3-q4",
+      "p5cfd13df7b2cc3-q5",
+      "p5cfd13df7b2cc3-q6",
+      "p5cfd13df7b2cc3-q7",
+      "p5cfd13df7b2cc3-q8",
+      "p5cfd13df7b2cc3-q9",
+      "p5cfd13df7b2cc3-q10",
+      "p5cfd13df7b2cc3-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC4%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882012%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第4届全国大学生数学竞赛赛题/第4届全国大学生数学竞赛非数学类初赛试卷（2012年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "5cfd13df7b2cc34261826aff1282e35f5be02ac6228b15acd38c1da2b81c425e"
+  },
+  {
+    "id": "p4bb57e34f9d36b",
+    "title": "第5届全国大学生数学竞赛数学类一、二年级决赛试卷（2014年）",
+    "edition": 5,
+    "year": 2014,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p4bb57e34f9d36b-q1",
+      "p4bb57e34f9d36b-q2",
+      "p4bb57e34f9d36b-q3",
+      "p4bb57e34f9d36b-q4",
+      "p4bb57e34f9d36b-q5",
+      "p4bb57e34f9d36b-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%80%E3%80%81%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882014%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第5届全国大学生数学竞赛赛题/第5届全国大学生数学竞赛数学类一、二年级决赛试卷（2014年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "4bb57e34f9d36b229440dc527e4f922dbffa51463566d1e3674895274dd78a57"
+  },
+  {
+    "id": "p4e0edc307ae20b",
+    "title": "第5届全国大学生数学竞赛数学类三、四年级决赛试卷（2014年）",
+    "edition": 5,
+    "year": 2014,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p4e0edc307ae20b-q1",
+      "p4e0edc307ae20b-q2",
+      "p4e0edc307ae20b-q3",
+      "p4e0edc307ae20b-q4",
+      "p4e0edc307ae20b-q5",
+      "p4e0edc307ae20b-q6",
+      "p4e0edc307ae20b-q7",
+      "p4e0edc307ae20b-q8",
+      "p4e0edc307ae20b-q9",
+      "p4e0edc307ae20b-q10",
+      "p4e0edc307ae20b-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%89%E3%80%81%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882014%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第5届全国大学生数学竞赛赛题/第5届全国大学生数学竞赛数学类三、四年级决赛试卷（2014年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "4e0edc307ae20beeedb3bdbae3f4a2e4ca6850c74d61e2a0ce14cdefcf9fbba9"
+  },
+  {
+    "id": "pa3278d5f16bfd8",
+    "title": "第5届全国大学生数学竞赛非数学类决赛试卷（2014年）",
+    "edition": 5,
+    "year": 2014,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pa3278d5f16bfd8-q1",
+      "pa3278d5f16bfd8-q2",
+      "pa3278d5f16bfd8-q3",
+      "pa3278d5f16bfd8-q4",
+      "pa3278d5f16bfd8-q5",
+      "pa3278d5f16bfd8-q6",
+      "pa3278d5f16bfd8-q7",
+      "pa3278d5f16bfd8-q8",
+      "pa3278d5f16bfd8-q9",
+      "pa3278d5f16bfd8-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882014%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第5届全国大学生数学竞赛赛题/第5届全国大学生数学竞赛非数学类决赛试卷（2014年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a3278d5f16bfd8f19d95c12da08297f33dd69198a4cea21671b0b1913a6181c2"
+  },
+  {
+    "id": "p97627a1d41d710",
+    "title": "第5届全国大学生数学竞赛数学类初赛试卷（2013年）",
+    "edition": 5,
+    "year": 2013,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "p97627a1d41d710-q1",
+      "p97627a1d41d710-q2",
+      "p97627a1d41d710-q3",
+      "p97627a1d41d710-q4",
+      "p97627a1d41d710-q5",
+      "p97627a1d41d710-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882013%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第5届全国大学生数学竞赛赛题/第5届全国大学生数学竞赛数学类初赛试卷（2013年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "97627a1d41d7106457a484f3efe5df35d21cd6efa0a5b4aa69ead836b0f43c00"
+  },
+  {
+    "id": "p01c4aeceafa9c4",
+    "title": "第5届全国大学生数学竞赛非数学类初赛试卷（2013年）",
+    "edition": 5,
+    "year": 2013,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p01c4aeceafa9c4-q1",
+      "p01c4aeceafa9c4-q2",
+      "p01c4aeceafa9c4-q3",
+      "p01c4aeceafa9c4-q4",
+      "p01c4aeceafa9c4-q5",
+      "p01c4aeceafa9c4-q6",
+      "p01c4aeceafa9c4-q7",
+      "p01c4aeceafa9c4-q8",
+      "p01c4aeceafa9c4-q9",
+      "p01c4aeceafa9c4-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC5%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882013%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第5届全国大学生数学竞赛赛题/第5届全国大学生数学竞赛非数学类初赛试卷（2013年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "01c4aeceafa9c4ee040982efb2fd89ac5864691fb0d5e0a0dbba9fdd040a0b11"
+  },
+  {
+    "id": "p5a4027e518c140",
+    "title": "第6届全国大学生数学竞赛数学类一、二年级决赛试卷（2015年）",
+    "edition": 6,
+    "year": 2015,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p5a4027e518c140-q1",
+      "p5a4027e518c140-q2",
+      "p5a4027e518c140-q3",
+      "p5a4027e518c140-q4",
+      "p5a4027e518c140-q5",
+      "p5a4027e518c140-q6",
+      "p5a4027e518c140-q7",
+      "p5a4027e518c140-q8",
+      "p5a4027e518c140-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%80%E3%80%81%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882015%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第6届全国大学生数学竞赛赛题/第6届全国大学生数学竞赛数学类一、二年级决赛试卷（2015年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "5a4027e518c140a46d9fcaa85fa9edd79a61fed7f13c571f41ee6000ee97179e"
+  },
+  {
+    "id": "pf99982f7f749a9",
+    "title": "第6届全国大学生数学竞赛数学类三、四年级决赛试卷（2015年）",
+    "edition": 6,
+    "year": 2015,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "pf99982f7f749a9-q1",
+      "pf99982f7f749a9-q2",
+      "pf99982f7f749a9-q3",
+      "pf99982f7f749a9-q4",
+      "pf99982f7f749a9-q5",
+      "pf99982f7f749a9-q6",
+      "pf99982f7f749a9-q7",
+      "pf99982f7f749a9-q8",
+      "pf99982f7f749a9-q9",
+      "pf99982f7f749a9-q10",
+      "pf99982f7f749a9-q11",
+      "pf99982f7f749a9-q12",
+      "pf99982f7f749a9-q13",
+      "pf99982f7f749a9-q14"
+    ],
+    "question_count": 14,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%89%E3%80%81%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882015%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第6届全国大学生数学竞赛赛题/第6届全国大学生数学竞赛数学类三、四年级决赛试卷（2015年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "f99982f7f749a9b538c1f3327b38eeb65530c3ac2df3df0bd976096142c0e864"
+  },
+  {
+    "id": "pa2579ac1f6b0f7",
+    "title": "第6届全国大学生数学竞赛非数学类决赛试卷（2015年）",
+    "edition": 6,
+    "year": 2015,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pa2579ac1f6b0f7-q1",
+      "pa2579ac1f6b0f7-q2",
+      "pa2579ac1f6b0f7-q3",
+      "pa2579ac1f6b0f7-q4",
+      "pa2579ac1f6b0f7-q5",
+      "pa2579ac1f6b0f7-q6",
+      "pa2579ac1f6b0f7-q7",
+      "pa2579ac1f6b0f7-q8",
+      "pa2579ac1f6b0f7-q9",
+      "pa2579ac1f6b0f7-q10",
+      "pa2579ac1f6b0f7-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882015%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第6届全国大学生数学竞赛赛题/第6届全国大学生数学竞赛非数学类决赛试卷（2015年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a2579ac1f6b0f7e681f4711b74a925f9984bce2e2aae119af7a614eb4ce7ada4"
+  },
+  {
+    "id": "p865b05d71847cc",
+    "title": "第6届全国大学生数学竞赛数学类初赛试卷（2014年）",
+    "edition": 6,
+    "year": 2014,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "p865b05d71847cc-q1",
+      "p865b05d71847cc-q2",
+      "p865b05d71847cc-q3",
+      "p865b05d71847cc-q4",
+      "p865b05d71847cc-q5",
+      "p865b05d71847cc-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882014%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第6届全国大学生数学竞赛赛题/第6届全国大学生数学竞赛数学类初赛试卷（2014年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "865b05d71847cc38a38d327de22206ed12466cd35bf54cf474d17f799443555a"
+  },
+  {
+    "id": "p2326085d3bd4d0",
+    "title": "第6届全国大学生数学竞赛非数学类初赛试卷（2014年）",
+    "edition": 6,
+    "year": 2014,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p2326085d3bd4d0-q1",
+      "p2326085d3bd4d0-q2",
+      "p2326085d3bd4d0-q3",
+      "p2326085d3bd4d0-q4",
+      "p2326085d3bd4d0-q5",
+      "p2326085d3bd4d0-q6",
+      "p2326085d3bd4d0-q7",
+      "p2326085d3bd4d0-q8",
+      "p2326085d3bd4d0-q9",
+      "p2326085d3bd4d0-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC6%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882014%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第6届全国大学生数学竞赛赛题/第6届全国大学生数学竞赛非数学类初赛试卷（2014年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "2326085d3bd4d0366c99345e6c7e9777d30c99893d297ab5953ee119b5efc41a"
+  },
+  {
+    "id": "p75b43fd6cc00b9",
+    "title": "第7届全国大学生数学竞赛数学类一、二年级决赛试卷（2016年）",
+    "edition": 7,
+    "year": 2016,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p75b43fd6cc00b9-q1",
+      "p75b43fd6cc00b9-q2",
+      "p75b43fd6cc00b9-q3",
+      "p75b43fd6cc00b9-q4",
+      "p75b43fd6cc00b9-q5",
+      "p75b43fd6cc00b9-q6",
+      "p75b43fd6cc00b9-q7",
+      "p75b43fd6cc00b9-q8",
+      "p75b43fd6cc00b9-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%80%E3%80%81%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882016%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第7届全国大学生数学竞赛赛题/第7届全国大学生数学竞赛数学类一、二年级决赛试卷（2016年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "75b43fd6cc00b9b1924d91fcadd19c260c884707ca301eac25377c40053c77c4"
+  },
+  {
+    "id": "p0d12b4ca4be605",
+    "title": "第7届全国大学生数学竞赛数学类三、四年级决赛试卷（2016年）",
+    "edition": 7,
+    "year": 2016,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p0d12b4ca4be605-q1",
+      "p0d12b4ca4be605-q2",
+      "p0d12b4ca4be605-q3",
+      "p0d12b4ca4be605-q4",
+      "p0d12b4ca4be605-q5",
+      "p0d12b4ca4be605-q6",
+      "p0d12b4ca4be605-q7",
+      "p0d12b4ca4be605-q8",
+      "p0d12b4ca4be605-q9",
+      "p0d12b4ca4be605-q10",
+      "p0d12b4ca4be605-q11",
+      "p0d12b4ca4be605-q12",
+      "p0d12b4ca4be605-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%89%E3%80%81%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882016%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第7届全国大学生数学竞赛赛题/第7届全国大学生数学竞赛数学类三、四年级决赛试卷（2016年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "0d12b4ca4be605df545a3d4cf88d0d4739e316361c78917c1cc950f04a7f54cf"
+  },
+  {
+    "id": "p554e0e341acf40",
+    "title": "第7届全国大学生数学竞赛非数学类决赛试卷（2016年）",
+    "edition": 7,
+    "year": 2016,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p554e0e341acf40-q1",
+      "p554e0e341acf40-q2",
+      "p554e0e341acf40-q3",
+      "p554e0e341acf40-q4",
+      "p554e0e341acf40-q5",
+      "p554e0e341acf40-q6",
+      "p554e0e341acf40-q7",
+      "p554e0e341acf40-q8",
+      "p554e0e341acf40-q9",
+      "p554e0e341acf40-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882016%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第7届全国大学生数学竞赛赛题/第7届全国大学生数学竞赛非数学类决赛试卷（2016年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "554e0e341acf40ec69d6de733e00534421fcf4970ced3d76beecbded27ee30a4"
+  },
+  {
+    "id": "p9e258c3d9c3d91",
+    "title": "第7届全国大学生数学竞赛数学类初赛试卷（2015年）",
+    "edition": 7,
+    "year": 2015,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "p9e258c3d9c3d91-q1",
+      "p9e258c3d9c3d91-q2",
+      "p9e258c3d9c3d91-q3",
+      "p9e258c3d9c3d91-q4",
+      "p9e258c3d9c3d91-q5",
+      "p9e258c3d9c3d91-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882015%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第7届全国大学生数学竞赛赛题/第7届全国大学生数学竞赛数学类初赛试卷（2015年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "9e258c3d9c3d91668c195855f6828f484cfdc51b77baae72952ff6c5374e2ae7"
+  },
+  {
+    "id": "pd6b54f7a2fda6e",
+    "title": "第7届全国大学生数学竞赛非数学类初赛试卷（2015年）",
+    "edition": 7,
+    "year": 2015,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pd6b54f7a2fda6e-q1",
+      "pd6b54f7a2fda6e-q2",
+      "pd6b54f7a2fda6e-q3",
+      "pd6b54f7a2fda6e-q4",
+      "pd6b54f7a2fda6e-q5",
+      "pd6b54f7a2fda6e-q6",
+      "pd6b54f7a2fda6e-q7",
+      "pd6b54f7a2fda6e-q8",
+      "pd6b54f7a2fda6e-q9",
+      "pd6b54f7a2fda6e-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC7%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882015%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第7届全国大学生数学竞赛赛题/第7届全国大学生数学竞赛非数学类初赛试卷（2015年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "d6b54f7a2fda6e81c76abccc31adfa73e525dfc6197333c86907293be1c73f9c"
+  },
+  {
+    "id": "p55d20851e6d193",
+    "title": "第8届全国大学生数学竞赛数学类一、二年级决赛试卷（2017年）",
+    "edition": 8,
+    "year": 2017,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p55d20851e6d193-q1",
+      "p55d20851e6d193-q2",
+      "p55d20851e6d193-q3",
+      "p55d20851e6d193-q4",
+      "p55d20851e6d193-q5",
+      "p55d20851e6d193-q6",
+      "p55d20851e6d193-q7",
+      "p55d20851e6d193-q8",
+      "p55d20851e6d193-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%80%E3%80%81%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882017%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第8届全国大学生数学竞赛赛题/第8届全国大学生数学竞赛数学类一、二年级决赛试卷（2017年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "55d20851e6d193974dc208400b27d47508deeadc64213b732dbfd710994296f3"
+  },
+  {
+    "id": "pd2eb07ea7bd701",
+    "title": "第8届全国大学生数学竞赛数学类三、四年级决赛试卷（2017年）",
+    "edition": 8,
+    "year": 2017,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "pd2eb07ea7bd701-q1",
+      "pd2eb07ea7bd701-q2",
+      "pd2eb07ea7bd701-q3",
+      "pd2eb07ea7bd701-q4",
+      "pd2eb07ea7bd701-q5",
+      "pd2eb07ea7bd701-q6",
+      "pd2eb07ea7bd701-q7",
+      "pd2eb07ea7bd701-q8",
+      "pd2eb07ea7bd701-q9",
+      "pd2eb07ea7bd701-q10",
+      "pd2eb07ea7bd701-q11",
+      "pd2eb07ea7bd701-q12",
+      "pd2eb07ea7bd701-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%89%E3%80%81%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882017%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第8届全国大学生数学竞赛赛题/第8届全国大学生数学竞赛数学类三、四年级决赛试卷（2017年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "d2eb07ea7bd7018c582171119a6598446b51bbec2210a3e57ddd640ae5a91555"
+  },
+  {
+    "id": "pb14938ab017e7e",
+    "title": "第8届全国大学生数学竞赛非数学类决赛试卷（2017年）",
+    "edition": 8,
+    "year": 2017,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pb14938ab017e7e-q1",
+      "pb14938ab017e7e-q2",
+      "pb14938ab017e7e-q3",
+      "pb14938ab017e7e-q4",
+      "pb14938ab017e7e-q5",
+      "pb14938ab017e7e-q6",
+      "pb14938ab017e7e-q7",
+      "pb14938ab017e7e-q8",
+      "pb14938ab017e7e-q9",
+      "pb14938ab017e7e-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882017%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第8届全国大学生数学竞赛赛题/第8届全国大学生数学竞赛非数学类决赛试卷（2017年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "b14938ab017e7eab700be838ca690e6ceb36fce78572f75c6677ffacfac29b59"
+  },
+  {
+    "id": "p4e392f59dadff9",
+    "title": "第8届全国大学生数学竞赛数学类初赛试卷（2016年）",
+    "edition": 8,
+    "year": 2016,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "p4e392f59dadff9-q1",
+      "p4e392f59dadff9-q2",
+      "p4e392f59dadff9-q3",
+      "p4e392f59dadff9-q4",
+      "p4e392f59dadff9-q5",
+      "p4e392f59dadff9-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882016%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第8届全国大学生数学竞赛赛题/第8届全国大学生数学竞赛数学类初赛试卷（2016年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "4e392f59dadff9b81afb219cb400e11bcdc00de3d88deda7b7e9ed75768fb6d6"
+  },
+  {
+    "id": "pb0198b864fa258",
+    "title": "第8届全国大学生数学竞赛非数学类初赛试卷（2016年）",
+    "edition": 8,
+    "year": 2016,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pb0198b864fa258-q1",
+      "pb0198b864fa258-q2",
+      "pb0198b864fa258-q3",
+      "pb0198b864fa258-q4",
+      "pb0198b864fa258-q5",
+      "pb0198b864fa258-q6",
+      "pb0198b864fa258-q7",
+      "pb0198b864fa258-q8",
+      "pb0198b864fa258-q9",
+      "pb0198b864fa258-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC8%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882016%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第8届全国大学生数学竞赛赛题/第8届全国大学生数学竞赛非数学类初赛试卷（2016年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "b0198b864fa2585336dee38ac77e4dcf72ff35d1d562df1d13a89543d571f564"
+  },
+  {
+    "id": "p4cbfc34fa8dd07",
+    "title": "第9届全国大学生数学竞赛数学类一、二年级决赛试卷（2018年）",
+    "edition": 9,
+    "year": 2018,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p4cbfc34fa8dd07-q1",
+      "p4cbfc34fa8dd07-q2",
+      "p4cbfc34fa8dd07-q3",
+      "p4cbfc34fa8dd07-q4",
+      "p4cbfc34fa8dd07-q5",
+      "p4cbfc34fa8dd07-q6",
+      "p4cbfc34fa8dd07-q7",
+      "p4cbfc34fa8dd07-q8",
+      "p4cbfc34fa8dd07-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%80%E3%80%81%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882018%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第9届全国大学生数学竞赛赛题/第9届全国大学生数学竞赛数学类一、二年级决赛试卷（2018年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "4cbfc34fa8dd07b00d42b6549377026f273e8466512fd7d75b945b1357d9b0fb"
+  },
+  {
+    "id": "p7d8640616467ee",
+    "title": "第9届全国大学生数学竞赛数学类三、四年级决赛试卷（2018年）",
+    "edition": 9,
+    "year": 2018,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p7d8640616467ee-q1",
+      "p7d8640616467ee-q2",
+      "p7d8640616467ee-q3",
+      "p7d8640616467ee-q4",
+      "p7d8640616467ee-q5",
+      "p7d8640616467ee-q6",
+      "p7d8640616467ee-q7",
+      "p7d8640616467ee-q8",
+      "p7d8640616467ee-q9",
+      "p7d8640616467ee-q10",
+      "p7d8640616467ee-q11",
+      "p7d8640616467ee-q12",
+      "p7d8640616467ee-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%89%E3%80%81%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882018%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第9届全国大学生数学竞赛赛题/第9届全国大学生数学竞赛数学类三、四年级决赛试卷（2018年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "7d8640616467eeb72bc46bc3954d534c62d0137505668b16fa7c58fc68760102"
+  },
+  {
+    "id": "p0523ff39c169cc",
+    "title": "第9届全国大学生数学竞赛非数学类决赛试卷（2018年）",
+    "edition": 9,
+    "year": 2018,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p0523ff39c169cc-q1",
+      "p0523ff39c169cc-q2",
+      "p0523ff39c169cc-q3",
+      "p0523ff39c169cc-q4",
+      "p0523ff39c169cc-q5",
+      "p0523ff39c169cc-q6",
+      "p0523ff39c169cc-q7",
+      "p0523ff39c169cc-q8",
+      "p0523ff39c169cc-q9",
+      "p0523ff39c169cc-q10",
+      "p0523ff39c169cc-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882018%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第9届全国大学生数学竞赛赛题/第9届全国大学生数学竞赛非数学类决赛试卷（2018年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "0523ff39c169cc036c25d350ecb045d9b8c8483aa886be702ca763f07feb176a"
+  },
+  {
+    "id": "pd173da0e4998fc",
+    "title": "第9届全国大学生数学竞赛数学类初赛试卷（2017年）",
+    "edition": 9,
+    "year": 2017,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "pd173da0e4998fc-q1",
+      "pd173da0e4998fc-q2",
+      "pd173da0e4998fc-q3",
+      "pd173da0e4998fc-q4",
+      "pd173da0e4998fc-q5",
+      "pd173da0e4998fc-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882017%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第9届全国大学生数学竞赛赛题/第9届全国大学生数学竞赛数学类初赛试卷（2017年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "d173da0e4998fc48bc63e180112c94ca27a057255c0804108260451767e2c0b2"
+  },
+  {
+    "id": "p407f931a3d6af7",
+    "title": "第9届全国大学生数学竞赛非数学类初赛试卷（2017年）",
+    "edition": 9,
+    "year": 2017,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p407f931a3d6af7-q1",
+      "p407f931a3d6af7-q2",
+      "p407f931a3d6af7-q3",
+      "p407f931a3d6af7-q4",
+      "p407f931a3d6af7-q5",
+      "p407f931a3d6af7-q6",
+      "p407f931a3d6af7-q7",
+      "p407f931a3d6af7-q8",
+      "p407f931a3d6af7-q9",
+      "p407f931a3d6af7-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC9%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882017%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第9届全国大学生数学竞赛赛题/第9届全国大学生数学竞赛非数学类初赛试卷（2017年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "407f931a3d6af77bb072c914f5473660635aaf68ef688f08ad2db445e5b4641d"
+  },
+  {
+    "id": "pee1674aa7bd425",
+    "title": "第10届全国大学生数学竞赛数学类一、二年级决赛试卷（2019年）",
+    "edition": 10,
+    "year": 2019,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "pee1674aa7bd425-q1",
+      "pee1674aa7bd425-q2",
+      "pee1674aa7bd425-q3",
+      "pee1674aa7bd425-q4",
+      "pee1674aa7bd425-q5",
+      "pee1674aa7bd425-q6",
+      "pee1674aa7bd425-q7",
+      "pee1674aa7bd425-q8",
+      "pee1674aa7bd425-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%80%E3%80%81%E4%BA%8C%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882019%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第10届全国大学生数学竞赛赛题/第10届全国大学生数学竞赛数学类一、二年级决赛试卷（2019年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "ee1674aa7bd425c6994d5d93d02fd448ca8e51b6ab329475d55cf2b87aca7e72"
+  },
+  {
+    "id": "p9fe1f331846dc2",
+    "title": "第10届全国大学生数学竞赛数学类三、四年级决赛试卷（2019年）",
+    "edition": 10,
+    "year": 2019,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p9fe1f331846dc2-q1",
+      "p9fe1f331846dc2-q2",
+      "p9fe1f331846dc2-q3",
+      "p9fe1f331846dc2-q4",
+      "p9fe1f331846dc2-q5",
+      "p9fe1f331846dc2-q6",
+      "p9fe1f331846dc2-q7",
+      "p9fe1f331846dc2-q8",
+      "p9fe1f331846dc2-q9",
+      "p9fe1f331846dc2-q10",
+      "p9fe1f331846dc2-q11",
+      "p9fe1f331846dc2-q12",
+      "p9fe1f331846dc2-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%B8%89%E3%80%81%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882019%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第10届全国大学生数学竞赛赛题/第10届全国大学生数学竞赛数学类三、四年级决赛试卷（2019年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "9fe1f331846dc26864e32b154d10edc8ff7f46ad4948eec264045bb3c4458df0"
+  },
+  {
+    "id": "p666e7625c7c81c",
+    "title": "第10届全国大学生数学竞赛非数学类决赛试卷（2019年）",
+    "edition": 10,
+    "year": 2019,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p666e7625c7c81c-q1",
+      "p666e7625c7c81c-q2",
+      "p666e7625c7c81c-q3",
+      "p666e7625c7c81c-q4",
+      "p666e7625c7c81c-q5",
+      "p666e7625c7c81c-q6",
+      "p666e7625c7c81c-q7",
+      "p666e7625c7c81c-q8",
+      "p666e7625c7c81c-q9",
+      "p666e7625c7c81c-q10",
+      "p666e7625c7c81c-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%86%B3%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882019%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第10届全国大学生数学竞赛赛题/第10届全国大学生数学竞赛非数学类决赛试卷（2019年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "666e7625c7c81c422f713be79cff23498e02951bc0169aed01f840bedd79c321"
+  },
+  {
+    "id": "p17a1c4e8e78153",
+    "title": "第10届全国大学生数学竞赛数学类初赛试卷（2018年）",
+    "edition": 10,
+    "year": 2018,
+    "stage": "初赛",
+    "group": "数学类",
+    "question_ids": [
+      "p17a1c4e8e78153-q1",
+      "p17a1c4e8e78153-q2",
+      "p17a1c4e8e78153-q3",
+      "p17a1c4e8e78153-q4",
+      "p17a1c4e8e78153-q5",
+      "p17a1c4e8e78153-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882018%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第10届全国大学生数学竞赛赛题/第10届全国大学生数学竞赛数学类初赛试卷（2018年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "17a1c4e8e781539ac07f4bf8238698660d03a047dbf3a066161c31533fd1382b"
+  },
+  {
+    "id": "p7b9d8f8e622702",
+    "title": "第10届全国大学生数学竞赛非数学类初赛试卷（2018年）",
+    "edition": 10,
+    "year": 2018,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p7b9d8f8e622702-q1",
+      "p7b9d8f8e622702-q2",
+      "p7b9d8f8e622702-q3",
+      "p7b9d8f8e622702-q4",
+      "p7b9d8f8e622702-q5",
+      "p7b9d8f8e622702-q6",
+      "p7b9d8f8e622702-q7",
+      "p7b9d8f8e622702-q8",
+      "p7b9d8f8e622702-q9",
+      "p7b9d8f8e622702-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC10%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%E5%88%9D%E8%B5%9B%E8%AF%95%E5%8D%B7%EF%BC%882018%E5%B9%B4%EF%BC%89%20.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第10届全国大学生数学竞赛赛题/第10届全国大学生数学竞赛非数学类初赛试卷（2018年） .pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "7b9d8f8e6227021288c45025802e5b74c175009a1fea65493013c10f37d3b25a"
+  },
+  {
+    "id": "pf4e656f9b28c1c",
+    "title": "第十一届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+    "edition": 11,
+    "year": 2020,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "pf4e656f9b28c1c-q1",
+      "pf4e656f9b28c1c-q2",
+      "pf4e656f9b28c1c-q3",
+      "pf4e656f9b28c1c-q4",
+      "pf4e656f9b28c1c-q5",
+      "pf4e656f9b28c1c-q6",
+      "pf4e656f9b28c1c-q7",
+      "pf4e656f9b28c1c-q8",
+      "pf4e656f9b28c1c-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC11%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%BD%8E%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第11届全国大学生数学竞赛赛题/第十一届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "f4e656f9b28c1c2f42304d0dd64b8d0e525cfe7c10acf110fe0fc21f84be74be"
+  },
+  {
+    "id": "p43da417c5c3a14",
+    "title": "第十一届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+    "edition": 11,
+    "year": 2020,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p43da417c5c3a14-q1",
+      "p43da417c5c3a14-q2",
+      "p43da417c5c3a14-q3",
+      "p43da417c5c3a14-q4",
+      "p43da417c5c3a14-q5",
+      "p43da417c5c3a14-q6",
+      "p43da417c5c3a14-q7",
+      "p43da417c5c3a14-q8",
+      "p43da417c5c3a14-q9",
+      "p43da417c5c3a14-q10",
+      "p43da417c5c3a14-q11",
+      "p43da417c5c3a14-q12",
+      "p43da417c5c3a14-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC11%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E9%AB%98%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第11届全国大学生数学竞赛赛题/第十一届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "43da417c5c3a14b19faafc31485742a6bf7991c97578a85841db00c34e04ebdd"
+  },
+  {
+    "id": "pa244bc1a756d5b",
+    "title": "第十一届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+    "edition": 11,
+    "year": 2020,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pa244bc1a756d5b-q1",
+      "pa244bc1a756d5b-q2",
+      "pa244bc1a756d5b-q3",
+      "pa244bc1a756d5b-q4",
+      "pa244bc1a756d5b-q5",
+      "pa244bc1a756d5b-q6",
+      "pa244bc1a756d5b-q7",
+      "pa244bc1a756d5b-q8",
+      "pa244bc1a756d5b-q9",
+      "pa244bc1a756d5b-q10",
+      "pa244bc1a756d5b-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC11%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第11届全国大学生数学竞赛赛题/第十一届全国大学生数学竞赛决赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a244bc1a756d5b2f59b1fff01eee47ed271a2efeb9d4dd02bcb7ce9a75676769"
+  },
+  {
+    "id": "p11ea3cc166077b",
+    "title": "第十一届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+    "edition": 11,
+    "year": 2019,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p11ea3cc166077b-q1",
+      "p11ea3cc166077b-q2",
+      "p11ea3cc166077b-q3",
+      "p11ea3cc166077b-q4",
+      "p11ea3cc166077b-q5",
+      "p11ea3cc166077b-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC11%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第11届全国大学生数学竞赛赛题/第十一届全国大学生数学竞赛初赛试题及参考答案（数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "11ea3cc166077bb7b961218966cebcccab65327ce29e6493e6ee7b2ab9fb2038"
+  },
+  {
+    "id": "pbd172889906816",
+    "title": "第十一届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+    "edition": 11,
+    "year": 2019,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "pbd172889906816-q1",
+      "pbd172889906816-q2",
+      "pbd172889906816-q3",
+      "pbd172889906816-q4",
+      "pbd172889906816-q5",
+      "pbd172889906816-q6",
+      "pbd172889906816-q7"
+    ],
+    "question_count": 7,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC11%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第11届全国大学生数学竞赛赛题/第十一届全国大学生数学竞赛初赛试题及参考答案（数学B类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "bd1728899068164da6235e54370cdd5a60794e3a7ddc98c8622a4026177e78ee"
+  },
+  {
+    "id": "p2a3b61d03dcfb9",
+    "title": "第十一届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+    "edition": 11,
+    "year": 2019,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p2a3b61d03dcfb9-q1",
+      "p2a3b61d03dcfb9-q2",
+      "p2a3b61d03dcfb9-q3",
+      "p2a3b61d03dcfb9-q4",
+      "p2a3b61d03dcfb9-q5",
+      "p2a3b61d03dcfb9-q6",
+      "p2a3b61d03dcfb9-q7",
+      "p2a3b61d03dcfb9-q8",
+      "p2a3b61d03dcfb9-q9",
+      "p2a3b61d03dcfb9-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC11%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第11届全国大学生数学竞赛赛题/第十一届全国大学生数学竞赛初赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "calibrated",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "2a3b61d03dcfb9444c3427f80150568bfc0fc628765caf6bef931c0749c6ef9c"
+  },
+  {
+    "id": "pc977d619d79634",
+    "title": "第十二届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+    "edition": 12,
+    "year": 2021,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "pc977d619d79634-q1",
+      "pc977d619d79634-q2",
+      "pc977d619d79634-q3",
+      "pc977d619d79634-q4",
+      "pc977d619d79634-q5",
+      "pc977d619d79634-q6",
+      "pc977d619d79634-q7",
+      "pc977d619d79634-q8",
+      "pc977d619d79634-q9"
+    ],
+    "question_count": 9,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC12%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%BD%8E%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第12届全国大学生数学竞赛赛题/第十二届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "c977d619d796341e60e95d744806d13d2f950126b3b11396458c74fbd171421d"
+  },
+  {
+    "id": "p13a3005bc89fbc",
+    "title": "第十二届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+    "edition": 12,
+    "year": 2021,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p13a3005bc89fbc-q1",
+      "p13a3005bc89fbc-q2",
+      "p13a3005bc89fbc-q3",
+      "p13a3005bc89fbc-q4",
+      "p13a3005bc89fbc-q5",
+      "p13a3005bc89fbc-q6",
+      "p13a3005bc89fbc-q7",
+      "p13a3005bc89fbc-q8",
+      "p13a3005bc89fbc-q9",
+      "p13a3005bc89fbc-q10",
+      "p13a3005bc89fbc-q11",
+      "p13a3005bc89fbc-q12",
+      "p13a3005bc89fbc-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC12%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E9%AB%98%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第12届全国大学生数学竞赛赛题/第十二届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "13a3005bc89fbc00b96a7a41d3ad19be0242f5a6220d112cdd15ff6bffd51452"
+  },
+  {
+    "id": "pdb8e66a01145e1",
+    "title": "第十二届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+    "edition": 12,
+    "year": 2021,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pdb8e66a01145e1-q1",
+      "pdb8e66a01145e1-q2",
+      "pdb8e66a01145e1-q3",
+      "pdb8e66a01145e1-q4",
+      "pdb8e66a01145e1-q5",
+      "pdb8e66a01145e1-q6",
+      "pdb8e66a01145e1-q7",
+      "pdb8e66a01145e1-q8",
+      "pdb8e66a01145e1-q9",
+      "pdb8e66a01145e1-q10",
+      "pdb8e66a01145e1-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC12%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第12届全国大学生数学竞赛赛题/第十二届全国大学生数学竞赛决赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "db8e66a01145e16472f65a187c89b085c60f77d8fba25528c9c947749c600913"
+  },
+  {
+    "id": "p103bde44c77d92",
+    "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+    "edition": 12,
+    "year": 2020,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p103bde44c77d92-q1",
+      "p103bde44c77d92-q2",
+      "p103bde44c77d92-q3",
+      "p103bde44c77d92-q4",
+      "p103bde44c77d92-q5",
+      "p103bde44c77d92-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC12%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第12届全国大学生数学竞赛赛题/第十二届全国大学生数学竞赛初赛试题及参考答案（数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "103bde44c77d929fcceb008a501da9ba817f0ff2024d5e87cacfd02fad6254f1"
+  },
+  {
+    "id": "pec7890fd9277b9",
+    "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+    "edition": 12,
+    "year": 2020,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "pec7890fd9277b9-q1",
+      "pec7890fd9277b9-q2",
+      "pec7890fd9277b9-q3",
+      "pec7890fd9277b9-q4",
+      "pec7890fd9277b9-q5",
+      "pec7890fd9277b9-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC12%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第12届全国大学生数学竞赛赛题/第十二届全国大学生数学竞赛初赛试题及参考答案（数学B类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "ec7890fd9277b91e76961b129354f15f707bdbaa093b984e0e0136f700db5497"
+  },
+  {
+    "id": "pa48d2d2354da33",
+    "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+    "edition": 12,
+    "year": 2020,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pa48d2d2354da33-q1",
+      "pa48d2d2354da33-q2",
+      "pa48d2d2354da33-q3",
+      "pa48d2d2354da33-q4",
+      "pa48d2d2354da33-q5",
+      "pa48d2d2354da33-q6",
+      "pa48d2d2354da33-q7",
+      "pa48d2d2354da33-q8",
+      "pa48d2d2354da33-q9",
+      "pa48d2d2354da33-q10",
+      "pa48d2d2354da33-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC12%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第12届全国大学生数学竞赛赛题/第十二届全国大学生数学竞赛初赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "calibrated",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a48d2d2354da3301edad4866047e74d7c46ed6fda7878de699267a7663ddda7f"
+  },
+  {
+    "id": "p6c806e3ff702e9",
+    "title": "第十三届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+    "edition": 13,
+    "year": 2022,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p6c806e3ff702e9-q1",
+      "p6c806e3ff702e9-q1-2",
+      "p6c806e3ff702e9-q1-3",
+      "p6c806e3ff702e9-q1-4",
+      "p6c806e3ff702e9-q2",
+      "p6c806e3ff702e9-q3",
+      "p6c806e3ff702e9-q4",
+      "p6c806e3ff702e9-q5",
+      "p6c806e3ff702e9-q6",
+      "p6c806e3ff702e9-q7"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC13%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%BD%8E%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第13届全国大学生数学竞赛赛题/第十三届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "6c806e3ff702e9b9b3082ac663a1fba198b263ce435ba3e44553c8216149ce53"
+  },
+  {
+    "id": "p18057cf6f628c7",
+    "title": "第十三届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+    "edition": 13,
+    "year": 2022,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p18057cf6f628c7-q1",
+      "p18057cf6f628c7-q2",
+      "p18057cf6f628c7-q3",
+      "p18057cf6f628c7-q4",
+      "p18057cf6f628c7-q5",
+      "p18057cf6f628c7-q6",
+      "p18057cf6f628c7-q7",
+      "p18057cf6f628c7-q8",
+      "p18057cf6f628c7-q9",
+      "p18057cf6f628c7-q10",
+      "p18057cf6f628c7-q11",
+      "p18057cf6f628c7-q12",
+      "p18057cf6f628c7-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC13%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E9%AB%98%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第13届全国大学生数学竞赛赛题/第十三届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "18057cf6f628c723c7b4d67855fc5568892b5f45fc38512659e7e8662c0553f7"
+  },
+  {
+    "id": "p474750d6deeb17",
+    "title": "第十三届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+    "edition": 13,
+    "year": 2022,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p474750d6deeb17-q1",
+      "p474750d6deeb17-q1-2",
+      "p474750d6deeb17-q1-3",
+      "p474750d6deeb17-q1-4",
+      "p474750d6deeb17-q1-5",
+      "p474750d6deeb17-q2",
+      "p474750d6deeb17-q3",
+      "p474750d6deeb17-q4",
+      "p474750d6deeb17-q5",
+      "p474750d6deeb17-q6",
+      "p474750d6deeb17-q7"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC13%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第13届全国大学生数学竞赛赛题/第十三届全国大学生数学竞赛决赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "474750d6deeb175d671e46d733df624cfbe59e6a3533cd84bf87b868c077655a"
+  },
+  {
+    "id": "p3af3f785390d80",
+    "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+    "edition": 13,
+    "year": 2021,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p3af3f785390d80-q1",
+      "p3af3f785390d80-q2",
+      "p3af3f785390d80-q3",
+      "p3af3f785390d80-q4",
+      "p3af3f785390d80-q5",
+      "p3af3f785390d80-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC13%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第13届全国大学生数学竞赛赛题/第十三届全国大学生数学竞赛初赛试题及参考答案（数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "3af3f785390d8044a785ba42a04af5e9fe0fb8f70efc73e651a22adbcf31c9a3"
+  },
+  {
+    "id": "pbc44e8034a9281",
+    "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+    "edition": 13,
+    "year": 2021,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "pbc44e8034a9281-q1",
+      "pbc44e8034a9281-q2",
+      "pbc44e8034a9281-q3",
+      "pbc44e8034a9281-q4",
+      "pbc44e8034a9281-q5",
+      "pbc44e8034a9281-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC13%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第13届全国大学生数学竞赛赛题/第十三届全国大学生数学竞赛初赛试题及参考答案（数学B类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "bc44e8034a9281b95043bb955db6055b244f5822cf316cad286c5fd2eebaf514"
+  },
+  {
+    "id": "pa78063e5205fa2",
+    "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+    "edition": 13,
+    "year": 2021,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pa78063e5205fa2-q1",
+      "pa78063e5205fa2-q2",
+      "pa78063e5205fa2-q3",
+      "pa78063e5205fa2-q4",
+      "pa78063e5205fa2-q5",
+      "pa78063e5205fa2-q6",
+      "pa78063e5205fa2-q7",
+      "pa78063e5205fa2-q8",
+      "pa78063e5205fa2-q9",
+      "pa78063e5205fa2-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC13%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第13届全国大学生数学竞赛赛题/第十三届全国大学生数学竞赛初赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "calibrated",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a78063e5205fa2061c9b771b4badde278d9322306ae62bcc79e413edb35f4f80"
+  },
+  {
+    "id": "pde0cad4d80e679",
+    "title": "第十四届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+    "edition": 14,
+    "year": 2023,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "pde0cad4d80e679-q1",
+      "pde0cad4d80e679-q1-2",
+      "pde0cad4d80e679-q1-3",
+      "pde0cad4d80e679-q1-4",
+      "pde0cad4d80e679-q2",
+      "pde0cad4d80e679-q3",
+      "pde0cad4d80e679-q4",
+      "pde0cad4d80e679-q5",
+      "pde0cad4d80e679-q6",
+      "pde0cad4d80e679-q7"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%BD%8E%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "de0cad4d80e679dd684efbaac20f082897248ded20d642042886f541eea57051"
+  },
+  {
+    "id": "p05e9d51cab4665",
+    "title": "第十四届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+    "edition": 14,
+    "year": 2023,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p05e9d51cab4665-q1",
+      "p05e9d51cab4665-q1-2",
+      "p05e9d51cab4665-q1-3",
+      "p05e9d51cab4665-q1-4",
+      "p05e9d51cab4665-q2",
+      "p05e9d51cab4665-q3",
+      "p05e9d51cab4665-q4",
+      "p05e9d51cab4665-q5",
+      "p05e9d51cab4665-q6",
+      "p05e9d51cab4665-q7",
+      "p05e9d51cab4665-q8",
+      "p05e9d51cab4665-q9",
+      "p05e9d51cab4665-q10"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E9%AB%98%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "05e9d51cab4665638f90b92c6f3368f52ae4a64185d6038b059690271bd95d82"
+  },
+  {
+    "id": "pc4e6663103d71b",
+    "title": "第十四届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+    "edition": 14,
+    "year": 2023,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pc4e6663103d71b-q1",
+      "pc4e6663103d71b-q1-2",
+      "pc4e6663103d71b-q1-3",
+      "pc4e6663103d71b-q1-4",
+      "pc4e6663103d71b-q1-5",
+      "pc4e6663103d71b-q2",
+      "pc4e6663103d71b-q3",
+      "pc4e6663103d71b-q4",
+      "pc4e6663103d71b-q5",
+      "pc4e6663103d71b-q6",
+      "pc4e6663103d71b-q7"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛决赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "c4e6663103d71b6095999aa346efdfef8943d15877d25cb0c3398973f738eacd"
+  },
+  {
+    "id": "p195bc980f41e4a",
+    "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+    "edition": 14,
+    "year": 2022,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p195bc980f41e4a-q1",
+      "p195bc980f41e4a-q2",
+      "p195bc980f41e4a-q3",
+      "p195bc980f41e4a-q4",
+      "p195bc980f41e4a-q5",
+      "p195bc980f41e4a-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛初赛试题及参考答案（数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "195bc980f41e4a95f58616d1d91c8dd913e58748aecc5605141e6e96c579ed7c"
+  },
+  {
+    "id": "p6be22e0a4b4e4b",
+    "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+    "edition": 14,
+    "year": 2022,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "p6be22e0a4b4e4b-q1",
+      "p6be22e0a4b4e4b-q2",
+      "p6be22e0a4b4e4b-q3",
+      "p6be22e0a4b4e4b-q4",
+      "p6be22e0a4b4e4b-q5",
+      "p6be22e0a4b4e4b-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛初赛试题及参考答案（数学B类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "6be22e0a4b4e4b6b5ba38e1cbb61913f4d2d1ffdc8b737b76d08dec6f0e51464"
+  },
+  {
+    "id": "p048123fcf6f067",
+    "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+    "edition": 14,
+    "year": 2022,
+    "stage": "初赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p048123fcf6f067-q1",
+      "p048123fcf6f067-q2",
+      "p048123fcf6f067-q3",
+      "p048123fcf6f067-q4",
+      "p048123fcf6f067-q5",
+      "p048123fcf6f067-q6",
+      "p048123fcf6f067-q7",
+      "p048123fcf6f067-q8",
+      "p048123fcf6f067-q9",
+      "p048123fcf6f067-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛初赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "calibrated",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "048123fcf6f067005cc7e7338efea42938f6c7a4fb43dd1171ff46f9d8c804e7"
+  },
+  {
+    "id": "p152a4093e05971",
+    "title": "第十四届全国大学生数学竞赛初赛补赛2A试题及参考答案（数学A类）",
+    "edition": 14,
+    "year": 2023,
+    "stage": "补赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p152a4093e05971-q1",
+      "p152a4093e05971-q2",
+      "p152a4093e05971-q3",
+      "p152a4093e05971-q4",
+      "p152a4093e05971-q5",
+      "p152a4093e05971-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%A1%A5%E8%B5%9B2A%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛初赛补赛2A试题及参考答案（数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "152a4093e05971681c0d5c23b075e0f4eeccd59fe7100e50c1056ae4a614315d",
+    "supplement_round": 2
+  },
+  {
+    "id": "p23a95e6cfabae5",
+    "title": "第十四届全国大学生数学竞赛初赛补赛2B试题及参考答案（数学B类）",
+    "edition": 14,
+    "year": 2023,
+    "stage": "补赛",
+    "group": "数学B类",
+    "question_ids": [
+      "p23a95e6cfabae5-q1",
+      "p23a95e6cfabae5-q2",
+      "p23a95e6cfabae5-q3",
+      "p23a95e6cfabae5-q4",
+      "p23a95e6cfabae5-q5",
+      "p23a95e6cfabae5-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%A1%A5%E8%B5%9B2B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛初赛补赛2B试题及参考答案（数学B类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "23a95e6cfabae5e907582b695a2039226d46eb0de25580e68c085bae0a73ebdb",
+    "supplement_round": 2
+  },
+  {
+    "id": "pcff01ec12e1bb2",
+    "title": "第十四届全国大学生数学竞赛初赛补赛2试题及参考答案（非数学类）",
+    "edition": 14,
+    "year": 2023,
+    "stage": "补赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pcff01ec12e1bb2-q1",
+      "pcff01ec12e1bb2-q2",
+      "pcff01ec12e1bb2-q3",
+      "pcff01ec12e1bb2-q4",
+      "pcff01ec12e1bb2-q5",
+      "pcff01ec12e1bb2-q6",
+      "pcff01ec12e1bb2-q7",
+      "pcff01ec12e1bb2-q8",
+      "pcff01ec12e1bb2-q9",
+      "pcff01ec12e1bb2-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC14%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%A1%A5%E8%B5%9B2%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第14届全国大学生数学竞赛赛题/第十四届全国大学生数学竞赛初赛补赛2试题及参考答案（非数学类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "cff01ec12e1bb2904aa8cc7cf518f6459291413f1d6fb1574953e1d6cd4e563f",
+    "supplement_round": 2
+  },
+  {
+    "id": "pb14c5b9d6ebe03",
+    "title": "第十五届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+    "edition": 15,
+    "year": 2024,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "pb14c5b9d6ebe03-q1",
+      "pb14c5b9d6ebe03-q1-2",
+      "pb14c5b9d6ebe03-q1-3",
+      "pb14c5b9d6ebe03-q1-4",
+      "pb14c5b9d6ebe03-q2",
+      "pb14c5b9d6ebe03-q3",
+      "pb14c5b9d6ebe03-q4",
+      "pb14c5b9d6ebe03-q5",
+      "pb14c5b9d6ebe03-q6",
+      "pb14c5b9d6ebe03-q7"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E4%BD%8E%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "b14c5b9d6ebe0376a8aa80d68647cb558d7428aa99cf30eb7a6632a81f5c32f0"
+  },
+  {
+    "id": "p5666a497f71839",
+    "title": "第十五届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+    "edition": 15,
+    "year": 2024,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "p5666a497f71839-q1",
+      "p5666a497f71839-q2",
+      "p5666a497f71839-q3",
+      "p5666a497f71839-q4",
+      "p5666a497f71839-q5",
+      "p5666a497f71839-q6",
+      "p5666a497f71839-q7",
+      "p5666a497f71839-q8",
+      "p5666a497f71839-q9",
+      "p5666a497f71839-q10",
+      "p5666a497f71839-q11",
+      "p5666a497f71839-q12",
+      "p5666a497f71839-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6%E7%B1%BB%E9%AB%98%E5%B9%B4%E7%BA%A7%E7%BB%84%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "5666a497f718390b3ef0ac8e847f02681c23c9db81e47172f0f2528a663863f6"
+  },
+  {
+    "id": "p74c42b094c98ab",
+    "title": "第十五届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+    "edition": 15,
+    "year": 2024,
+    "stage": "决赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p74c42b094c98ab-q1",
+      "p74c42b094c98ab-q1-2",
+      "p74c42b094c98ab-q1-3",
+      "p74c42b094c98ab-q1-4",
+      "p74c42b094c98ab-q1-5",
+      "p74c42b094c98ab-q2",
+      "p74c42b094c98ab-q3",
+      "p74c42b094c98ab-q4",
+      "p74c42b094c98ab-q5",
+      "p74c42b094c98ab-q6",
+      "p74c42b094c98ab-q7"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%86%B3%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛决赛试题及参考答案（非数学类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "74c42b094c98ab356e997803cd5277ce90416f9cc4827ce0dcd6426f777fdaeb"
+  },
+  {
+    "id": "pcc5cb13cda88ac",
+    "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+    "edition": 15,
+    "year": 2023,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "pcc5cb13cda88ac-q1",
+      "pcc5cb13cda88ac-q2",
+      "pcc5cb13cda88ac-q3",
+      "pcc5cb13cda88ac-q4",
+      "pcc5cb13cda88ac-q5",
+      "pcc5cb13cda88ac-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛初赛试题及参考答案（数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "cc5cb13cda88ac07456b80b21a12d0dca691eecbc333d1118f16ab6af90a36f9"
+  },
+  {
+    "id": "p6a54ee93e1384f",
+    "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+    "edition": 15,
+    "year": 2023,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "p6a54ee93e1384f-q1",
+      "p6a54ee93e1384f-q2",
+      "p6a54ee93e1384f-q3",
+      "p6a54ee93e1384f-q4",
+      "p6a54ee93e1384f-q5",
+      "p6a54ee93e1384f-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛初赛试题及参考答案（数学B类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "6a54ee93e1384f9cbe2277eed6320d54172c78fe308010793ba514364b2e613d"
+  },
+  {
+    "id": "p720fcca85732cb",
+    "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（非数学A类）",
+    "edition": 15,
+    "year": 2023,
+    "stage": "初赛",
+    "group": "非数学A类",
+    "question_ids": [
+      "p720fcca85732cb-q1",
+      "p720fcca85732cb-q2",
+      "p720fcca85732cb-q3",
+      "p720fcca85732cb-q4",
+      "p720fcca85732cb-q5",
+      "p720fcca85732cb-q6",
+      "p720fcca85732cb-q7",
+      "p720fcca85732cb-q8",
+      "p720fcca85732cb-q9",
+      "p720fcca85732cb-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛初赛试题及参考答案（非数学A类）.pdf",
+    "source_kind": "automatic_unreviewed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "720fcca85732cb742816375d63cc6303ec9f0bbd4f324aea1cc70c8cab31c17e"
+  },
+  {
+    "id": "pa4aa3d38ce4f79",
+    "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（非数学B类）",
+    "edition": 15,
+    "year": 2023,
+    "stage": "初赛",
+    "group": "非数学B类",
+    "question_ids": [
+      "pa4aa3d38ce4f79-q1",
+      "pa4aa3d38ce4f79-q2",
+      "pa4aa3d38ce4f79-q3",
+      "pa4aa3d38ce4f79-q4",
+      "pa4aa3d38ce4f79-q5",
+      "pa4aa3d38ce4f79-q6",
+      "pa4aa3d38ce4f79-q7",
+      "pa4aa3d38ce4f79-q8",
+      "pa4aa3d38ce4f79-q9",
+      "pa4aa3d38ce4f79-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://github.com/IceFerryLing/Math_competition/blob/master/%E3%80%90%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%BE%80%E5%B1%8A%E7%9C%9F%E9%A2%98/%E7%AC%AC15%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%B5%9B%E9%A2%98/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "【往届真题】全国大学生数学竞赛往届真题/第15届全国大学生数学竞赛赛题/第十五届全国大学生数学竞赛初赛试题及参考答案（非数学B类）.pdf",
+    "source_kind": "calibrated",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a4aa3d38ce4f79fe26336bfdef1a0f1f6f4b862b9d83a773e2b77cd7fa6fba6f"
+  },
+  {
+    "id": "p751602afc2c73a",
+    "title": "第16届初赛试题及参考答案（非数学B类，2024年）",
+    "edition": 16,
+    "year": 2024,
+    "stage": "初赛",
+    "group": "非数学B类",
+    "question_ids": [
+      "p751602afc2c73a-q1",
+      "p751602afc2c73a-q2",
+      "p751602afc2c73a-q3",
+      "p751602afc2c73a-q4",
+      "p751602afc2c73a-q5",
+      "p751602afc2c73a-q6",
+      "p751602afc2c73a-q7",
+      "p751602afc2c73a-q8",
+      "p751602afc2c73a-q9",
+      "p751602afc2c73a-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://www.cmathc.org.cn/stxz/229.html"
+    ],
+    "source_note": "既有原卷档案/2024_非数学B类.pdf",
+    "source_kind": "calibrated",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "751602afc2c73a16e6a8c39cd9d39c54af2296101b8d5ad11aac5e47904c43bb"
+  },
+  {
+    "id": "pa3ce865a0a2b5c",
+    "title": "第十六届全国大学生数学竞赛决赛试题及参考答案（非数学A类）",
+    "edition": 16,
+    "year": 2025,
+    "stage": "决赛",
+    "group": "非数学A类",
+    "question_ids": [
+      "pa3ce865a0a2b5c-q1",
+      "pa3ce865a0a2b5c-q2",
+      "pa3ce865a0a2b5c-q3",
+      "pa3ce865a0a2b5c-q4",
+      "pa3ce865a0a2b5c-q5",
+      "pa3ce865a0a2b5c-q6",
+      "pa3ce865a0a2b5c-q7",
+      "pa3ce865a0a2b5c-q8",
+      "pa3ce865a0a2b5c-q9",
+      "pa3ce865a0a2b5c-q10",
+      "pa3ce865a0a2b5c-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（非数学A类）试题及答案解析.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（非数学A类）试题及答案解析.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a3ce865a0a2b5cfcba060a7fbeb3d140b492d624994c929e16abfb2cbf75c474"
+  },
+  {
+    "id": "pa909c7816a41ea",
+    "title": "第十六届全国大学生数学竞赛决赛试题及参考答案（非数学B类）",
+    "edition": 16,
+    "year": 2025,
+    "stage": "决赛",
+    "group": "非数学B类",
+    "question_ids": [
+      "pa909c7816a41ea-q1",
+      "pa909c7816a41ea-q2",
+      "pa909c7816a41ea-q3",
+      "pa909c7816a41ea-q4",
+      "pa909c7816a41ea-q5",
+      "pa909c7816a41ea-q6",
+      "pa909c7816a41ea-q7",
+      "pa909c7816a41ea-q8",
+      "pa909c7816a41ea-q9",
+      "pa909c7816a41ea-q10",
+      "pa909c7816a41ea-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（非数学B类）试题及答案解析.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（非数学B类）试题及答案解析.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "a909c7816a41eaa8484127aa2ce16c6d84bcfd1d2426433b901ca8fa1a805248"
+  },
+  {
+    "id": "pfc9ae85aba9332",
+    "title": "第十六届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+    "edition": 16,
+    "year": 2025,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "pfc9ae85aba9332-q1",
+      "pfc9ae85aba9332-q2",
+      "pfc9ae85aba9332-q3",
+      "pfc9ae85aba9332-q4",
+      "pfc9ae85aba9332-q5",
+      "pfc9ae85aba9332-q6",
+      "pfc9ae85aba9332-q7",
+      "pfc9ae85aba9332-q8",
+      "pfc9ae85aba9332-q9",
+      "pfc9ae85aba9332-q10",
+      "pfc9ae85aba9332-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（数学类低年级组）试题及答案解析.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（数学类低年级组）试题及答案解析.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "fc9ae85aba9332255ea3a9850fdaa656c1a5845261046d163827b603055955ba"
+  },
+  {
+    "id": "pf890ebc94df4ba",
+    "title": "第十六届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+    "edition": 16,
+    "year": 2025,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "pf890ebc94df4ba-q1",
+      "pf890ebc94df4ba-q2",
+      "pf890ebc94df4ba-q3",
+      "pf890ebc94df4ba-q4",
+      "pf890ebc94df4ba-q5",
+      "pf890ebc94df4ba-q6",
+      "pf890ebc94df4ba-q7",
+      "pf890ebc94df4ba-q8",
+      "pf890ebc94df4ba-q9",
+      "pf890ebc94df4ba-q10",
+      "pf890ebc94df4ba-q11",
+      "pf890ebc94df4ba-q12",
+      "pf890ebc94df4ba-q13",
+      "pf890ebc94df4ba-q14"
+    ],
+    "question_count": 14,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（数学类高年级组）试题及答案解析.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/第十六届全国大学生数学竞赛决赛（数学类高年级组）试题及答案解析.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "f890ebc94df4bad912619515c79bf42f42c1d86be45fd8fbda550254323b2185"
+  },
+  {
+    "id": "pe86b2c0e9b48f7",
+    "title": "第十七届全国大学生数学竞赛决赛试卷参考答案（数学类高年级组，2026年4月）",
+    "edition": 17,
+    "year": 2026,
+    "stage": "决赛",
+    "group": "数学类高年级组",
+    "question_ids": [
+      "pe86b2c0e9b48f7-q1",
+      "pe86b2c0e9b48f7-q2",
+      "pe86b2c0e9b48f7-q3",
+      "pe86b2c0e9b48f7-q4",
+      "pe86b2c0e9b48f7-q5",
+      "pe86b2c0e9b48f7-q6",
+      "pe86b2c0e9b48f7-q7",
+      "pe86b2c0e9b48f7-q8",
+      "pe86b2c0e9b48f7-q9",
+      "pe86b2c0e9b48f7-q10",
+      "pe86b2c0e9b48f7-q11",
+      "pe86b2c0e9b48f7-q12",
+      "pe86b2c0e9b48f7-q13"
+    ],
+    "question_count": 13,
+    "source_urls": [
+      "https://sjds.net/644777.html"
+    ],
+    "source_note": "公开转载的两张十页拼接扫描图，按原印页码1—20拆页并合成归档PDF；非原发布PDF。",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "e86b2c0e9b48f7f3bf488ea082999f04c289ab175afd1c71a94f4ae97fd51346",
+    "source_format": "source-images"
+  },
+  {
+    "id": "pb05765dc34d9ef",
+    "title": "第16届初赛试题及参考答案（数学A类，2024年）",
+    "edition": 16,
+    "year": 2024,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "pb05765dc34d9ef-q1",
+      "pb05765dc34d9ef-q2",
+      "pb05765dc34d9ef-q3",
+      "pb05765dc34d9ef-q4",
+      "pb05765dc34d9ef-q5",
+      "pb05765dc34d9ef-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.cmathc.org.cn/csst/99.html",
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "b05765dc34d9ef70e860c2480b22907052d917d9d2fecc6567e272c8288e4ca2"
+  },
+  {
+    "id": "pf438ae1cb38d07",
+    "title": "第16届初赛试题及参考答案（数学B类，2024年）",
+    "edition": 16,
+    "year": 2024,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "pf438ae1cb38d07-q1",
+      "pf438ae1cb38d07-q2",
+      "pf438ae1cb38d07-q3",
+      "pf438ae1cb38d07-q4",
+      "pf438ae1cb38d07-q5",
+      "pf438ae1cb38d07-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.cmathc.org.cn/csst/100.html",
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "f438ae1cb38d075838e825e7b72d32e1d46d3a295e2477bdcd5e1e4f9292a55b"
+  },
+  {
+    "id": "p9f62857e639bfa",
+    "title": "第16届初赛试题及参考答案（非数学A类，2024年）",
+    "edition": 16,
+    "year": 2024,
+    "stage": "初赛",
+    "group": "非数学A类",
+    "question_ids": [
+      "p9f62857e639bfa-q1",
+      "p9f62857e639bfa-q2",
+      "p9f62857e639bfa-q3",
+      "p9f62857e639bfa-q4",
+      "p9f62857e639bfa-q5",
+      "p9f62857e639bfa-q6",
+      "p9f62857e639bfa-q7",
+      "p9f62857e639bfa-q8",
+      "p9f62857e639bfa-q9",
+      "p9f62857e639bfa-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://www.cmathc.org.cn/csst/89.html",
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "9f62857e639bfa15e9ad5e694ae2c7c07aaba75ce58df011a5fb09032534d265"
+  },
+  {
+    "id": "p7b3640645d082d",
+    "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（非数学A类）",
+    "edition": 17,
+    "year": 2025,
+    "stage": "初赛",
+    "group": "非数学A类",
+    "question_ids": [
+      "p7b3640645d082d-q1",
+      "p7b3640645d082d-q2",
+      "p7b3640645d082d-q3",
+      "p7b3640645d082d-q4",
+      "p7b3640645d082d-q5",
+      "p7b3640645d082d-q6",
+      "p7b3640645d082d-q7",
+      "p7b3640645d082d-q8",
+      "p7b3640645d082d-q9",
+      "p7b3640645d082d-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "7b3640645d082dd512a910c8a03172088097c900e7850f94de872d6539cea2d4"
+  },
+  {
+    "id": "pcbbd7d5c3b4ea5",
+    "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（非数学B类）",
+    "edition": 17,
+    "year": 2025,
+    "stage": "初赛",
+    "group": "非数学B类",
+    "question_ids": [
+      "pcbbd7d5c3b4ea5-q1",
+      "pcbbd7d5c3b4ea5-q2",
+      "pcbbd7d5c3b4ea5-q3",
+      "pcbbd7d5c3b4ea5-q4",
+      "pcbbd7d5c3b4ea5-q5",
+      "pcbbd7d5c3b4ea5-q6",
+      "pcbbd7d5c3b4ea5-q7",
+      "pcbbd7d5c3b4ea5-q8",
+      "pcbbd7d5c3b4ea5-q9",
+      "pcbbd7d5c3b4ea5-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "cbbd7d5c3b4ea5c886cf5096f4ad831740228bb38440fc3b19ea995461a09309"
+  },
+  {
+    "id": "p0eb18ee82089fb",
+    "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+    "edition": 17,
+    "year": 2025,
+    "stage": "初赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p0eb18ee82089fb-q1",
+      "p0eb18ee82089fb-q2",
+      "p0eb18ee82089fb-q3",
+      "p0eb18ee82089fb-q4",
+      "p0eb18ee82089fb-q5",
+      "p0eb18ee82089fb-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "0eb18ee82089fbccd792c901b010281160e60879a28c8641e7468682d47b6f4a"
+  },
+  {
+    "id": "pca61368c208ea2",
+    "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+    "edition": 17,
+    "year": 2025,
+    "stage": "初赛",
+    "group": "数学B类",
+    "question_ids": [
+      "pca61368c208ea2-q1",
+      "pca61368c208ea2-q2",
+      "pca61368c208ea2-q3",
+      "pca61368c208ea2-q4",
+      "pca61368c208ea2-q5",
+      "pca61368c208ea2-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "ca61368c208ea243a08542df62d6dd3f54242fe92d75a41f7184ff073171f42e"
+  },
+  {
+    "id": "p2b8ccd7491ff5f",
+    "title": "第17届决赛数学类低年级组（2026年）·题文重排残本（缺第二大题）",
+    "edition": 17,
+    "year": 2026,
+    "stage": "决赛",
+    "group": "数学类低年级组",
+    "question_ids": [
+      "p2b8ccd7491ff5f-q1",
+      "p2b8ccd7491ff5f-q2",
+      "p2b8ccd7491ff5f-q3",
+      "p2b8ccd7491ff5f-q4",
+      "p2b8ccd7491ff5f-q6",
+      "p2b8ccd7491ff5f-q7",
+      "p2b8ccd7491ff5f-q8",
+      "p2b8ccd7491ff5f-q9"
+    ],
+    "question_count": 8,
+    "source_urls": [
+      "https://www.scribd.com/document/1030615002/全国大学生数学竞赛决赛试题",
+      "https://sjds.net/642598.html",
+      "https://www.sjds.net/a/491562.html"
+    ],
+    "source_note": "公开题文重排与独立解答；不是原低年级卷PDF",
+    "source_kind": "public-transcription-partial",
+    "complete": false,
+    "missing_questions": [
+      "二"
+    ],
+    "source_pdf_sha256": "2b8ccd7491ff5fb02aa7ced420c457b03a7542b9de12b8afeadc1c5d6dd4d8f4",
+    "coverage_note": "仅收录可核实的4道独立填空题及第三至第六大题，共8题；第二大题尚缺。此PDF为公开题文重排与独立解答，不是原版低年级卷。",
+    "source_format": "reconstructed-text"
+  },
+  {
+    "id": "p410bcf5e4d8970",
+    "title": "第十七届全国大学生数学竞赛决赛（非数学A类，2026年4月18日）全题截图汇编",
+    "edition": 17,
+    "year": 2026,
+    "stage": "决赛",
+    "group": "非数学A类",
+    "question_ids": [
+      "p410bcf5e4d8970-q1",
+      "p410bcf5e4d8970-q2",
+      "p410bcf5e4d8970-q3",
+      "p410bcf5e4d8970-q4",
+      "p410bcf5e4d8970-q5",
+      "p410bcf5e4d8970-q6",
+      "p410bcf5e4d8970-q7",
+      "p410bcf5e4d8970-q8",
+      "p410bcf5e4d8970-q9",
+      "p410bcf5e4d8970-q10",
+      "p410bcf5e4d8970-q11"
+    ],
+    "question_count": 11,
+    "source_urls": [
+      "https://www.bilibili.com/video/BV1L1ozB5EF1/"
+    ],
+    "source_note": "由公开题目截图及公开视频中展示的题页/参考解答画面汇编为14页归档，不是原发布PDF，也不是原试卷页数。所有题面完整；解答据题面独立推导，并与可见参考解答交叉核对。VI原文定义域有瑕疵，答案注明正半轴解释。",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "410bcf5e4d8970beb2238a567cc61016f61d9ec381afadc184e5630e88a5efcf",
+    "source_format": "source-images"
+  },
+  {
+    "id": "pedca45f5baec5b",
+    "title": "第十三届全国大学生数学竞赛初赛补赛试题及参考答案（非数学类）",
+    "edition": 13,
+    "year": 2021,
+    "stage": "补赛",
+    "group": "非数学类",
+    "question_ids": [
+      "pedca45f5baec5b-q1",
+      "pedca45f5baec5b-q2",
+      "pedca45f5baec5b-q3",
+      "pedca45f5baec5b-q4",
+      "pedca45f5baec5b-q5",
+      "pedca45f5baec5b-q6",
+      "pedca45f5baec5b-q7",
+      "pedca45f5baec5b-q8",
+      "pedca45f5baec5b-q9",
+      "pedca45f5baec5b-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89%E8%A1%A5%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6%E7%B1%BB%EF%BC%89%E8%A1%A5%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "edca45f5baec5b51396d1c1f420b20c36e273590ede4226180408f70c5cb2aed",
+    "supplement_round": 1
+  },
+  {
+    "id": "p5b2c00ad5469f5",
+    "title": "第十三届全国大学生数学竞赛初赛补赛试题及参考答案（数学A类）",
+    "edition": 13,
+    "year": 2021,
+    "stage": "补赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p5b2c00ad5469f5-q1",
+      "p5b2c00ad5469f5-q2",
+      "p5b2c00ad5469f5-q3",
+      "p5b2c00ad5469f5-q4",
+      "p5b2c00ad5469f5-q5",
+      "p5b2c00ad5469f5-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89%E8%A1%A5%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6A%E7%B1%BB%EF%BC%89%E8%A1%A5%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "5b2c00ad5469f559d73398ed2e7b05a79c4748d2c5534f85056040c1bf2b4d57",
+    "supplement_round": 1
+  },
+  {
+    "id": "p63f92e0f85dcad",
+    "title": "第十三届全国大学生数学竞赛初赛补赛试题及参考答案（数学B类）",
+    "edition": 13,
+    "year": 2021,
+    "stage": "补赛",
+    "group": "数学B类",
+    "question_ids": [
+      "p63f92e0f85dcad-q1",
+      "p63f92e0f85dcad-q2",
+      "p63f92e0f85dcad-q3",
+      "p63f92e0f85dcad-q4",
+      "p63f92e0f85dcad-q5",
+      "p63f92e0f85dcad-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89%E8%A1%A5%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf"
+    ],
+    "source_note": "https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%EF%BC%88%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89%E8%A1%A5%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "63f92e0f85dcad0abd21e237faeeb5d141ace9b4adbb641d449f762f964a53ac",
+    "supplement_round": 1
+  },
+  {
+    "id": "p1f77bff27dd10f",
+    "title": "第14届第一次补赛数学A类（2022年）·题文重排存档",
+    "edition": 14,
+    "year": 2022,
+    "stage": "补赛",
+    "group": "数学A类",
+    "question_ids": [
+      "p1f77bff27dd10f-q1",
+      "p1f77bff27dd10f-q2",
+      "p1f77bff27dd10f-q3",
+      "p1f77bff27dd10f-q4",
+      "p1f77bff27dd10f-q5",
+      "p1f77bff27dd10f-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.scribd.com/document/910194838/CMC数学类题-安云野逸",
+      "https://m.saikr.com/a/478181",
+      "https://gdjpkc.xmu.edu.cn/DocumentList.aspx?cID=22&dID=383"
+    ],
+    "source_note": "公开题文重排与独立解答；不是原卷扫描件",
+    "source_kind": "public-transcription",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "1f77bff27dd10f705a5bffc6cfc48eeee273dc17e0bd9ca554eb2d0a7a9c32eb",
+    "supplement_round": 1,
+    "coverage_note": "六题题面与独立解答完整。题文来源为公开汇编，数学B类第三、六题另有公开原题图核对；当前本地 PDF 为重排存档，不是原卷扫描。",
+    "source_format": "reconstructed-text"
+  },
+  {
+    "id": "p900a249ce6535c",
+    "title": "第14届第一次补赛数学B类（2022年）·题文重排存档",
+    "edition": 14,
+    "year": 2022,
+    "stage": "补赛",
+    "group": "数学B类",
+    "question_ids": [
+      "p900a249ce6535c-q1",
+      "p900a249ce6535c-q2",
+      "p900a249ce6535c-q3",
+      "p900a249ce6535c-q4",
+      "p900a249ce6535c-q5",
+      "p900a249ce6535c-q6"
+    ],
+    "question_count": 6,
+    "source_urls": [
+      "https://www.scribd.com/document/910194838/CMC数学类题-安云野逸",
+      "https://m.saikr.com/a/478181",
+      "https://gdjpkc.xmu.edu.cn/DocumentList.aspx?cID=22&dID=383"
+    ],
+    "source_note": "公开题文重排与独立解答；不是原卷扫描件",
+    "source_kind": "public-transcription",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "900a249ce6535c2cc2722c2c8b7214a5b8a382d9a6db58a3644703b963d14197",
+    "supplement_round": 1,
+    "coverage_note": "六题题面与独立解答完整。题文来源为公开汇编，数学B类第三、六题另有公开原题图核对；当前本地 PDF 为重排存档，不是原卷扫描。",
+    "source_format": "reconstructed-text"
+  },
+  {
+    "id": "p91f2ff2968650b",
+    "title": "第14届第一次补赛试题及参考答案（非数学类，2022年12月11日）",
+    "edition": 14,
+    "year": 2022,
+    "stage": "补赛",
+    "group": "非数学类",
+    "question_ids": [
+      "p91f2ff2968650b-q1",
+      "p91f2ff2968650b-q2",
+      "p91f2ff2968650b-q3",
+      "p91f2ff2968650b-q4",
+      "p91f2ff2968650b-q5",
+      "p91f2ff2968650b-q6",
+      "p91f2ff2968650b-q7",
+      "p91f2ff2968650b-q8",
+      "p91f2ff2968650b-q9",
+      "p91f2ff2968650b-q10"
+    ],
+    "question_count": 10,
+    "source_urls": [
+      "https://zhuanlan.zhihu.com/p/590994543"
+    ],
+    "source_note": "https://zhuanlan.zhihu.com/p/590994543",
+    "source_kind": "image-ai-transcribed",
+    "complete": true,
+    "missing_questions": [],
+    "source_pdf_sha256": "91f2ff2968650bd3577992421275a551ecadeaebb502de1199794efddce7c705",
+    "supplement_round": 1,
+    "exam_date": "2022-12-11",
+    "source_format": "source-images"
+  }
+]

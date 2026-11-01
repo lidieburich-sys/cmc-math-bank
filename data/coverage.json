@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "content_as_of": "2026-10-21",
+  "question_count": 928,
+  "topic_count": 45,
+  "available_paper_sets": 101,
+  "expected_paper_sets": 102,
+  "complete_paper_sets": 100,
+  "source_archive_pdf_count": 147,
+  "missing": [
+    {
+      "edition": 17,
+      "year": 2026,
+      "stage": "决赛",
+      "group": "数学类低年级组",
+      "missing_questions": [
+        "二"
+      ],
+      "reason": "已找到的正常公开题文缺第二大题，尚未取得可核实的完整原题。"
+    },
+    {
+      "edition": 17,
+      "year": 2026,
+      "stage": "决赛",
+      "group": "非数学B类",
+      "missing_questions": [
+        "整卷"
+      ],
+      "reason": "公开索引能确认文件存在，但目前可访问来源未提供完整题面。"
+    }
+  ],
+  "scope": "第1—17届常规初赛、决赛，加第13届补赛、第14届第一次和第二次补赛。",
+  "year_note": "年份沿用原题库归档；个别延期决赛的实际考试日期见题目来源说明。",
+  "review_note": "旧库已完成结构、重复关系及高风险分问抽查，并非全部题目重新人工终审；解答中含独立推导与纠错内容。",
+  "archive_note": "原档案含原下载PDF、公开题图合订及明确标记的题文重排件。本仓库题文版不随附这些原始扫描附件。",
+  "upstream_sources": [
+    {
+      "name": "原始历届真题档案",
+      "url": "https://github.com/IceFerryLing/Math_competition"
+    },
+    {
+      "name": "公开试题来源网页（cmathc.org.cn）",
+      "url": "https://www.cmathc.org.cn/"
+    },
+    {
+      "name": "补赛范围核对书目：全国大学生数学竞赛（第十一至十五届）试题参考解答",
+      "url": "https://www.ecsponline.com/goods.php?id=225928"
+    }
+  ]
+}

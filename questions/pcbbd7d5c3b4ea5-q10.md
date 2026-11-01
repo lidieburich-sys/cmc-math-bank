@@ -1,0 +1,55 @@
+# 第17届 初赛 · 非数学B类 · 六
+
+[全部题目](README.md) · [所属试卷](../papers/pcbbd7d5c3b4ea5.md) · [专题目录](../topics/README.md)
+
+归档年份：2025 · 解答题 · 题号：六
+
+专题：[定积分及其性质](../topics/definite.md) · [不等式证明与导数应用](../topics/onevar-inequality.md)
+
+## 题目
+
+设 $`f`$ 在 $`[a,b]`$ 上具有连续导数，$`a<b`$，记 $`A=(b-a)^{-1}\int_a^bf(x)dx`$。证明
+
+
+```math
+\int_a^b|f(x)-A|^2dx\le\frac{(a-b)^2}{2}\int_a^b|f'(x)|^2dx.
+```
+
+<details>
+<summary>展开参考解答</summary>
+
+由积分中值定理，存在 $`c\in[a,b]`$，使 $`f(c)=A`$。由微积分基本定理及柯西不等式，
+
+
+```math
+|f(x)-A|^2=\left|\int_c^xf'(t)dt\right|^2\le|x-c|\int_a^b|f'(t)|^2dt.
+```
+
+
+再积分，并注意
+
+
+```math
+\int_a^b|x-c|dx=\frac{(c-a)^2+(b-c)^2}{2}\le\frac{(b-a)^2}{2},
+```
+
+
+即可得到原不等式。
+
+</details>
+
+## 来源与核对说明
+
+题库核对标记：完整题答逐题核对。
+
+原档案处理标记：由 AI 看图转写（`image-ai-transcribed`）。后续题文核对见下列历史备注；全库并非全部题目重新人工终审。
+
+原题库核对备注（历史记录）：逐页看图核对公开原卷 pcbbd7d5c3b4ea5.pdf；题目第7页，答案第7页；https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf
+
+- [来源 1 · www.cmathc.org.cn](https://www.cmathc.org.cn/static/upload/file/jsst/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%88%9D%E8%B5%9B%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E9%9D%9E%E6%95%B0%E5%AD%A6B%E7%B1%BB%EF%BC%89.pdf)
+
+---
+
+[本卷上一题](pcbbd7d5c3b4ea5-q9.md) · [返回试卷](../papers/pcbbd7d5c3b4ea5.md)
+
+题目 ID：`pcbbd7d5c3b4ea5-q10`

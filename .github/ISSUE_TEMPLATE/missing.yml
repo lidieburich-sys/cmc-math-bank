@@ -1,0 +1,21 @@
+name: 补充缺失题目
+description: 提供待补试卷、题目或来源
+title: "[补题] "
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: 届次、赛段、类别和题号
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 可核对的公开来源
+      description: 请说明链接内容是原卷、转载、题文重排还是独立解答。
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充说明
