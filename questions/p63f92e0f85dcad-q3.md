@@ -24,7 +24,7 @@ U=\{(a_{ij})_{3\times3}\mid a_{ij}\in R\}.
 用 $`|E|`$ 表示有限集合 $`E`$ 的元素个数，显然 $`|U|=5^9`$。在 $`U`$ 中构造四个两两不交的集合：
 
 
-$`\displaystyle D=\{\operatorname{diag}(r_1,r_2,r_3):r_i\in R\},\qquad J=\{E,9E\},`$
+$`\displaystyle D=\{\mathop{\mathrm{diag}}\nolimits (r_1,r_2,r_3):r_i\in R\},\qquad J=\{E,9E\},`$
 
 
 其中 $`E`$ 为所有元素均为 $`1`$ 的三阶矩阵；并令

@@ -9,7 +9,7 @@ from urllib.parse import unquote, urlsplit
 sys.dont_write_bytecode = True
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
-from export_markdown import MATH, github_math, load_data, rendered_files
+from export_markdown import MATH, github_math, load_data, normalize_github_macros, rendered_files
 
 RENDERED_MATH = re.compile(r'```math\n(.*?)\n```|^\$\$\n(.*?)\n\$\$(?=\n|$)|\$`(.*?)`\$', re.S | re.M)
 
@@ -20,7 +20,7 @@ def require(condition, message):
 
 
 def math_parts(source):
-    return [' '.join((match.group(1) if match.group(1) is not None else match.group(2)).split())
+    return [' '.join(normalize_github_macros(match.group(1) if match.group(1) is not None else match.group(2)).split())
             for match in MATH.finditer(source)]
 
 
@@ -63,6 +63,7 @@ for question in questions:
         source = question[field]
         require(source.strip(), f'Empty {field}: {identifier}')
         markdown = github_math(source, display_style='display_inline' if field == 'answer' else 'fence')
+        require(not re.search(r'(?<!\\)\\operatorname\b', markdown), f'Blocked operator macro: {identifier}/{field}')
         original_parts = math_parts(source)
         require(original_parts == rendered_math_parts(markdown, source if field == 'answer' else None), f'Math changed: {identifier}/{field}')
         source_prose = MATH.sub(' FORMULA ', source)

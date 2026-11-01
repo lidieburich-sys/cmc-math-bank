@@ -8,7 +8,7 @@
 
 ## 题目
 
-设 $`A,B,C`$ 均为 $`n`$ 阶正定矩阵，$`P(t)=At^2+Bt+C`$，$`f(t)=\det P(t)`$，其中 $`t`$ 为复变量。若 $`\lambda`$ 是 $`f`$ 的根，证明 $`\operatorname{Re}\lambda<0`$。
+设 $`A,B,C`$ 均为 $`n`$ 阶正定矩阵，$`P(t)=At^2+Bt+C`$，$`f(t)=\det P(t)`$，其中 $`t`$ 为复变量。若 $`\lambda`$ 是 $`f`$ 的根，证明 $`\mathop{\mathrm{Re}}\nolimits \lambda<0`$。
 
 <details>
 <summary>展开参考解答</summary>

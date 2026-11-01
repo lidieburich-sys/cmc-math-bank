@@ -47,15 +47,15 @@ $`\displaystyle f_Y(y)=ne^{-ny}\mathbf1_{\{y>0\}},\qquad f_{S_n}(s)=\frac{s^{n-1
 $`\displaystyle f_{Y,Z_2,\ldots,Z_n,I=1}=e^{-ny}\prod_{i=2}^ne^{-z_i},\qquad y,z_i>0.`$
 
 
-除以 $`\mathbb P(I=1)=1/n`$ 后，条件密度分解为 $`ne^{-ny}\prod_{i=2}^ne^{-z_i}`$。这证明 $`Y`$ 与这些余量条件独立，余量均为 $`\operatorname{Exp}(1)`$，所要求的条件分布式也随之成立。
+除以 $`\mathbb P(I=1)=1/n`$ 后，条件密度分解为 $`ne^{-ny}\prod_{i=2}^ne^{-z_i}`$。这证明 $`Y`$ 与这些余量条件独立，余量均为 $`\mathop{\mathrm{Exp}}\nolimits (1)`$，所要求的条件分布式也随之成立。
 
-（3）在任一 $`I=i`$ 条件下，$`T`$ 都是 $`n-1`$ 个独立 $`\operatorname{Exp}(1)`$ 变量之和，且独立于 $`Y`$；此条件联合分布不随 $`i`$ 改变。对 $`i`$ 求和后仍有
+（3）在任一 $`I=i`$ 条件下，$`T`$ 都是 $`n-1`$ 个独立 $`\mathop{\mathrm{Exp}}\nolimits (1)`$ 变量之和，且独立于 $`Y`$；此条件联合分布不随 $`i`$ 改变。对 $`i`$ 求和后仍有
 
 
 $`\displaystyle f_{Y,T}(y,t)=ne^{-ny}\frac{t^{n-2}e^{-t}}{(n-2)!},\qquad y,t>0.`$
 
 
-故 $`T\sim\operatorname{Gamma}(n-1,1)`$，与 $`S_{n-1}`$ 同分布，并且与 $`Y`$ 独立。
+故 $`T\sim\mathop{\mathrm{Gamma}}\nolimits (n-1,1)`$，与 $`S_{n-1}`$ 同分布，并且与 $`Y`$ 独立。
 
 （4）记 $`R=Y/(nY+T)`$。对 $`0<r<1/n`$，由独立性，
 

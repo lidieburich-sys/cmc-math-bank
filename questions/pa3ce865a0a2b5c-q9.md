@@ -24,7 +24,7 @@
 
 （1）取 $`H=A^{-1/2}`$。实对称矩阵 $`H^{\mathsf T}BH`$ 可由正交矩阵 $`Q`$ 对角化，故 $`P=HQ`$ 满足要求。
 
-（2）在（1）中 $`D=\operatorname{diag}(\lambda_1,\ldots,\lambda_n)`$，且 $`\lambda_i>0`$。令 $`S=P^{-1}`$，则 $`A=S^{\mathsf T}S`$、$`B=S^{\mathsf T}DS`$。利用 $`\ln`$ 的凹性，
+（2）在（1）中 $`D=\mathop{\mathrm{diag}}\nolimits (\lambda_1,\ldots,\lambda_n)`$，且 $`\lambda_i>0`$。令 $`S=P^{-1}`$，则 $`A=S^{\mathsf T}S`$、$`B=S^{\mathsf T}DS`$。利用 $`\ln`$ 的凹性，
 
 
 $`\displaystyle \begin{aligned}\ln\det(\alpha A+(1-\alpha)B)&=2\ln|\det S|+\sum_i\ln(\alpha+(1-\alpha)\lambda_i)\\&\ge2\ln|\det S|+(1-\alpha)\sum_i\ln\lambda_i\\&=\alpha\ln\det A+(1-\alpha)\ln\det B.\end{aligned}`$

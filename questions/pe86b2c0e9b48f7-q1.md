@@ -16,7 +16,7 @@ A=\begin{pmatrix}\sin\dfrac{\pi}{1013}&-\cos\dfrac{\pi}{1013}\\\cos\dfrac{\pi}{1
 ```
 
 
-求 $`\operatorname{tr}A`$。
+求 $`\mathop{\mathrm{tr}}\nolimits A`$。
 
 <details>
 <summary>展开参考解答</summary>

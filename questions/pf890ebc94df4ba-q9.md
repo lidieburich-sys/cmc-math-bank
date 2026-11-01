@@ -29,7 +29,7 @@ E_f=\{\xi\in\mathbb R^2:\xi\text{ 是 }f\text{ 在某个 }S_r\text{ 上的最小
 
 （1）设 $`p_n\in E_g`$、$`p_n\to p`$。若 $`p=0`$，因 $`S_0=\{0\}`$，自然有 $`p\in E_g`$。若 $`r=|p|>0`$，对任意 $`q\in S_r`$，令 $`q_n=|p_n|q/r`$，则 $`g(p_n)\le g(q_n)`$。取极限得 $`g(p)\le g(q)`$，故 $`p\in E_g`$。因此 $`E_g`$ 闭。
 
-（2）取 $`g(p)=\operatorname{dist}(p,E)`$。它连续、非负，且零点集正是 $`E`$。每个 $`S_r`$ 与 $`E`$ 相交，故该圆上的最小值为 $`0`$，所以 $`E_g=E`$。这里 $`r=0`$ 的情形由 $`E`$ 闭且与所有 $`S_{1/n}`$ 相交得 $`0\in E`$。
+（2）取 $`g(p)=\mathop{\mathrm{dist}}\nolimits (p,E)`$。它连续、非负，且零点集正是 $`E`$。每个 $`S_r`$ 与 $`E`$ 相交，故该圆上的最小值为 $`0`$，所以 $`E_g=E`$。这里 $`r=0`$ 的情形由 $`E`$ 闭且与所有 $`S_{1/n}`$ 相交得 $`0\in E`$。
 
 （3）取闭集 $`E=([0,\infty)\times\{0\})\cup(\{0\}\times[1,\infty))`$。它不连通，且与每个 $`S_r`$ 相交，应用（2）即可。
 
@@ -45,7 +45,7 @@ $`\displaystyle F=\left\{\theta=\sum_{n\ge1}\frac{a_n}{3^n}:a_n\in\{0,1\}\right\
 $`\displaystyle R(\theta)=\tan\frac{\pi b(\theta)}2,\qquad G(\theta)=R(\theta)(\cos\theta,\sin\theta),\qquad E=G(F\setminus\{1/2\}).`$
 
 
-$`R`$ 映满 $`[0,\infty)`$，故 $`E`$ 与每个 $`S_r`$ 相交。$`G`$ 连续一一，且当 $`\theta\to1/2`$ 时 $`|G(\theta)|\to\infty`$，因此任何有界收敛像点列的参数有极限留在定义域内，$`E`$ 为闭集。除原点外，参数可由连续极角恢复；在原点处，由 $`0\le\theta\le b(\theta)=(2/\pi)\arctan|G(\theta)|`$ 亦知逆映射连续。因此 $`G`$ 是到 $`E`$ 的同胚。$`F`$ 完全不连通，所以 $`E`$ 的非空连通子集只能是单点。最后取 $`g=\operatorname{dist}(\cdot,E)`$，由（2）完成构造。
+$`R`$ 映满 $`[0,\infty)`$，故 $`E`$ 与每个 $`S_r`$ 相交。$`G`$ 连续一一，且当 $`\theta\to1/2`$ 时 $`|G(\theta)|\to\infty`$，因此任何有界收敛像点列的参数有极限留在定义域内，$`E`$ 为闭集。除原点外，参数可由连续极角恢复；在原点处，由 $`0\le\theta\le b(\theta)=(2/\pi)\arctan|G(\theta)|`$ 亦知逆映射连续。因此 $`G`$ 是到 $`E`$ 的同胚。$`F`$ 完全不连通，所以 $`E`$ 的非空连通子集只能是单点。最后取 $`g=\mathop{\mathrm{dist}}\nolimits (\cdot,E)`$，由（2）完成构造。
 
 </details>
 

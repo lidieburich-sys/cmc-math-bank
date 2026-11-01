@@ -13,7 +13,7 @@
 
 ```math
 A^4=I\quad\Longleftrightarrow\quad
-\operatorname{rank}(I-A)+\operatorname{rank}(I+A+A^2+A^3)=n.
+\mathop{\mathrm{rank}}\nolimits (I-A)+\mathop{\mathrm{rank}}\nolimits (I+A+A^2+A^3)=n.
 ```
 
 <details>
@@ -25,10 +25,10 @@ A^4=I\quad\Longleftrightarrow\quad
 $`\displaystyle UB+VC=I,\qquad BC=I-A^4,`$
 
 
-所有矩阵彼此交换。因此 $`\operatorname{Im}B+\operatorname{Im}C=\mathbb R^n`$。又
+所有矩阵彼此交换。因此 $`\mathop{\mathrm{Im}}\nolimits B+\mathop{\mathrm{Im}}\nolimits C=\mathbb R^n`$。又
 
 
-$`\displaystyle \operatorname{Im}B\cap\operatorname{Im}C=\operatorname{Im}(BC).`$
+$`\displaystyle \mathop{\mathrm{Im}}\nolimits B\cap\mathop{\mathrm{Im}}\nolimits C=\mathop{\mathrm{Im}}\nolimits (BC).`$
 
 
 确实，右边包含于左边；反之，若 $`w=Bx=Cy`$，则
@@ -40,7 +40,7 @@ $`\displaystyle w=(UB+VC)w=BC(Uy+Vx).`$
 由维数公式，
 
 
-$`\displaystyle \operatorname{rank}B+\operatorname{rank}C=n+\operatorname{rank}(BC) =n+\operatorname{rank}(I-A^4).`$
+$`\displaystyle \mathop{\mathrm{rank}}\nolimits B+\mathop{\mathrm{rank}}\nolimits C=n+\mathop{\mathrm{rank}}\nolimits (BC) =n+\mathop{\mathrm{rank}}\nolimits (I-A^4).`$
 
 
 故秩之和等于 $`n`$ 当且仅当 $`A^4=I`$。

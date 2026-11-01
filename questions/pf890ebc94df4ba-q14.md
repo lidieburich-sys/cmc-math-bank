@@ -38,7 +38,7 @@ L_{n+1}(x)=\frac{2n+1}{n+1}xL_n(x)-\frac n{n+1}L_{n-1}(x).
 
 
 ```math
-W=\operatorname{diag}((1-s_1^2)w_1,\ldots,(1-s_n^2)w_n).
+W=\mathop{\mathrm{diag}}\nolimits ((1-s_1^2)w_1,\ldots,(1-s_n^2)w_n).
 ```
 
 

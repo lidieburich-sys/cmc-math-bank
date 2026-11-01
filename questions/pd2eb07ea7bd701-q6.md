@@ -8,7 +8,7 @@
 
 ## 题目
 
-设 $`n`$ 阶矩阵 $`A,B`$ 满足 $`\operatorname{rank}(ABA)=\operatorname{rank}B`$。证明 $`AB`$ 与 $`BA`$ 相似。
+设 $`n`$ 阶矩阵 $`A,B`$ 满足 $`\mathop{\mathrm{rank}}\nolimits (ABA)=\mathop{\mathrm{rank}}\nolimits B`$。证明 $`AB`$ 与 $`BA`$ 相似。
 
 <details>
 <summary>展开参考解答</summary>
@@ -19,7 +19,7 @@
 $`\displaystyle A=P\begin{pmatrix}E_r&0\\0&0\end{pmatrix}Q,\qquad B=Q^{-1}\begin{pmatrix}B_1&B_2\\B_3&B_4\end{pmatrix}P^{-1}.`$
 
 
-秩条件说明 $`\operatorname{rank}B_1=\operatorname{rank}B`$，故存在 $`X,Y`$ 使 $`B_2=B_1X,B_3=YB_1`$。因此 $`AB`$ 相似于 $`\begin{pmatrix}B_1&B_1X\\0&0\end{pmatrix}`$，$`BA`$ 相似于 $`\begin{pmatrix}B_1&0\\YB_1&0\end{pmatrix}`$。而
+秩条件说明 $`\mathop{\mathrm{rank}}\nolimits B_1=\mathop{\mathrm{rank}}\nolimits B`$，故存在 $`X,Y`$ 使 $`B_2=B_1X,B_3=YB_1`$。因此 $`AB`$ 相似于 $`\begin{pmatrix}B_1&B_1X\\0&0\end{pmatrix}`$，$`BA`$ 相似于 $`\begin{pmatrix}B_1&0\\YB_1&0\end{pmatrix}`$。而
 
 
 $`\displaystyle \begin{pmatrix}E&-X\\0&E\end{pmatrix}\begin{pmatrix}B_1&0\\0&0\end{pmatrix}\begin{pmatrix}E&X\\0&E\end{pmatrix} =\begin{pmatrix}B_1&B_1X\\0&0\end{pmatrix},`$

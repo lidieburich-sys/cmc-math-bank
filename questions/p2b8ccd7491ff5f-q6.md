@@ -27,7 +27,7 @@ A^{2025}=E,\qquad B^{2026}=E,\qquad AB=BA.
 $`\displaystyle \lambda^{2025}=1,\quad\mu^{2026}=1,\quad\lambda+\mu+1=0.`$
 
 
-特别地，$`|\lambda|=|\mu|=1`$。由 $`|1+\lambda|=1`$，得 $`\operatorname{Re}\lambda=-1/2`$，从而
+特别地，$`|\lambda|=|\mu|=1`$。由 $`|1+\lambda|=1`$，得 $`\mathop{\mathrm{Re}}\nolimits \lambda=-1/2`$，从而
 
 
 $`\displaystyle \{\lambda,\mu\}=\{e^{2\pi i/3},e^{-2\pi i/3}\}.`$

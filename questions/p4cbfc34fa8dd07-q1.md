@@ -8,14 +8,14 @@
 
 ## 题目
 
-设 $`H_1=\begin{pmatrix}0&1\\1&0\end{pmatrix}`$，并递推定义 $`H_{n+1}=\begin{pmatrix}H_n&I\\I&H_n\end{pmatrix}`$，其中 $`I`$ 与 $`H_n`$ 同阶。求 $`\operatorname{rank}H_4`$。
+设 $`H_1=\begin{pmatrix}0&1\\1&0\end{pmatrix}`$，并递推定义 $`H_{n+1}=\begin{pmatrix}H_n&I\\I&H_n\end{pmatrix}`$，其中 $`I`$ 与 $`H_n`$ 同阶。求 $`\mathop{\mathrm{rank}}\nolimits H_4`$。
 
 <details>
 <summary>展开参考解答</summary>
 
 若 $`H_n v=\lambda v`$，则 $`(v,v)^T`$、$`(v,-v)^T`$ 分别为 $`H_{n+1}`$ 的特征值 $`\lambda+1`$、$`\lambda-1`$ 的特征向量。由 $`H_1`$ 的特征值 $`\pm1`$ 归纳可知，$`H_n`$ 的特征值为 $`n-2k`$，重数为 $`\binom nk`$。
 
-$`H_4`$ 阶数为 $`16`$，零特征值的重数为 $`\binom42=6`$。因为它是实对称矩阵，故 $`\boxed{\operatorname{rank}H_4=16-6=10}`$。
+$`H_4`$ 阶数为 $`16`$，零特征值的重数为 $`\binom42=6`$。因为它是实对称矩阵，故 $`\boxed{\mathop{\mathrm{rank}}\nolimits H_4=16-6=10}`$。
 
 </details>
 

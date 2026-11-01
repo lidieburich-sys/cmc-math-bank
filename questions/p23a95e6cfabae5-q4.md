@@ -13,7 +13,7 @@
 <details>
 <summary>展开参考解答</summary>
 
-实对称矩阵的不同特征子空间正交，故特征值 $`1`$ 的二维特征空间是 $`p^\perp=\operatorname{span}\{e_1,e_2\}`$。因此 $`Ae_1=e_1,Ae_2=e_2,Ae_3=-e_3`$，所以 $`\boxed{A=\operatorname{diag}(1,1,-1)}`$。
+实对称矩阵的不同特征子空间正交，故特征值 $`1`$ 的二维特征空间是 $`p^\perp=\mathop{\mathrm{span}}\nolimits \{e_1,e_2\}`$。因此 $`Ae_1=e_1,Ae_2=e_2,Ae_3=-e_3`$，所以 $`\boxed{A=\mathop{\mathrm{diag}}\nolimits (1,1,-1)}`$。
 
 </details>
 

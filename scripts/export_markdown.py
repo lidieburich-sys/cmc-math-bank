@@ -17,6 +17,7 @@ from urllib.parse import quote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 MATH = re.compile(r'(?<!\\)\\\[(.*?)\\\]|(?<!\\)\\\((.*?)\\\)', re.S)
+OPERATOR_NAME = re.compile(r'(?<!\\)\\operatorname(\*?)\s*\{([^{}]*)\}')
 HTML = re.compile(r'</?(?:a|abbr|b|br|code|del|details|div|em|h[1-6]|hr|i|img|li|ol|p|pre|span|strong|sub|summary|sup|table|tbody|td|th|thead|tr|ul)(?=[\s/>])[^>]*>', re.I)
 STAGE_ORDER = {'初赛': 0, '补赛': 1, '决赛': 2}
 SOURCE_KINDS = {
@@ -33,8 +34,24 @@ def load_data(root=ROOT):
             for name in ('questions', 'papers', 'topics', 'coverage')}
 
 
+def normalize_github_macros(formula):
+    r"""Preserve named-operator typography without GitHub's blocked macro.
+
+    Ordinary operators suppress limits; starred operators retain the default
+    display limits. JSON keeps the original operatorname spelling.
+    """
+    def replace(match):
+        starred, name = match.groups()
+        return r'\mathop{\mathrm{' + name + '}}' + ('' if starred else r'\nolimits') + ' '
+
+    normalized = OPERATOR_NAME.sub(replace, formula)
+    if re.search(r'(?<!\\)\\operatorname\b', normalized):
+        raise ValueError('Unsupported nested operatorname argument; review explicitly')
+    return normalized
+
+
 def github_math(text, display_style='fence'):
-    r"""Convert only math delimiters, leaving all prose and TeX commands intact.
+    r"""Convert math delimiters and blocked operator macros, preserving prose.
 
     No HTML stripping is performed. An HTML-bearing future source must be
     reviewed first because HTML blocks can inhibit GitHub Markdown/math parsing.
@@ -53,6 +70,7 @@ def github_math(text, display_style='fence'):
     def convert(match):
         display, inline = match.groups()
         if display is not None:
+            display = normalize_github_macros(display)
             if display_style == 'display_inline':
                 if '`' in display or '%' in display:
                     raise ValueError('Display math contains a backtick or TeX comment; review before flattening')
@@ -60,7 +78,7 @@ def github_math(text, display_style='fence'):
             return '\n\n```math\n' + display.strip() + '\n```\n\n'
         if '`' in inline:
             raise ValueError('Backtick in inline math needs explicit handling')
-        return '$`' + inline.strip() + '`$'
+        return '$`' + normalize_github_macros(inline).strip() + '`$'
 
     result = MATH.sub(convert, text)
     if re.search(r'(?<!\\)\\[\[\(\]\)]', result):

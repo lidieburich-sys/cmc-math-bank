@@ -49,7 +49,7 @@ $`\displaystyle Me_j=MF^{j-1}e_1=F^{j-1}Me_1 =F^{j-1}Ae_1=AF^{j-1}e_1=Ae_j.`$
 
 故 $`M=A`$。
 
-（2）由（1），$`C(F)=\operatorname{span}\{I,F,\ldots,F^{n-1}\}`$。若 $`\sum_{k=0}^{n-1}c_kF^k=0`$，两边乘 $`e_1`$，得 $`\sum_{k=0}^{n-1}c_ke_{k+1}=0`$，所以所有 $`c_k=0`$。这 $`n`$ 个矩阵线性无关，故 $`\boxed{\dim C(F)=n}`$。
+（2）由（1），$`C(F)=\mathop{\mathrm{span}}\nolimits \{I,F,\ldots,F^{n-1}\}`$。若 $`\sum_{k=0}^{n-1}c_kF^k=0`$，两边乘 $`e_1`$，得 $`\sum_{k=0}^{n-1}c_ke_{k+1}=0`$，所以所有 $`c_k=0`$。这 $`n`$ 个矩阵线性无关，故 $`\boxed{\dim C(F)=n}`$。
 
 </details>
 

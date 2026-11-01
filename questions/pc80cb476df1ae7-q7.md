@@ -21,7 +21,7 @@ A=\begin{pmatrix}2&2\\2&a\end{pmatrix},\qquad B=\begin{pmatrix}4&b\\3&1\end{pmat
 <details>
 <summary>展开参考解答</summary>
 
-（1）若 $`a=2`$，$`A`$ 的列空间为 $`\operatorname{span}(1,1)^{\mathsf T}`$，但 $`B`$ 的第一列 $`(4,3)^{\mathsf T}`$ 不在其中，所以 $`AX=B`$ 无解。若 $`a\ne2`$，则 $`A`$ 可逆，$`AX=B`$ 必有解，而 $`BY=A`$ 有解当且仅当 $`B`$ 满秩。因此所需条件恰为 $`a\ne2`$、$`\det B=4-3b=0`$。
+（1）若 $`a=2`$，$`A`$ 的列空间为 $`\mathop{\mathrm{span}}\nolimits (1,1)^{\mathsf T}`$，但 $`B`$ 的第一列 $`(4,3)^{\mathsf T}`$ 不在其中，所以 $`AX=B`$ 无解。若 $`a\ne2`$，则 $`A`$ 可逆，$`AX=B`$ 必有解，而 $`BY=A`$ 有解当且仅当 $`B`$ 满秩。因此所需条件恰为 $`a\ne2`$、$`\det B=4-3b=0`$。
 
 （2）相似必有相同迹与行列式：$`a+2=5`$、$`2a-4=4-3b`$，解得 $`a=3,b=2/3`$。反之，此时两矩阵的特征多项式均为 $`t^2-5t+2`$，有两个不同实根，均相似于同一个对角矩阵，故彼此相似。
 

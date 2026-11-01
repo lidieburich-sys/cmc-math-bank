@@ -28,7 +28,7 @@ $`\displaystyle z_i=\sum_{j=1}^n a_{ij}z_j,\qquad a_{ij}>0,\qquad\sum_{j=1}^n a_
 若有某个 $`z_j<z_i`$，右侧严格小于 $`z_i`$，矛盾。因此所有分量相等。对任意复向量 $`v=x+iy\in V_1`$，由 $`A`$ 为实矩阵，有 $`Ax=x`$、$`Ay=y`$，故 $`x,y`$ 均为 $`e`$ 的实数倍。因此
 
 
-$`\displaystyle \boxed{V_1=\operatorname{span}_{\mathbb C}\{e\},\quad\dim_{\mathbb C}V_1=1},`$
+$`\displaystyle \boxed{V_1=\mathop{\mathrm{span}}\nolimits _{\mathbb C}\{e\},\quad\dim_{\mathbb C}V_1=1},`$
 
 
 其一组基为 $`\{e\}`$。

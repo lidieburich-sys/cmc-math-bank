@@ -13,13 +13,13 @@
 <details>
 <summary>展开参考解答</summary>
 
-记 $`D=\operatorname{diag}(1,2,3)`$、$`Q=P^{\mathsf T}DP`$。沿单位方向 $`v`$ 的直线相切，当且仅当
+记 $`D=\mathop{\mathrm{diag}}\nolimits (1,2,3)`$、$`Q=P^{\mathsf T}DP`$。沿单位方向 $`v`$ 的直线相切，当且仅当
 
 
 $`\displaystyle (P^{\mathsf T}Dv)^2-(v^{\mathsf T}Dv)(Q-4)=0.`$
 
 
-令 $`T=(DP)(DP)^{\mathsf T}-(Q-4)D`$。若存在正交单位方向 $`v_1,v_2,v_3`$，则 $`v_j^{\mathsf T}Tv_j=0`$，相加得 $`\operatorname{tr}T=0`$。即
+令 $`T=(DP)(DP)^{\mathsf T}-(Q-4)D`$。若存在正交单位方向 $`v_1,v_2,v_3`$，则 $`v_j^{\mathsf T}Tv_j=0`$，相加得 $`\mathop{\mathrm{tr}}\nolimits T=0`$。即
 
 
 $`\displaystyle x^2+4y^2+9z^2-6(x^2+2y^2+3z^2-4)=0,`$

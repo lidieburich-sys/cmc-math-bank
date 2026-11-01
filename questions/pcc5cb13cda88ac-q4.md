@@ -19,7 +19,7 @@
 $`\displaystyle u^{\mathsf T}v=0,\qquad\|u\|^2=\|v\|^2=n/2.`$
 
 
-所以 $`A`$ 在 $`\operatorname{span}\{u,v\}`$ 上的矩阵为 $`\begin{pmatrix}0&n/2\\n/2&0\end{pmatrix}`$，在其正交补上为零。特征值为 $`n/2,-n/2`$ 及 $`n-2`$ 个零。因此
+所以 $`A`$ 在 $`\mathop{\mathrm{span}}\nolimits \{u,v\}`$ 上的矩阵为 $`\begin{pmatrix}0&n/2\\n/2&0\end{pmatrix}`$，在其正交补上为零。特征值为 $`n/2,-n/2`$ 及 $`n-2`$ 个零。因此
 
 
 $`\displaystyle \boxed{\det(I+A^{2023})=[1+(n/2)^{2023}][1-(n/2)^{2023}]=1-(n/2)^{4046}.}`$

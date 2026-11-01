@@ -27,7 +27,7 @@ M=\begin{pmatrix}a_{11}&a_{12}&a_{13}\\a_{21}&a_{22}&a_{23}\\a_{31}&a_{32}&a_{33
 $`\displaystyle X=\begin{pmatrix}x_1&x_2&x_3\\y_1&y_2&y_3\\1&1&1\end{pmatrix}.`$
 
 
-则 $`MX=\operatorname{diag}(d_1,d_2,d_3)`$。由 Cramer 法则，第三个坐标为 $`1`$ 给出 $`d_1=\det M/\det N=12`$，同理 $`d_2=6,d_3=4`$。于是 $`\det X=12\cdot6\cdot4/12=24`$，故面积为 $`\boxed{\tfrac12|\det X|=12}`$。
+则 $`MX=\mathop{\mathrm{diag}}\nolimits (d_1,d_2,d_3)`$。由 Cramer 法则，第三个坐标为 $`1`$ 给出 $`d_1=\det M/\det N=12`$，同理 $`d_2=6,d_3=4`$。于是 $`\det X=12\cdot6\cdot4/12=24`$，故面积为 $`\boxed{\tfrac12|\det X|=12}`$。
 
 </details>
 

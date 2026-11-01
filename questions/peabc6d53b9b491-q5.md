@@ -21,7 +21,7 @@ AB=\begin{pmatrix}8&0&-4\\-3/2&9&-6\\-2&0&1\end{pmatrix}.
 <details>
 <summary>展开参考解答</summary>
 
-记右侧矩阵为 $`M`$，直接相乘可验证 $`M^2=9M`$，且 $`\operatorname{rank}M=2`$。因此 $`\operatorname{rank}A=\operatorname{rank}B=2`$：$`A:\mathbb R^2\to\mathbb R^3`$ 单射，$`B:\mathbb R^3\to\mathbb R^2`$ 满射。
+记右侧矩阵为 $`M`$，直接相乘可验证 $`M^2=9M`$，且 $`\mathop{\mathrm{rank}}\nolimits M=2`$。因此 $`\mathop{\mathrm{rank}}\nolimits A=\mathop{\mathrm{rank}}\nolimits B=2`$：$`A:\mathbb R^2\to\mathbb R^3`$ 单射，$`B:\mathbb R^3\to\mathbb R^2`$ 满射。
 
 由
 

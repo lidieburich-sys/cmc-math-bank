@@ -13,10 +13,10 @@
 <details>
 <summary>展开参考解答</summary>
 
-由 Sylvester 秩不等式，$`\operatorname{rank}A+\operatorname{rank}B\le n+\operatorname{rank}(BA)=n`$。因 $`n`$ 为奇数，至少一个秩不超过 $`(n-1)/2`$。若是 $`A`$，则
+由 Sylvester 秩不等式，$`\mathop{\mathrm{rank}}\nolimits A+\mathop{\mathrm{rank}}\nolimits B\le n+\mathop{\mathrm{rank}}\nolimits (BA)=n`$。因 $`n`$ 为奇数，至少一个秩不超过 $`(n-1)/2`$。若是 $`A`$，则
 
 
-$`\displaystyle \operatorname{rank}(A+J_A)\le\operatorname{rank}A+\operatorname{rank}J_A =2\operatorname{rank}A\le n-1,`$
+$`\displaystyle \mathop{\mathrm{rank}}\nolimits (A+J_A)\le\mathop{\mathrm{rank}}\nolimits A+\mathop{\mathrm{rank}}\nolimits J_A =2\mathop{\mathrm{rank}}\nolimits A\le n-1,`$
 
 
 故 $`A+J_A`$ 奇异，$`0\in S_1`$。若是 $`B`$，同理 $`0\in S_2`$。

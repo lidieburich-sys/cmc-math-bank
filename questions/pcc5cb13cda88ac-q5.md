@@ -8,11 +8,11 @@
 
 ## 题目
 
-设 $`E\subset\mathbb R^n`$ 非空有界，$`c\in\mathbb R^n\setminus\{0\}`$。记 $`\operatorname{diam}E=\sup_{x,y\in E}\|x-y\|`$，$`E+c=\{x+c:x\in E\}`$。证明
+设 $`E\subset\mathbb R^n`$ 非空有界，$`c\in\mathbb R^n\setminus\{0\}`$。记 $`\mathop{\mathrm{diam}}\nolimits E=\sup_{x,y\in E}\|x-y\|`$，$`E+c=\{x+c:x\in E\}`$。证明
 
 
 ```math
-\operatorname{diam}E<\operatorname{diam}(E\cup(E+c)).
+\mathop{\mathrm{diam}}\nolimits E<\mathop{\mathrm{diam}}\nolimits (E\cup(E+c)).
 ```
 
 <details>
@@ -27,7 +27,7 @@ $`\displaystyle \frac{\|x-y+c\|^2+\|x-y-c\|^2}2=\|x-y\|^2+\|c\|^2.`$
 故并集直径的平方至少为右端。对 $`x,y`$ 取上确界，得到
 
 
-$`\displaystyle \operatorname{diam}(E\cup(E+c))\ge\sqrt{(\operatorname{diam}E)^2+\|c\|^2}>\operatorname{diam}E.`$
+$`\displaystyle \mathop{\mathrm{diam}}\nolimits (E\cup(E+c))\ge\sqrt{(\mathop{\mathrm{diam}}\nolimits E)^2+\|c\|^2}>\mathop{\mathrm{diam}}\nolimits E.`$
 
 </details>
 

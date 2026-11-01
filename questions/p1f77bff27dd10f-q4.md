@@ -24,10 +24,10 @@ AB-BA=A^m.
 对任意整数 $`r\ge0`$，由迹的循环不变性，
 
 
-$`\displaystyle \begin{aligned} \operatorname{tr}(A^{m+r}) &=\operatorname{tr}\bigl(A^r(AB-BA)\bigr)\\ &=\operatorname{tr}(A^{r+1}B)-\operatorname{tr}(A^rBA)=0. \end{aligned}`$
+$`\displaystyle \begin{aligned} \mathop{\mathrm{tr}}\nolimits (A^{m+r}) &=\mathop{\mathrm{tr}}\nolimits \bigl(A^r(AB-BA)\bigr)\\ &=\mathop{\mathrm{tr}}\nolimits (A^{r+1}B)-\mathop{\mathrm{tr}}\nolimits (A^rBA)=0. \end{aligned}`$
 
 
-令 $`C=A^m`$，则 $`\operatorname{tr}(C^j)=0`$ 对每个 $`j\ge1`$ 成立。设 $`C`$ 的特征多项式为
+令 $`C=A^m`$，则 $`\mathop{\mathrm{tr}}\nolimits (C^j)=0`$ 对每个 $`j\ge1`$ 成立。设 $`C`$ 的特征多项式为
 
 
 $`\displaystyle \chi_C(t)=t^n+c_1t^{n-1}+\cdots+c_n.`$
@@ -36,7 +36,7 @@ $`\displaystyle \chi_C(t)=t^n+c_1t^{n-1}+\cdots+c_n.`$
 牛顿恒等式给出
 
 
-$`\displaystyle j c_j+\sum_{i=1}^jc_{j-i}\operatorname{tr}(C^i)=0\quad(1\le j\le n),\qquad c_0=1.`$
+$`\displaystyle j c_j+\sum_{i=1}^jc_{j-i}\mathop{\mathrm{tr}}\nolimits (C^i)=0\quad(1\le j\le n),\qquad c_0=1.`$
 
 
 数域特征为零，故 $`c_1=\cdots=c_n=0`$。由 Cayley--Hamilton 定理，$`C^n=0`$，因而 $`A^{mn}=0`$。所以 $`A`$ 及其每个正整数次幂均幂零，$`A^k`$ 的全部特征值都是零，从而

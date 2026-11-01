@@ -16,7 +16,7 @@
 
 （3）若 $`L\supset\mathbb F_q`$ 为有限域扩张，则 $`\eta_q:L\to L`$、$`x\mapsto x^q`$ 为域自同构，且固定 $`\mathbb F_q`$ 的每个元素；
 
-（4）$`\operatorname{Gal}(L/\mathbb F_q)`$ 为由 $`\eta_q`$ 生成的循环群；
+（4）$`\mathop{\mathrm{Gal}}\nolimits (L/\mathbb F_q)`$ 为由 $`\eta_q`$ 生成的循环群；
 
 （5）$`L^*=L\setminus\{0\}`$ 在乘法下为循环群，特别地存在 $`\alpha\in L`$，使 $`L=\mathbb F_q[\alpha]`$。
 
@@ -29,7 +29,7 @@
 
 （3）设 $`[L:\mathbb F_q]=m`$，则 $`|L|=q^m`$。$`q`$ 次幂映射保持和、积及单位元，且单射；有限性使其满射，所以是自同构。对 $`a\in\mathbb F_q`$，$`a^q=a`$，故它固定基域。
 
-（4）每个 $`x\in L`$ 满足 $`x^{q^m}=x`$，所以 $`\eta_q^m=\operatorname{id}`$。若 $`0<k<m`$ 时 $`\eta_q^k=\operatorname{id}`$，则 $`X^{q^k}-X`$ 有 $`q^m>q^k`$ 个根，矛盾。因此 $`\eta_q`$ 的阶恰为 $`m`$。有限扩张的基域自同构个数至多为其次数 $`m`$，故整个 Galois 群就是 $`\langle\eta_q\rangle`$。
+（4）每个 $`x\in L`$ 满足 $`x^{q^m}=x`$，所以 $`\eta_q^m=\mathop{\mathrm{id}}\nolimits`$。若 $`0<k<m`$ 时 $`\eta_q^k=\mathop{\mathrm{id}}\nolimits`$，则 $`X^{q^k}-X`$ 有 $`q^m>q^k`$ 个根，矛盾。因此 $`\eta_q`$ 的阶恰为 $`m`$。有限扩张的基域自同构个数至多为其次数 $`m`$，故整个 Galois 群就是 $`\langle\eta_q\rangle`$。
 
 （5）取 $`L^*`$ 中阶最大的元素 $`\alpha`$，记其阶为 $`N`$。在有限交换群中，任意两个元素的阶的最小公倍数都可实现为某个元素的阶：分别选取所需的素数幂阶分量后相乘即可。因此最大性的选择说明每个元素的阶都整除 $`N`$。于是所有 $`L^*`$ 元素都是 $`X^N-1`$ 的根，给出 $`|L^*|\le N`$。另一方面 $`N\le|L^*|`$，故 $`N=|L^*|`$，即 $`L^*=\langle\alpha\rangle`$。所有非零元均为 $`\alpha`$ 的幂，遂有 $`L=\mathbb F_q[\alpha]`$。
 
