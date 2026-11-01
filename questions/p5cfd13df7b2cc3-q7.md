@@ -24,17 +24,13 @@ x^2\sin\frac1x=2x-501
 当 $`x\ge1`$ 时，令 $`t=1/x\in(0,1]`$，则
 
 
-$$
-H^{\prime}(x)=\frac{2\sin t}{t}-\cos t-2<-\cos t<0.
-$$
+$`\displaystyle H^{\prime}(x)=\frac{2\sin t}{t}-\cos t-2<-\cos t<0.`$
 
 
 利用 $`t-t^3/6<\sin t<t`$ 可得 $`H(500)>0`$、$`H(501)<0`$，所以唯一根 $`x_*\in(500,501)`$。将同一估计代回原方程，得
 
 
-$$
-501-\frac1{6x_*}<x_*<501,\qquad |x_*-501|<\frac1{3000}<0.001.
-$$
+$`\displaystyle 501-\frac1{6x_*}<x_*<501,\qquad |x_*-501|<\frac1{3000}<0.001.`$
 
 
 故符合精度要求的近似解为 $`\boxed{x\approx501.000}`$。

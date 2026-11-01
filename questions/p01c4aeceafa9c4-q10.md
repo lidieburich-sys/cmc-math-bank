@@ -24,17 +24,13 @@
 记 $`H_n=\sum_{k=1}^n1/k`$。交换有限和的次序并裂项，得
 
 
-$$
-S_N=\sum_{n=1}^N\sum_{k=1}^n\frac{1}{k(n+1)(n+2)}=\sum_{k=1}^N\frac1k\sum_{n=k}^N\left(\frac1{n+1}-\frac1{n+2}\right).
-$$
+$`\displaystyle S_N=\sum_{n=1}^N\sum_{k=1}^n\frac{1}{k(n+1)(n+2)}=\sum_{k=1}^N\frac1k\sum_{n=k}^N\left(\frac1{n+1}-\frac1{n+2}\right).`$
 
 
 所以
 
 
-$$
-S_N=\sum_{k=1}^N\frac1{k(k+1)}-\frac{H_N}{N+2}=1-\frac1{N+1}-\frac{H_N}{N+2}.
-$$
+$`\displaystyle S_N=\sum_{k=1}^N\frac1{k(k+1)}-\frac{H_N}{N+2}=1-\frac1{N+1}-\frac{H_N}{N+2}.`$
 
 
 由 $`H_N\le1+\ln N`$，最后两项均趋于零。因此级数收敛，且 $`\boxed{S=1}`$。

@@ -22,17 +22,13 @@
 对任意整数 $`n\ge1`$，
 
 
-$$
-\int_{n\pi}^{(n+1)\pi}\frac{|\sin x|}{x}\,dx\ge\frac1{(n+1)\pi}\int_{n\pi}^{(n+1)\pi}|\sin x|\,dx=\frac2{(n+1)\pi}.
-$$
+$`\displaystyle \int_{n\pi}^{(n+1)\pi}\frac{|\sin x|}{x}\,dx\ge\frac1{(n+1)\pi}\int_{n\pi}^{(n+1)\pi}|\sin x|\,dx=\frac2{(n+1)\pi}.`$
 
 
 右端组成发散的调和型级数，所以
 
 
-$$
-\int_0^{+\infty}\frac{|\sin x|}{x}\,dx=+\infty.
-$$
+$`\displaystyle \int_0^{+\infty}\frac{|\sin x|}{x}\,dx=+\infty.`$
 
 
 因此原广义积分不绝对收敛。

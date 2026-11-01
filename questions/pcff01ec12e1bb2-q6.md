@@ -24,18 +24,13 @@ f(x)=e^{-x}\int_0^x\frac{t^{2023}}{1+t^2}\,dt.
 在 $`|x|<1`$ 内，积分中的幂级数可逐项积分，得到
 
 
-$$
-\int_0^x\frac{t^{2023}}{1+t^2}dt
-=\sum_{k=0}^\infty\frac{(-1)^kx^{2024+2k}}{2024+2k}.
-$$
+$`\displaystyle \int_0^x\frac{t^{2023}}{1+t^2}dt =\sum_{k=0}^\infty\frac{(-1)^kx^{2024+2k}}{2024+2k}.`$
 
 
 再乘以 $`e^{-x}`$ 的幂级数，结果的最低次数为 2024。因此
 
 
-$$
-\boxed{f^{(n)}(0)=0,\qquad1\le n\le2023}.
-$$
+$`\displaystyle \boxed{f^{(n)}(0)=0,\qquad1\le n\le2023}.`$
 
 </details>
 

@@ -24,25 +24,19 @@ L:\quad\frac{x-1}{1}=\frac{y-1}{0}=\frac{z-1}{1},
 母线方向为 $`(1,0,1)`$。作正交坐标变换
 
 
-$$
-u=\frac{x-z}{\sqrt2},\qquad v=y,\qquad w=\frac{x+z}{\sqrt2}.
-$$
+$`\displaystyle u=\frac{x-z}{\sqrt2},\qquad v=y,\qquad w=\frac{x+z}{\sqrt2}.`$
 
 
 圆柱面在 $`uv`$ 平面上的正截面圆经过三点 $`(0,1)`$、$`(-\sqrt2,0)`$、$`(\sqrt2,-1)`$。设圆方程为 $`u^2+v^2+du+ev+f=0`$，代入三点，解得 $`d=0,e=1,f=-2`$。故
 
 
-$$
-u^2+(v+\tfrac12)^2=\frac94,
-$$
+$`\displaystyle u^2+(v+\tfrac12)^2=\frac94,`$
 
 
 换回原坐标即
 
 
-$$
-\boxed{(x-z)^2+2y^2+2y-4=0.}
-$$
+$`\displaystyle \boxed{(x-z)^2+2y^2+2y-4=0.}`$
 
 
 正截面圆唯一，故这就是所求圆柱面。

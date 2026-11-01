@@ -21,18 +21,13 @@
 令 $`F(t)=\int_0^tf(x)dx`$、$`H(t)=F(t)-f(t)^2`$。因 $`f\ge0`$，
 
 
-$$
-H'(t)=f(t)[1-2f'(t)]\ge0,\qquad H(0)=0,
-$$
+$`\displaystyle H'(t)=f(t)[1-2f'(t)]\ge0,\qquad H(0)=0,`$
 
 
 故 $`f(t)^2\le F(t)`$。于是 $`\beta>1`$，且
 
 
-$$
-\int_0^T f^\alpha(t)dt\le\int_0^Tf(t)F(t)^{(\alpha-1)/2}dt
-=\frac{F(T)^\beta}{\beta}\le F(T)^\beta.
-$$
+$`\displaystyle \int_0^T f^\alpha(t)dt\le\int_0^Tf(t)F(t)^{(\alpha-1)/2}dt =\frac{F(T)^\beta}{\beta}\le F(T)^\beta.`$
 
 
 左侧随 $`T`$ 单增，右侧有有限上界。令 $`T\to\infty`$，即得收敛性及所需不等式。

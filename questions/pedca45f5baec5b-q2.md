@@ -16,17 +16,13 @@
 记原积分为 $`I`$。作代换 $`x=\pi/2-t`$，再将两个表示式相加，得
 
 
-$$
-2I=\int_0^{\pi/2}\left(\frac{\cos x}{1+\tan x}+\frac{\sin x}{1+\cot x}\right)dx=\int_0^{\pi/2}\frac{dx}{\cos x+\sin x}.
-$$
+$`\displaystyle 2I=\int_0^{\pi/2}\left(\frac{\cos x}{1+\tan x}+\frac{\sin x}{1+\cot x}\right)dx=\int_0^{\pi/2}\frac{dx}{\cos x+\sin x}.`$
 
 
 因此
 
 
-$$
-I=\frac1{2\sqrt2}\int_{\pi/4}^{3\pi/4}\csc u\,du=\frac1{2\sqrt2}\left[\ln\tan\frac u2\right]_{\pi/4}^{3\pi/4}=\boxed{\frac1{\sqrt2}\ln(1+\sqrt2)}.
-$$
+$`\displaystyle I=\frac1{2\sqrt2}\int_{\pi/4}^{3\pi/4}\csc u\,du=\frac1{2\sqrt2}\left[\ln\tan\frac u2\right]_{\pi/4}^{3\pi/4}=\boxed{\frac1{\sqrt2}\ln(1+\sqrt2)}.`$
 
 </details>
 

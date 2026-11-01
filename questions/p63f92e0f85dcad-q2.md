@@ -21,26 +21,19 @@
 记
 
 
-$$
-I_k=\int_0^{+\infty}\frac{x^k}{(1+x)^{2021}}\,dx\qquad(1\le k\le2018).
-$$
+$`\displaystyle I_k=\int_0^{+\infty}\frac{x^k}{(1+x)^{2021}}\,dx\qquad(1\le k\le2018).`$
 
 
 各积分在零点及无穷远处均收敛。令 $`x=1/t`$，得到
 
 
-$$
-I_k=\int_0^{+\infty}\frac{t^{2019-k}}{(1+t)^{2021}}\,dt=I_{2019-k}.
-$$
+$`\displaystyle I_k=\int_0^{+\infty}\frac{t^{2019-k}}{(1+t)^{2021}}\,dt=I_{2019-k}.`$
 
 
 将奇数次项 $`x^{2j+1}`$ 与偶数次项 $`-x^{2018-2j}`$ 配对，有
 
 
-$$
-\int_0^{+\infty}\frac{x-x^2+\cdots-x^{2018}}{(1+x)^{2021}}\,dx
-=\sum_{j=0}^{1008}\bigl(I_{2j+1}-I_{2018-2j}\bigr)=\boxed{0}.
-$$
+$`\displaystyle \int_0^{+\infty}\frac{x-x^2+\cdots-x^{2018}}{(1+x)^{2021}}\,dx =\sum_{j=0}^{1008}\bigl(I_{2j+1}-I_{2018-2j}\bigr)=\boxed{0}.`$
 
 </details>
 

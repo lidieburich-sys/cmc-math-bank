@@ -24,17 +24,13 @@
 令 $`b_n=\ln a_n`$，则 $`\liminf b_n=0`$、$`b_n`$ 有界，且 $`n^{-1}\sum_{k=1}^nb_k\to0`$。负部 $`b_n^-:=\max(-b_n,0)\to0`$，故它的算术平均也趋于零。因此
 
 
-$$
-\frac1n\sum_{k=1}^nb_k^+=\frac1n\sum_{k=1}^n(b_k+b_k^-)\to0,\qquad\frac1n\sum_{k=1}^n|b_k|\to0.
-$$
+$`\displaystyle \frac1n\sum_{k=1}^nb_k^+=\frac1n\sum_{k=1}^n(b_k+b_k^-)\to0,\qquad\frac1n\sum_{k=1}^n|b_k|\to0.`$
 
 
 因 $`b_n`$ 有界，指数函数在包含全部 $`b_n`$ 的有界区间上为 Lipschitz，存在 $`C`$ 使 $`|a_n-1|=|e^{b_n}-1|\le C|b_n|`$。从而
 
 
-$$
-\left|\frac1n\sum_{k=1}^na_k-1\right|\le\frac Cn\sum_{k=1}^n|b_k|\longrightarrow0.
-$$
+$`\displaystyle \left|\frac1n\sum_{k=1}^na_k-1\right|\le\frac Cn\sum_{k=1}^n|b_k|\longrightarrow0.`$
 
 </details>
 

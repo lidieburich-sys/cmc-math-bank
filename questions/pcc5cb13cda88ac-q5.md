@@ -21,17 +21,13 @@
 对任意 $`x,y\in E`$，并集内两对点 $`(x+c,y)`$、$`(x,y+c)`$ 的距离平方平均为
 
 
-$$
-\frac{\|x-y+c\|^2+\|x-y-c\|^2}2=\|x-y\|^2+\|c\|^2.
-$$
+$`\displaystyle \frac{\|x-y+c\|^2+\|x-y-c\|^2}2=\|x-y\|^2+\|c\|^2.`$
 
 
 故并集直径的平方至少为右端。对 $`x,y`$ 取上确界，得到
 
 
-$$
-\operatorname{diam}(E\cup(E+c))\ge\sqrt{(\operatorname{diam}E)^2+\|c\|^2}>\operatorname{diam}E.
-$$
+$`\displaystyle \operatorname{diam}(E\cup(E+c))\ge\sqrt{(\operatorname{diam}E)^2+\|c\|^2}>\operatorname{diam}E.`$
 
 </details>
 

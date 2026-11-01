@@ -24,17 +24,13 @@
 用底面 $`D`$（$`z=0`$，法向朝下）补成上半椭球体 $`V`$ 的外边界。底面通量为零，由 Gauss 公式，
 
 
-$$
-I=\iiint_V(x^2+y^2+z^2)\,dV.
-$$
+$`\displaystyle I=\iiint_V(x^2+y^2+z^2)\,dV.`$
 
 
 作变换 $`x=au,y=bv,z=cw`$。单位球内三坐标平方的积分均为 $`4\pi/15`$，而半球取一半，故
 
 
-$$
-I=\boxed{\frac{2\pi abc}{15}(a^2+b^2+c^2)}.
-$$
+$`\displaystyle I=\boxed{\frac{2\pi abc}{15}(a^2+b^2+c^2)}.`$
 
 </details>
 

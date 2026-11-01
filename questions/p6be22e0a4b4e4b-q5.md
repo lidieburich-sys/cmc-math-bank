@@ -16,9 +16,7 @@
 由 $`(1-x-x^2)\sum a_nx^n=1`$ 比较系数，得到 $`a_0=a_1=1`$，$`a_{n+2}=a_{n+1}+a_n`$。因此各项为正且 $`a_n\to\infty`$，并有
 
 
-$$
-\frac{a_{n+1}}{a_na_{n+2}}=\frac1{a_n}-\frac1{a_{n+2}}.
-$$
+$`\displaystyle \frac{a_{n+1}}{a_na_{n+2}}=\frac1{a_n}-\frac1{a_{n+2}}.`$
 
 
 故前 $`N+1`$ 项的和为 $`1/a_0+1/a_1-1/a_{N+1}-1/a_{N+2}`$，极限为 $`\boxed2`$。

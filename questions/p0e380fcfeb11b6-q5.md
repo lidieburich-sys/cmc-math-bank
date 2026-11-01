@@ -26,25 +26,19 @@ f(x_1,x_2,x_3,x_4)=\det\begin{pmatrix}x_1^2&x_2&x_3&x_4\\-x_2&a_{11}&a_{12}&a_{1
 按第一行展开，或用块行列式公式，得
 
 
-$$
-f=-12x_1^2+v^TA^*v,\qquad v=(x_2,x_3,x_4)^T.
-$$
+$`\displaystyle f=-12x_1^2+v^TA^*v,\qquad v=(x_2,x_3,x_4)^T.`$
 
 
 选取 $`\mathbb R^3`$ 的正交基 $`(1,0,-2)^T/\sqrt5`$、$`(2,0,1)^T/\sqrt5`$、$`(0,1,0)^T`$，得到
 
 
-$$
-\boxed{Q=\begin{pmatrix}1&0&0&0\\0&1/\sqrt5&2/\sqrt5&0\\0&0&0&1\\0&-2/\sqrt5&1/\sqrt5&0\end{pmatrix}}.
-$$
+$`\displaystyle \boxed{Q=\begin{pmatrix}1&0&0&0\\0&1/\sqrt5&2/\sqrt5&0\\0&0&0&1\\0&-2/\sqrt5&1/\sqrt5&0\end{pmatrix}}.`$
 
 
 其列向量标准正交，且 $`x=Qy`$ 将原式化为
 
 
-$$
-\boxed{f=-12y_1^2+4y_2^2-6y_3^2-6y_4^2}.
-$$
+$`\displaystyle \boxed{f=-12y_1^2+4y_2^2-6y_3^2-6y_4^2}.`$
 
 </details>
 

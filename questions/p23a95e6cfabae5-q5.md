@@ -16,9 +16,7 @@
 归纳可得 $`0\le y_n\le x/2\le1/2`$。令 $`L=\sqrt{1+x}-1`$，则 $`0\le L\le x/2`$，且 $`L=(x-L^2)/2`$。所以
 
 
-$$
-|y_{n+1}-L|=\frac{y_n+L}2|y_n-L|\le\frac12|y_n-L|.
-$$
+$`\displaystyle |y_{n+1}-L|=\frac{y_n+L}2|y_n-L|\le\frac12|y_n-L|.`$
 
 
 迭代得 $`|y_n-L|\le2^{1-n}|y_1-L|\to0`$，故 $`\boxed{y_n\to\sqrt{1+x}-1}`$。

@@ -20,9 +20,7 @@
 作保持面积的正交坐标变换 $`u=(x+y)/\sqrt2`$、$`v=(x-y)/\sqrt2`$，右支变为 $`uv=1`$、$`u,v>0`$。设弦端点为 $`(a,1/a)`$、$`(ta,1/(ta))`$，其中 $`a>0,t>1`$。梯形面积减去曲线下方面积给出
 
 
-$$
-A=\frac12\left(t-\frac1t\right)-\ln t=:H(t).
-$$
+$`\displaystyle A=\frac12\left(t-\frac1t\right)-\ln t=:H(t).`$
 
 
 因 $`H(1)=0`$、$`H(t)\to\infty`$、$`H^{\prime}(t)=\tfrac12(1-1/t)^2>0`$，面积 $`A`$ 唯一确定 $`t`$，与 $`a`$ 无关。
@@ -30,9 +28,7 @@ $$
 中点为 $`U=(1+t)a/2`$、$`V=(1+1/t)/(2a)`$，因此轨迹为
 
 
-$$
-UV=K,\qquad K=\frac{(1+t)(1+1/t)}4>1.
-$$
+$`\displaystyle UV=K,\qquad K=\frac{(1+t)(1+1/t)}4>1.`$
 
 
 变回原坐标即 $`x^2-y^2=2K`$、$`x>0`$，是一条双曲线的右支。

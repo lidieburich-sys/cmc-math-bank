@@ -19,9 +19,7 @@
 
 
 
-$$
-y'=2y^3+6xy^2y'.
-$$
+$`\displaystyle y'=2y^3+6xy^2y'.`$
 
 
 
@@ -29,9 +27,7 @@ $$
 
 
 
-$$
-\boxed{a+b=3.}
-$$
+$`\displaystyle \boxed{a+b=3.}`$
 
 </details>
 

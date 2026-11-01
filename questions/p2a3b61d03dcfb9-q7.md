@@ -24,17 +24,13 @@
 令 $`g(x)=e^{-2Ax}f(x)^2`$，则 $`g(x)\ge0`$，且
 
 
-$$
-g'(x)=2e^{-2Ax}\bigl(f(x)f'(x)-Af(x)^2\bigr)\le0,
-$$
+$`\displaystyle g'(x)=2e^{-2Ax}\bigl(f(x)f'(x)-Af(x)^2\bigr)\le0,`$
 
 
 因为 $`f(x)f'(x)\le|f(x)||f'(x)|\le Af(x)^2`$。故对 $`x\ge0`$，
 
 
-$$
-0\le g(x)\le g(0)=0.
-$$
+$`\displaystyle 0\le g(x)\le g(0)=0.`$
 
 
 于是 $`f(x)=0`$。

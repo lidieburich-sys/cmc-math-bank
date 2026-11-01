@@ -26,40 +26,30 @@ E_n=\{x\in\mathbb R:f_n(x)=2\},\qquad a_n=\min E_n,\quad b_n=\max E_n\quad(n\ge1
 （1）记 $`f=f_1`$。$`f(x)=f(3-x)`$，故每个 $`f_n`$ 都关于 $`x=3/2`$ 对称，因而 $`a_n+b_n=3`$。又
 
 
-$$
-E_1=\{0,3\},\qquad E_{n+1}=\{x:f(x)\in E_n\}.
-$$
+$`\displaystyle E_1=\{0,3\},\qquad E_{n+1}=\{x:f(x)\in E_n\}.`$
 
 
 各 $`E_n`$ 均有限且非空。对每个 $`y\ge0`$，方程 $`f(x)=y`$ 的最大实根为
 
 
-$$
-r(y)=\frac{3+\sqrt{1+4y}}2\ge2,
-$$
+$`\displaystyle r(y)=\frac{3+\sqrt{1+4y}}2\ge2,`$
 
 
 且 $`r`$ 严格递增。于是
 
 
-$$
-\boxed{b_1=3,\quad b_{n+1}=\frac{3+\sqrt{1+4b_n}}2},
-$$
+$`\displaystyle \boxed{b_1=3,\quad b_{n+1}=\frac{3+\sqrt{1+4b_n}}2},`$
 
 
 
 
-$$
-\boxed{a_1=0,\quad a_{n+1}=\frac{3-\sqrt{13-4a_n}}2}.
-$$
+$`\displaystyle \boxed{a_1=0,\quad a_{n+1}=\frac{3-\sqrt{13-4a_n}}2}.`$
 
 
 （2）令 $`b=2+\sqrt2`$，则 $`r(b)=b`$。当 $`3\le t<b`$ 时，有 $`t<r(t)<b`$，所以 $`b_n`$ 严格递增且以上界 $`b`$ 为界，极限存在。令极限为 $`L\ge3`$，递推式给出 $`L^2-4L+2=0`$，故
 
 
-$$
-\boxed{\lim b_n=2+\sqrt2,\qquad\lim a_n=3-\lim b_n=1-\sqrt2}.
-$$
+$`\displaystyle \boxed{\lim b_n=2+\sqrt2,\qquad\lim a_n=3-\lim b_n=1-\sqrt2}.`$
 
 </details>
 

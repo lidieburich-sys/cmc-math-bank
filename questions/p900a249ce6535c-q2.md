@@ -21,9 +21,7 @@
 记
 
 
-$$
-w(t)=\frac13\bigl(t^3+(1-t)^3\bigr)-t(1-t)=2(t-\tfrac12)^2-\frac16,
-$$
+$`\displaystyle w(t)=\frac13\bigl(t^3+(1-t)^3\bigr)-t(1-t)=2(t-\tfrac12)^2-\frac16,`$
 
 
 $`g(t)=f(t)+f(1-t)`$。凸性保证 $`g`$ 在 $`[1/2,1]`$ 上单调不减：若 $`1/2\le s<t\le1`$，则 $`s,1-s`$ 都是 $`t,1-t`$ 的凸组合，且对应系数互换，两条凸性不等式相加便得 $`g(s)\le g(t)`$。
@@ -31,18 +29,13 @@ $`g(t)=f(t)+f(1-t)`$。凸性保证 $`g`$ 在 $`[1/2,1]`$ 上单调不减：若 
 令 $`c=(1+1/\sqrt3)/2`$。由于 $`w`$ 在 $`[1/2,c]`$ 上非正、在 $`[c,1]`$ 上非负，故
 
 
-$$
-w(t)\bigl(g(t)-g(c)\bigr)\ge0.
-$$
+$`\displaystyle w(t)\bigl(g(t)-g(c)\bigr)\ge0.`$
 
 
 又 $`w(1-t)=w(t)`$，且 $`\int_{1/2}^1w(t)\,dt=0`$，所以
 
 
-$$
-\int_0^1w(t)f(t)\,dt=\int_{1/2}^1w(t)g(t)\,dt
-=\int_{1/2}^1w(t)\bigl(g(t)-g(c)\bigr)\,dt\ge0.
-$$
+$`\displaystyle \int_0^1w(t)f(t)\,dt=\int_{1/2}^1w(t)g(t)\,dt =\int_{1/2}^1w(t)\bigl(g(t)-g(c)\bigr)\,dt\ge0.`$
 
 
 这正是待证不等式。证明不要求 $`f`$ 可微。

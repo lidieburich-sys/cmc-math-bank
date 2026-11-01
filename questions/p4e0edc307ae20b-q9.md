@@ -16,17 +16,13 @@
 设已收集 $`j`$ 张不同票券后，等到下一张新票的抽取次数为 $`T_j`$，则成功概率为 $`(N-j)/N`$，故
 
 
-$$
-\mathbb E T_j=\frac{N}{N-j},\qquad j=0,\ldots,r-1.
-$$
+$`\displaystyle \mathbb E T_j=\frac{N}{N-j},\qquad j=0,\ldots,r-1.`$
 
 
 由期望的线性性，所需总次数的期望为
 
 
-$$
-\boxed{N\sum_{j=0}^{r-1}\frac1{N-j}=N\left(\frac1N+\frac1{N-1}+\cdots+\frac1{N-r+1}\right)},\qquad1\le r\le N.
-$$
+$`\displaystyle \boxed{N\sum_{j=0}^{r-1}\frac1{N-j}=N\left(\frac1N+\frac1{N-1}+\cdots+\frac1{N-r+1}\right)},\qquad1\le r\le N.`$
 
 </details>
 

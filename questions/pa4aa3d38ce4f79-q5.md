@@ -19,49 +19,37 @@
 <details>
 <summary>展开参考解答</summary>
 
-$$
-1-\cos1
-$$
+$`\displaystyle 1-\cos1`$
 
 
 
 
 
-$$
-D:\quad0\le x\le1,\quad x\le y\le\sqrt{x}
-$$
+$`\displaystyle D:\quad0\le x\le1,\quad x\le y\le\sqrt{x}`$
 
 
 
 
 
-$$
-0\le y\le1,\qquad y^2\le x\le y
-$$
+$`\displaystyle 0\le y\le1,\qquad y^2\le x\le y`$
 
 
 
 
 
-$$
-I=\int_0^1dy\int_{y^2}^{y}\frac{\cos y}{y}\,dx
-$$
+$`\displaystyle I=\int_0^1dy\int_{y^2}^{y}\frac{\cos y}{y}\,dx`$
 
 
 
 
 
-$$
-=\int_0^1(1-y)\cos y\,dy
-$$
+$`\displaystyle =\int_0^1(1-y)\cos y\,dy`$
 
 
 
 
 
-$$
-I=\int_0^1\cos y\,dy-\int_0^1y\cos y\,dy=1-\cos1
-$$
+$`\displaystyle I=\int_0^1\cos y\,dy-\int_0^1y\cos y\,dy=1-\cos1`$
 
 </details>
 

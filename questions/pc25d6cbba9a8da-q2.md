@@ -38,18 +38,13 @@ A=a_{n1}F^{n-1}+a_{n-1,1}F^{n-2}+\cdots+a_{21}F+a_{11}I.
 （1）记标准基为 $`e_1,\ldots,e_n`$。由 $`F`$ 的形式，$`F^{j-1}e_1=e_j`$（$`1\le j\le n`$）。令
 
 
-$$
-M=\sum_{k=0}^{n-1}a_{k+1,1}F^k.
-$$
+$`\displaystyle M=\sum_{k=0}^{n-1}a_{k+1,1}F^k.`$
 
 
 则 $`Me_1=Ae_1`$，且 $`M`$ 与 $`F`$ 交换。因此对每个 $`j`$，
 
 
-$$
-Me_j=MF^{j-1}e_1=F^{j-1}Me_1
-=F^{j-1}Ae_1=AF^{j-1}e_1=Ae_j.
-$$
+$`\displaystyle Me_j=MF^{j-1}e_1=F^{j-1}Me_1 =F^{j-1}Ae_1=AF^{j-1}e_1=Ae_j.`$
 
 
 故 $`M=A`$。

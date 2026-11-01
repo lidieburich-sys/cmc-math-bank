@@ -23,9 +23,7 @@
 
 
 
-$$
-z_x=2xf_1+yf_2.
-$$
+$`\displaystyle z_x=2xf_1+yf_2.`$
 
 
 
@@ -33,12 +31,7 @@ $$
 
 
 
-$$
-\begin{aligned}
-z_{xy}&=2x(-2yf_{11}+xf_{12})+f_2+y(-2yf_{21}+xf_{22})\\
-&=\boxed{f_2-4xyf_{11}+2(x^2-y^2)f_{12}+xyf_{22}}.
-\end{aligned}
-$$
+$`\displaystyle \begin{aligned} z_{xy}&=2x(-2yf_{11}+xf_{12})+f_2+y(-2yf_{21}+xf_{22})\\ &=\boxed{f_2-4xyf_{11}+2(x^2-y^2)f_{12}+xyf_{22}}. \end{aligned}`$
 
 </details>
 

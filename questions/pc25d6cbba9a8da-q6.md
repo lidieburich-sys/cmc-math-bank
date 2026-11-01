@@ -21,21 +21,13 @@ I=\iint_{x^2+y^2\le1}\left(\frac{x}{\sqrt{x^2+y^2}}f_x+\frac{y}{\sqrt{x^2+y^2}}f
 极坐标下，被积函数为径向导数 $`f_r`$。对半径 $`r`$ 的圆盘用 Green 公式，
 
 
-$$
-r\int_0^{2\pi}f_r(r,\theta)d\theta
-=\iint_{x^2+y^2\le r^2}(f_{xx}+f_{yy})dxdy
-=\frac{r^6}{6}\int_0^{2\pi}\cos^2\theta\sin^2\theta d\theta
-=\frac{\pi r^6}{24}.
-$$
+$`\displaystyle r\int_0^{2\pi}f_r(r,\theta)d\theta =\iint_{x^2+y^2\le r^2}(f_{xx}+f_{yy})dxdy =\frac{r^6}{6}\int_0^{2\pi}\cos^2\theta\sin^2\theta d\theta =\frac{\pi r^6}{24}.`$
 
 
 因此
 
 
-$$
-I=\int_0^1r\int_0^{2\pi}f_r\,d\theta\,dr
-=\frac\pi{24}\int_0^1r^6dr=\boxed{\frac\pi{168}}.
-$$
+$`\displaystyle I=\int_0^1r\int_0^{2\pi}f_r\,d\theta\,dr =\frac\pi{24}\int_0^1r^6dr=\boxed{\frac\pi{168}}.`$
 
 </details>
 

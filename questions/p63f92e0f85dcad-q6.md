@@ -38,42 +38,32 @@ b_n=\begin{cases}\dfrac1n,&\text{存在 }k\text{ 使得 }n\in\Gamma_k,\\[3pt]\df
 若 $`\Gamma_k\ne\varnothing`$，则 $`\min\Gamma_k\ge k^\alpha`$，因此
 
 
-$$
-\sum_{n=1}^\infty a_n\le\sum_{n=1}^\infty\frac1{n^\alpha}+\sum_{\Gamma_k\ne\varnothing}\frac1{\min\Gamma_k}\le2\sum_{n=1}^\infty\frac1{n^\alpha}<\infty.
-$$
+$`\displaystyle \sum_{n=1}^\infty a_n\le\sum_{n=1}^\infty\frac1{n^\alpha}+\sum_{\Gamma_k\ne\varnothing}\frac1{\min\Gamma_k}\le2\sum_{n=1}^\infty\frac1{n^\alpha}<\infty.`$
 
 
 
 再考察 $`b_n`$。由凸性或伯努利不等式，
 
 
-$$
-\left(k+\frac12\right)^\alpha-k^\alpha=k^\alpha\left[\left(1+\frac1{2k}\right)^\alpha-1\right]\ge\frac\alpha2k^{\alpha-1}>\frac12k^{\alpha-1}.
-$$
+$`\displaystyle \left(k+\frac12\right)^\alpha-k^\alpha=k^\alpha\left[\left(1+\frac1{2k}\right)^\alpha-1\right]\ge\frac\alpha2k^{\alpha-1}>\frac12k^{\alpha-1}.`$
 
 
 取充分大的正整数 $`K`$，使 $`k\ge K`$ 时 $`k^{\alpha-1}\ge4`$。半开区间中整数的个数至少为区间长度减 $`1`$，故
 
 
-$$
-|\Gamma_k|\ge\frac12k^{\alpha-1}-1\ge\frac14k^{\alpha-1}.
-$$
+$`\displaystyle |\Gamma_k|\ge\frac12k^{\alpha-1}-1\ge\frac14k^{\alpha-1}.`$
 
 
 由于 $`n\in\Gamma_k`$ 时 $`n<(k+\tfrac12)^\alpha`$，有
 
 
-$$
-\sum_{n\in\Gamma_k}\frac1n\ge\frac{|\Gamma_k|}{(k+\tfrac12)^\alpha}\ge\frac1{4k}\left(1+\frac1{2k}\right)^{-\alpha}\ge\frac1{4k}\left(\frac32\right)^{-\alpha}.
-$$
+$`\displaystyle \sum_{n\in\Gamma_k}\frac1n\ge\frac{|\Gamma_k|}{(k+\tfrac12)^\alpha}\ge\frac1{4k}\left(1+\frac1{2k}\right)^{-\alpha}\ge\frac1{4k}\left(\frac32\right)^{-\alpha}.`$
 
 
 集合 $`\Gamma_k`$ 两两不交，于是
 
 
-$$
-\sum_{n=1}^\infty b_n\ge\sum_{k=K}^\infty\sum_{n\in\Gamma_k}\frac1n\ge\frac14\left(\frac32\right)^{-\alpha}\sum_{k=K}^\infty\frac1k=+\infty.
-$$
+$`\displaystyle \sum_{n=1}^\infty b_n\ge\sum_{k=K}^\infty\sum_{n\in\Gamma_k}\frac1n\ge\frac14\left(\frac32\right)^{-\alpha}\sum_{k=K}^\infty\frac1k=+\infty.`$
 
 </details>
 

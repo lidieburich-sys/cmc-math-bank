@@ -32,9 +32,7 @@
 先用 Dirichlet 尾积分估计：若 $`h\ge0`$ 单调递减趋于零，$`\lambda>0`$，则
 
 
-$$
-\left|\int_A^\infty h(t)\cos(\lambda t)\,dt\right|\le\frac{2h(A)}\lambda.
-$$
+$`\displaystyle \left|\int_A^\infty h(t)\cos(\lambda t)\,dt\right|\le\frac{2h(A)}\lambda.`$
 
 
 它可由分部求和或第二积分中值定理得到，也保证这些振荡积分收敛。
@@ -42,26 +40,20 @@ $$
 （1）取 $`h(t)=xF(xt)`$、$`\lambda=1`$，则
 
 
-$$
-\left|\int_\varepsilon^\infty xF(xt)\cos t\,dt\right|\le2xF(x\varepsilon)=\frac2\varepsilon(x\varepsilon)F(x\varepsilon)\longrightarrow0.
-$$
+$`\displaystyle \left|\int_\varepsilon^\infty xF(xt)\cos t\,dt\right|\le2xF(x\varepsilon)=\frac2\varepsilon(x\varepsilon)F(x\varepsilon)\longrightarrow0.`$
 
 
 
 （2）记 $`H=F-G`$、$`J(x)=\int_0^\infty H(t)\cos(xt)\,dt`$。由余弦的偶性，只需 $`x\to0^+`$。选 $`n`$ 使 $`1/(n+1)\le x\le1/n`$，记 $`y=1/n`$、$`T=1/x`$。令 $`C=\sup_{t\ge0}t(F(t)+G(t))<\infty`$。在 $`[0,T]`$ 上，
 
 
-$$
-\left|\int_0^TH(t)(\cos xt-\cos yt)\,dt\right|\le|x-y|\int_0^Tt(F(t)+G(t))\,dt\le\frac{C|x-y|}x\le\frac Cn\to0.
-$$
+$`\displaystyle \left|\int_0^TH(t)(\cos xt-\cos yt)\,dt\right|\le|x-y|\int_0^Tt(F(t)+G(t))\,dt\le\frac{C|x-y|}x\le\frac Cn\to0.`$
 
 
 分别对 $`F,G`$ 用尾积分估计，余下两条尾积分之差绝对值不超过
 
 
-$$
-2(F(T)+G(T))(1/x+1/y)\le4T(F(T)+G(T))\longrightarrow0.
-$$
+$`\displaystyle 2(F(T)+G(T))(1/x+1/y)\le4T(F(T)+G(T))\longrightarrow0.`$
 
 
 故 $`J(x)-J(1/n)\to0`$。题设已知 $`J(1/n)\to0`$，所以 $`J(x)\to0`$，证毕。

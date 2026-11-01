@@ -24,17 +24,13 @@ x_{n+1}=\frac12(x_n+f(x_n)).
 令 $`T(u)=(u+f(u))/2`$，则 $`T([a,b])\subset[a,b]`$，且
 
 
-$$
-|T(u)-T(v)|\le\frac{1+L}2|u-v|=:q|u-v|,\qquad q<1.
-$$
+$`\displaystyle |T(u)-T(v)|\le\frac{1+L}2|u-v|=:q|u-v|,\qquad q<1.`$
 
 
 因此 $`|x_{n+1}-x_n|\le q^{n-1}|x_2-x_1|`$。对 $`m>n`$，
 
 
-$$
-|x_m-x_n|\le\frac{q^{n-1}}{1-q}|x_2-x_1|\longrightarrow0.
-$$
+$`\displaystyle |x_m-x_n|\le\frac{q^{n-1}}{1-q}|x_2-x_1|\longrightarrow0.`$
 
 
 所以 $`x_n`$ 为 Cauchy 列，收敛于闭区间内一点 $`x`$。由 Lipschitz 连续性，在递推式中取极限，得到 $`x=(x+f(x))/2`$，故 $`f(x)=x`$。

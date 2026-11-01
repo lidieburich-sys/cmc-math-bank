@@ -21,18 +21,13 @@
 由
 
 
-$$
-\frac{d}{dx}\left(\frac{\sin x}{1+\cos x}\right)=\frac1{1+\cos x},
-$$
+$`\displaystyle \frac{d}{dx}\left(\frac{\sin x}{1+\cos x}\right)=\frac1{1+\cos x},`$
 
 
 可知
 
 
-$$
-\frac{e^x(1+\sin x)}{1+\cos x}
-=\frac{d}{dx}\left(\frac{e^x\sin x}{1+\cos x}\right).
-$$
+$`\displaystyle \frac{e^x(1+\sin x)}{1+\cos x} =\frac{d}{dx}\left(\frac{e^x\sin x}{1+\cos x}\right).`$
 
 
 故所求积分为 $`\boxed{e^{\pi/2}}`$。

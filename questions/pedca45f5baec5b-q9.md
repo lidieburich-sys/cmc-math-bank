@@ -32,9 +32,7 @@ f(x)=\int_0^x\left(1-\frac{[u]}u\right)\,du,
 设 $`N=[x]`$。按单位区间分拆积分，并用 $`k\ln(1+1/k)=1-1/(2k)+O(k^{-2})`$，得
 
 
-$$
-f(x)=N-\sum_{k=1}^{N-1}k\ln\left(1+\frac1k\right)+O(1/x)=\frac12\ln x+O(1).
-$$
+$`\displaystyle f(x)=N-\sum_{k=1}^{N-1}k\ln\left(1+\frac1k\right)+O(1/x)=\frac12\ln x+O(1).`$
 
 
 所以存在正常数 $`C_1,C_2`$，使 $`C_1\sqrt x\le e^{f(x)}\le C_2\sqrt x`$（$`x\ge1`$）。当 $`p>3/2`$ 时，绝对值被积函数不超过 $`C_2x^{1/2-p}`$，故绝对收敛。
@@ -42,17 +40,13 @@ $$
 对任意 $`p>0`$，令 $`\phi(x)=x^2-x^{-2}`$，写成
 
 
-$$
-\frac{e^{f(x)}}{x^p}\cos\phi(x)=h(x)\phi'(x)\cos\phi(x),\qquad h(x)=\frac{e^{f(x)}x^{3-p}}{2(x^4+1)}.
-$$
+$`\displaystyle \frac{e^{f(x)}}{x^p}\cos\phi(x)=h(x)\phi'(x)\cos\phi(x),\qquad h(x)=\frac{e^{f(x)}x^{3-p}}{2(x^4+1)}.`$
 
 
 $`\phi'\cos\phi`$ 的积分是有界函数 $`\sin\phi`$。又
 
 
-$$
-h(x)=\frac12\frac{e^{f(x)}}x\frac{x^{4-p}}{x^4+1}\to0.
-$$
+$`\displaystyle h(x)=\frac12\frac{e^{f(x)}}x\frac{x^{4-p}}{x^4+1}\to0.`$
 
 
 第一个因子 $`e^{f(x)}/x`$ 在 $`[1,\infty)`$ 单调不增，因为其对数的导数在非整数点为 $`1-([x]+1)/x\le0`$；第二个因子对充分大的 $`x`$ 单调递减。因此由 Dirichlet 判别法，原积分收敛。
@@ -60,9 +54,7 @@ $$
 当 $`0<p\le3/2`$ 时，利用 $`|\cos\phi|\ge\cos^2\phi=(1+\cos2\phi)/2`$。同理振荡积分 $`\int_1^\infty e^{f(x)}x^{-p}\cos2\phi(x)\,dx`$ 收敛，而
 
 
-$$
-\int_1^\infty\frac{e^{f(x)}}{x^p}\,dx\ge C_1\int_1^\infty x^{1/2-p}\,dx=+\infty.
-$$
+$`\displaystyle \int_1^\infty\frac{e^{f(x)}}{x^p}\,dx\ge C_1\int_1^\infty x^{1/2-p}\,dx=+\infty.`$
 
 
 故绝对值积分发散。结论：$`\boxed{p>3/2\text{ 时绝对收敛；}\ 0<p\le3/2\text{ 时条件收敛}}`$。

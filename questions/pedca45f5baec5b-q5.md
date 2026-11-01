@@ -24,17 +24,13 @@
 令 $`u=e^y`$，则
 
 
-$$
-(x+1)u'+u=2,\qquad u(0)=1.
-$$
+$`\displaystyle (x+1)u'+u=2,\qquad u(0)=1.`$
 
 
 在包含 $`0`$ 的区间上积分，得 $`((x+1)u)'=2`$，即 $`(x+1)u=2x+C`$。由初值得 $`C=1`$，因此
 
 
-$$
-\boxed{y(x)=\ln\frac{2x+1}{x+1}},\qquad x>-\frac12.
-$$
+$`\displaystyle \boxed{y(x)=\ln\frac{2x+1}{x+1}},\qquad x>-\frac12.`$
 
 
 这里取包含初值点的最大实解区间。

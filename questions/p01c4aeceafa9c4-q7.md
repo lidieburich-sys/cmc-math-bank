@@ -21,17 +21,13 @@
 由 $`f^{\prime}\ge m>0`$，函数 $`f`$ 严格递增。记 $`A=f(a)`$、$`B=f(b)`$，其反函数为 $`\varphi`$，则
 
 
-$$
--\pi\le A\le B\le\pi,\qquad 0<\varphi^{\prime}(t)=\frac1{f^{\prime}(\varphi(t))}\le\frac1m.
-$$
+$`\displaystyle -\pi\le A\le B\le\pi,\qquad 0<\varphi^{\prime}(t)=\frac1{f^{\prime}(\varphi(t))}\le\frac1m.`$
 
 
 令 $`t=f(x)`$，原积分化为 $`\int_A^B\varphi^{\prime}(t)\sin t\,dt`$。其中正半轴上的部分记为 $`P`$，负半轴上的部分记为 $`N`$。由于 $`\sin t`$ 在 $`[0,\pi]`$ 非负、在 $`[-\pi,0]`$ 非正，
 
 
-$$
-0\le P\le\frac1m\int_0^\pi\sin t\,dt=\frac2m,\qquad -\frac2m\le N\le0.
-$$
+$`\displaystyle 0\le P\le\frac1m\int_0^\pi\sin t\,dt=\frac2m,\qquad -\frac2m\le N\le0.`$
 
 
 所以 $`-2/m\le P+N\le2/m`$，即得所证不等式。

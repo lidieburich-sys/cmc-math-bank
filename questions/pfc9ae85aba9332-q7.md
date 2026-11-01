@@ -24,9 +24,7 @@ p(x)=x^n+a_1x^{n-1}+\cdots+a_n,\qquad q(x)=x^m+b_1x^{m-1}+\cdots+b_m.
 设 $`q`$ 的全部复根（计重数）为 $`z_1,\ldots,z_m`$。若每个 $`|z_i|\le2025`$，则由 Vieta 公式，$`|b_k|\le\binom mk2025^k`$，矛盾。因此 $`q`$ 有一根 $`z`$ 满足 $`R=|z|>2025`$，又 $`q\mid p`$，故 $`p(z)=0`$。若所有 $`|a_j|\le2024`$，则
 
 
-$$
-\begin{aligned}0=|p(z)|&\ge R^n-2024(R^{n-1}+\cdots+1)\\&=R^n\left(1-\frac{2024}{R-1}\right)+\frac{2024}{R-1}>0,\end{aligned}
-$$
+$`\displaystyle \begin{aligned}0=|p(z)|&\ge R^n-2024(R^{n-1}+\cdots+1)\\&=R^n\left(1-\frac{2024}{R-1}\right)+\frac{2024}{R-1}>0,\end{aligned}`$
 
 
 矛盾。故至少有一个 $`|a_j|>2024`$。

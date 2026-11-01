@@ -24,25 +24,19 @@ I=\iint_\Sigma(x^3-x)\,dy\,dz+(2y^3-y)\,dz\,dx+(3z^3-z)\,dx\,dy.
 设 $`V`$ 为 $`\Sigma`$ 包围的区域，由高斯公式，
 
 
-$$
-I=\iiint_V(3x^2+6y^2+9z^2-3)\,dV=3\iiint_V(x^2+2y^2+3z^2-1)\,dV.
-$$
+$`\displaystyle I=\iiint_V(3x^2+6y^2+9z^2-3)\,dV=3\iiint_V(x^2+2y^2+3z^2-1)\,dV.`$
 
 
 为使积分最小，应包含被积函数为负的全部区域，并不包含其为正的部分。因此最优区域为 $`x^2+2y^2+3z^2\le1`$，所求曲面为
 
 
-$$
-\boxed{\Sigma:x^2+2y^2+3z^2=1}.
-$$
+$`\displaystyle \boxed{\Sigma:x^2+2y^2+3z^2=1}.`$
 
 
 作代换 $`u=x`$、$`v=\sqrt2y`$、$`w=\sqrt3z`$，再用球坐标，得
 
 
-$$
-I_{\min}=\frac3{\sqrt6}\iiint_{u^2+v^2+w^2\le1}(u^2+v^2+w^2-1)\,du\,dv\,dw=\frac{12\pi}{\sqrt6}\int_0^1(r^2-1)r^2\,dr.
-$$
+$`\displaystyle I_{\min}=\frac3{\sqrt6}\iiint_{u^2+v^2+w^2\le1}(u^2+v^2+w^2-1)\,du\,dv\,dw=\frac{12\pi}{\sqrt6}\int_0^1(r^2-1)r^2\,dr.`$
 
 
 所以 $`\boxed{I_{\min}=-4\sqrt6\pi/15}`$。

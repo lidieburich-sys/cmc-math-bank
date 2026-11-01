@@ -20,25 +20,19 @@
 被积函数非负且不超过 $`e^{-2x}`$，故积分收敛。利用 $`|\sin x|`$ 的周期 $`\pi`$，得到
 
 
-$$
-I=\sum_{k=0}^{\infty}e^{-2k\pi}\int_0^\pi e^{-2t}\sin t\,dt.
-$$
+$`\displaystyle I=\sum_{k=0}^{\infty}e^{-2k\pi}\int_0^\pi e^{-2t}\sin t\,dt.`$
 
 
 而
 
 
-$$
-\int_0^\pi e^{-2t}\sin t\,dt=\left[\frac{e^{-2t}(-2\sin t-\cos t)}5\right]_0^\pi=\frac{1+e^{-2\pi}}5.
-$$
+$`\displaystyle \int_0^\pi e^{-2t}\sin t\,dt=\left[\frac{e^{-2t}(-2\sin t-\cos t)}5\right]_0^\pi=\frac{1+e^{-2\pi}}5.`$
 
 
 所以
 
 
-$$
-\boxed{I=\frac{1+e^{-2\pi}}{5(1-e^{-2\pi})}=\frac{e^{2\pi}+1}{5(e^{2\pi}-1)}}.
-$$
+$`\displaystyle \boxed{I=\frac{1+e^{-2\pi}}{5(1-e^{-2\pi})}=\frac{e^{2\pi}+1}{5(e^{2\pi}-1)}}.`$
 
 </details>
 

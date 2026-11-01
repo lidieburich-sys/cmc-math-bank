@@ -16,9 +16,7 @@
 写 $`a_k=k^2(a+u_k),b_k=k^2(b+v_k)\ (k\ge1)`$，其中 $`u_k,v_k\to0`$，因而有界。两端项 $`(a_0b_n+a_nb_0)/n^5\to0`$。内部和与主项 $`ab\,n^{-5}\sum k^2(n-k)^2`$ 的差，绝对值不超过
 
 
-$$
-\frac Cn\sum_{k=1}^{n-1}(|u_k|+|v_k|)\longrightarrow0.
-$$
+$`\displaystyle \frac Cn\sum_{k=1}^{n-1}(|u_k|+|v_k|)\longrightarrow0.`$
 
 
 由 Riemann 和，主项趋于 $`ab\int_0^1t^2(1-t)^2dt=ab/30`$。故极限为 $`\boxed{ab/30}`$。

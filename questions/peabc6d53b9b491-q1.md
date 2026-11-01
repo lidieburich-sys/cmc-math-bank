@@ -16,9 +16,7 @@
 平面 $`ABC`$ 为 $`x=1`$，其法向量为 $`(1,0,0)`$。所求直线的方向向量 $`(u,v,w)`$ 应满足 $`u=0`$。又 $`\overrightarrow{AD}=(2,1,-1)`$，垂直条件给出 $`2u+v-w=0`$，故可取方向向量 $`(0,1,1)`$。因此直线为
 
 
-$$
-\boxed{(x,y,z)=(3,1,2)+t(0,1,1),\quad t\in\mathbb R}.
-$$
+$`\displaystyle \boxed{(x,y,z)=(3,1,2)+t(0,1,1),\quad t\in\mathbb R}.`$
 
 </details>
 

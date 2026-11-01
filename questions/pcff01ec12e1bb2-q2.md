@@ -24,17 +24,13 @@ f(1+x)-3f(1-x)=4+2x+o(x)\qquad(x\to0).
 令 $`x\to0`$，得 $`-2f(1)=4`$，即 $`f(1)=-2`$。由可微性展开，
 
 
-$$
-f(1+x)-3f(1-x)=-2f(1)+4f'(1)x+o(x),
-$$
+$`\displaystyle f(1+x)-3f(1-x)=-2f(1)+4f'(1)x+o(x),`$
 
 
 所以 $`f'(1)=1/2`$。因此切线为
 
 
-$$
-y+2=\frac12(x-1),\qquad\boxed{x-2y-5=0}.
-$$
+$`\displaystyle y+2=\frac12(x-1),\qquad\boxed{x-2y-5=0}.`$
 
 </details>
 

@@ -34,9 +34,7 @@
 （1）记 $`F_n=\bigcup_{k\ge n}E_k`$，则 $`F_n\downarrow A`$，因而 $`f\mathbf1_{F_n}\to f\mathbf1_A`$ 逐点成立，且
 
 
-$$
-|f\mathbf1_{F_n}|\le |f|\mathbf1_{\cup_kE_k}\in L^1.
-$$
+$`\displaystyle |f\mathbf1_{F_n}|\le |f|\mathbf1_{\cup_kE_k}\in L^1.`$
 
 
 由控制收敛定理得到所求极限。

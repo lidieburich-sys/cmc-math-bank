@@ -16,9 +16,7 @@
 对方程关于 $`x`$ 求偏导，得
 
 
-$$
-z+xz_x=2f_u+yf_v(z+xz_x).
-$$
+$`\displaystyle z+xz_x=2f_u+yf_v(z+xz_x).`$
 
 
 在 $`(x,y)=(1,0)`$ 处，$`z=f(2,0)=3`$，故 $`3+z_x=2\cdot5`$。因此 $`\boxed{z_x(1,0)=7}`$。

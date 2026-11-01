@@ -16,27 +16,18 @@
 取可逆矩阵 $`P,Q`$，使
 
 
-$$
-A=P\begin{pmatrix}E_r&0\\0&0\end{pmatrix}Q,\qquad
-B=Q^{-1}\begin{pmatrix}B_1&B_2\\B_3&B_4\end{pmatrix}P^{-1}.
-$$
+$`\displaystyle A=P\begin{pmatrix}E_r&0\\0&0\end{pmatrix}Q,\qquad B=Q^{-1}\begin{pmatrix}B_1&B_2\\B_3&B_4\end{pmatrix}P^{-1}.`$
 
 
 秩条件说明 $`\operatorname{rank}B_1=\operatorname{rank}B`$，故存在 $`X,Y`$ 使 $`B_2=B_1X,B_3=YB_1`$。因此 $`AB`$ 相似于 $`\begin{pmatrix}B_1&B_1X\\0&0\end{pmatrix}`$，$`BA`$ 相似于 $`\begin{pmatrix}B_1&0\\YB_1&0\end{pmatrix}`$。而
 
 
-$$
-\begin{pmatrix}E&-X\\0&E\end{pmatrix}\begin{pmatrix}B_1&0\\0&0\end{pmatrix}\begin{pmatrix}E&X\\0&E\end{pmatrix}
-=\begin{pmatrix}B_1&B_1X\\0&0\end{pmatrix},
-$$
+$`\displaystyle \begin{pmatrix}E&-X\\0&E\end{pmatrix}\begin{pmatrix}B_1&0\\0&0\end{pmatrix}\begin{pmatrix}E&X\\0&E\end{pmatrix} =\begin{pmatrix}B_1&B_1X\\0&0\end{pmatrix},`$
 
 
 
 
-$$
-\begin{pmatrix}E&0\\Y&E\end{pmatrix}\begin{pmatrix}B_1&0\\0&0\end{pmatrix}\begin{pmatrix}E&0\\-Y&E\end{pmatrix}
-=\begin{pmatrix}B_1&0\\YB_1&0\end{pmatrix}.
-$$
+$`\displaystyle \begin{pmatrix}E&0\\Y&E\end{pmatrix}\begin{pmatrix}B_1&0\\0&0\end{pmatrix}\begin{pmatrix}E&0\\-Y&E\end{pmatrix} =\begin{pmatrix}B_1&0\\YB_1&0\end{pmatrix}.`$
 
 
 两者均相似于同一块对角矩阵，故 $`AB\sim BA`$。

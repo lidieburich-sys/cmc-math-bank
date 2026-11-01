@@ -26,17 +26,13 @@ AB=\begin{pmatrix}8&0&-4\\-3/2&9&-6\\-2&0&1\end{pmatrix}.
 由
 
 
-$$
-A(BA-9I_2)B=M^2-9M=0,
-$$
+$`\displaystyle A(BA-9I_2)B=M^2-9M=0,`$
 
 
 先利用 $`A`$ 的单射性，再利用 $`B`$ 的满射性，得到 $`BA-9I_2=0`$。故
 
 
-$$
-\boxed{BA=\begin{pmatrix}9&0\\0&9\end{pmatrix}}.
-$$
+$`\displaystyle \boxed{BA=\begin{pmatrix}9&0\\0&9\end{pmatrix}}.`$
 
 </details>
 

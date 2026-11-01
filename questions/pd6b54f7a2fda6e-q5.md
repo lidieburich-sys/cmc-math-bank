@@ -24,9 +24,7 @@ u(x)=\int_0^{+\infty}e^{-xt^2}\,dt.
 令 $`s=\sqrt{x}\,t`$，则 $`u(x)=x^{-1/2}I`$，其中 $`I=\int_0^\infty e^{-s^2}\,ds>0`$。用极坐标计算：
 
 
-$$
-I^2=\int_0^{\pi/2}\!d\theta\int_0^\infty e^{-r^2}r\,dr=\frac\pi4.
-$$
+$`\displaystyle I^2=\int_0^{\pi/2}\!d\theta\int_0^\infty e^{-r^2}r\,dr=\frac\pi4.`$
 
 
 所以 $`\boxed{u(x)=\dfrac{\sqrt\pi}{2\sqrt{x}}}`$。

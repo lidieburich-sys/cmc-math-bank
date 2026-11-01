@@ -16,9 +16,7 @@
 由反正切差公式，
 
 
-$$
-\arctan\frac2{4n^2+4n+1}=\arctan(2n+2)-\arctan(2n).
-$$
+$`\displaystyle \arctan\frac2{4n^2+4n+1}=\arctan(2n+2)-\arctan(2n).`$
 
 
 因此前 $`N`$ 项和为 $`\arctan(2N+2)-\arctan2`$。令 $`N\to\infty`$，得到 $`\boxed{\pi/2-\arctan2}`$。

@@ -26,11 +26,7 @@
 （1）利用两函数积分相等，
 
 
-$$
-\int_0^1\frac{f^2}{g}-\int_0^1f
-=\int_0^1\frac{(f-g)^2}{g}
-\ge\frac{\left(\int_0^1|f-g|\right)^2}{\int_0^1g}>0,
-$$
+$`\displaystyle \int_0^1\frac{f^2}{g}-\int_0^1f =\int_0^1\frac{(f-g)^2}{g} \ge\frac{\left(\int_0^1|f-g|\right)^2}{\int_0^1g}>0,`$
 
 
 最后一步为 Cauchy 不等式。
@@ -38,27 +34,19 @@ $$
 （2）设 $`E=\{f\ge g\}`$，$`A=\int_Ef`$、$`B=\int_Eg`$。由积分相等，$`A-B=\delta/2=3/4`$；正下界保证 $`0<B<1/4`$。分别在 $`E`$ 及其补集上用 Cauchy 不等式，得
 
 
-$$
-\int_0^1\frac{f^2}{g}\ge\frac{A^2}{B}+\frac{(1-A)^2}{1-B}
-=1+\frac9{16B(1-B)}>4.
-$$
+$`\displaystyle \int_0^1\frac{f^2}{g}\ge\frac{A^2}{B}+\frac{(1-A)^2}{1-B} =1+\frac9{16B(1-B)}>4.`$
 
 
 为说明下确界可趋近，取 $`0<t<1/4`$，并令
 
 
-$$
-f_t(x)=\begin{cases}2t+3/2,&0\le x<1/2,\\1/2-2t,&1/2\le x\le1,\end{cases}
-\quad g_t(x)=\begin{cases}2t,&0\le x<1/2,\\2-2t,&1/2\le x\le1.\end{cases}
-$$
+$`\displaystyle f_t(x)=\begin{cases}2t+3/2,&0\le x<1/2,\\1/2-2t,&1/2\le x\le1,\end{cases} \quad g_t(x)=\begin{cases}2t,&0\le x<1/2,\\2-2t,&1/2\le x\le1.\end{cases}`$
 
 
 它们满足全部条件，且
 
 
-$$
-\int_0^1\frac{f_t^2}{g_t}=1+\frac9{16t(1-t)}\longrightarrow4\quad(t\to1/4^-).
-$$
+$`\displaystyle \int_0^1\frac{f_t^2}{g_t}=1+\frac9{16t(1-t)}\longrightarrow4\quad(t\to1/4^-).`$
 
 
 故下确界为 $`\boxed4`$，不取到。

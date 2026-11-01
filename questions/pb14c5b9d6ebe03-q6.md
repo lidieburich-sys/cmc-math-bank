@@ -26,12 +26,7 @@ a_{n+1}=\ln\left(e^{a_n}+\frac{a_n-a_{n-1}}{a_{n-1}}\right),\qquad n\ge2.
 利用 $`\ln(1+u)<u`$ 及 $`e^{a_n}>a_n`$，
 
 
-$$
-0<a_{n+1}-a_n
-=\ln\left(1+\frac{a_n-a_{n-1}}{e^{a_n}a_{n-1}}\right)
-<\frac{a_n-a_{n-1}}{a_na_{n-1}}
-=\frac1{a_{n-1}}-\frac1{a_n}.
-$$
+$`\displaystyle 0<a_{n+1}-a_n =\ln\left(1+\frac{a_n-a_{n-1}}{e^{a_n}a_{n-1}}\right) <\frac{a_n-a_{n-1}}{a_na_{n-1}} =\frac1{a_{n-1}}-\frac1{a_n}.`$
 
 
 所以 $`a_{n+1}+1/a_n<a_n+1/a_{n-1}`$。归纳得 $`a_n<a_2+1/a_1`$（$`n\ge3`$），从而有界，并且收敛。

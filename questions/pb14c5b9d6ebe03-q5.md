@@ -18,9 +18,7 @@
 于是 $`A`$ 具有实 Jordan 形，其各块为 $`J=I+N`$。对任意正整数 $`k`$，
 
 
-$$
-J^k-I=N\bigl(kI+\binom{k}{2}N+\cdots\bigr).
-$$
+$`\displaystyle J^k-I=N\bigl(kI+\binom{k}{2}N+\cdots\bigr).`$
 
 
 括号中矩阵可逆且与 $`N`$ 交换，故 $`J^k-I`$ 与 $`N`$ 有相同的各阶幂秩，也就有相同的幂零 Jordan 块大小。因此 $`J^k\sim J`$，对各块取直和即得 $`\boxed{A^k\sim A}`$。

@@ -20,17 +20,13 @@
 由 $`n`$ 为整数及有理化，
 
 
-$$
-\sin\bigl(\pi\sqrt{1+4n^2}\bigr)=\sin\!\left(\pi\sqrt{1+4n^2}-2n\pi\right)=\sin\frac\pi{\sqrt{1+4n^2}+2n}.
-$$
+$`\displaystyle \sin\bigl(\pi\sqrt{1+4n^2}\bigr)=\sin\!\left(\pi\sqrt{1+4n^2}-2n\pi\right)=\sin\frac\pi{\sqrt{1+4n^2}+2n}.`$
 
 
 记右端为 $`t_n`$，则 $`t_n\to0`$，且
 
 
-$$
-nt_n\sim\frac{n\pi}{\sqrt{1+4n^2}+2n}\longrightarrow\frac\pi4.
-$$
+$`\displaystyle nt_n\sim\frac{n\pi}{\sqrt{1+4n^2}+2n}\longrightarrow\frac\pi4.`$
 
 
 故 $`n\ln(1+t_n)\to\pi/4`$，所求极限为 $`\boxed{e^{\pi/4}}`$。

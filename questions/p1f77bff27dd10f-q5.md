@@ -29,17 +29,13 @@ y_{n+1}=\dfrac1{2x_n^2+x_ny_n+y_n^2+1}.
 （1）记 $`D_1=1+x_n^2+x_ny_n+2y_n^2`$、$`D_2=1+2x_n^2+x_ny_n+y_n^2`$、$`s=x_n+y_n>0`$。则
 
 
-$$
-|x_{n+1}-y_{n+1}|=|x_n-y_n|\frac{s}{D_1D_2}.
-$$
+$`\displaystyle |x_{n+1}-y_{n+1}|=|x_n-y_n|\frac{s}{D_1D_2}.`$
 
 
 因为 $`D_1D_2\ge1+3(x_n^2+y_n^2)+2x_ny_n\ge1+s^2\ge2s`$，所以
 
 
-$$
-|x_{n+1}-y_{n+1}|\le\tfrac12|x_n-y_n|.
-$$
+$`\displaystyle |x_{n+1}-y_{n+1}|\le\tfrac12|x_n-y_n|.`$
 
 
 从而差以几何速度趋于零。
@@ -47,9 +43,7 @@ $$
 （2）令 $`h(t)=1/(1+4t^2)`$，并定义
 
 
-$$
-a_0=0,\ b_0=1,\qquad a_{j+1}=h(b_j),\quad b_{j+1}=h(a_j).
-$$
+$`\displaystyle a_0=0,\ b_0=1,\qquad a_{j+1}=h(b_j),\quad b_{j+1}=h(a_j).`$
 
 
 $`h`$ 在 $`[0,1]`$ 上递减。由归纳法，区间 $`[a_j,b_j]`$ 逐次嵌套，且 $`x_{j+1},y_{j+1}\in[a_j,b_j]`$：若两数都在 $`[a_j,b_j]`$，则递推分母介于 $`1+4a_j^2`$ 与 $`1+4b_j^2`$ 之间。
@@ -57,17 +51,13 @@ $`h`$ 在 $`[0,1]`$ 上递减。由归纳法，区间 $`[a_j,b_j]`$ 逐次嵌套
 故 $`a_j\uparrow a`$、$`b_j\downarrow b`$，其中 $`0<a\le b`$，且
 
 
-$$
-a+4ab^2=1,\qquad b+4ba^2=1.
-$$
+$`\displaystyle a+4ab^2=1,\qquad b+4ba^2=1.`$
 
 
 相减得 $`(a-b)(1-4ab)=0`$。若 $`a\ne b`$，则 $`ab=1/4`$，再代回得 $`a+b=1`$，这又迫使 $`a=b=1/2`$，矛盾。因此 $`a=b`$，满足 $`4a^3+a=1`$，其唯一非负解为 $`1/2`$。由夹逼定理，
 
 
-$$
-\boxed{x_n\to\tfrac12,\qquad y_n\to\tfrac12.}
-$$
+$`\displaystyle \boxed{x_n\to\tfrac12,\qquad y_n\to\tfrac12.}`$
 
 </details>
 

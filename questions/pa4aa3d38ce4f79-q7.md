@@ -23,9 +23,7 @@
 
 
 
-$$
-\frac{dv}{du}=\frac{2(2v-u)}{u+v+3}.
-$$
+$`\displaystyle \frac{dv}{du}=\frac{2(2v-u)}{u+v+3}.`$
 
 
 
@@ -33,9 +31,7 @@ $$
 
 
 
-$$
-\frac{dV}{dU}=\frac{2(2V-U)}{U+V}.
-$$
+$`\displaystyle \frac{dV}{dU}=\frac{2(2V-U)}{U+V}.`$
 
 
 
@@ -43,9 +39,7 @@ $$
 
 
 
-$$
-U\frac{dW}{dU}=-\frac{(W-1)(W-2)}{W+1}.
-$$
+$`\displaystyle U\frac{dW}{dU}=-\frac{(W-1)(W-2)}{W+1}.`$
 
 
 
@@ -53,9 +47,7 @@ $$
 
 
 
-$$
-\int\left(-\frac{2}{W-1}+\frac{3}{W-2}\right)\,dW=-\int\frac{dU}{U}.
-$$
+$`\displaystyle \int\left(-\frac{2}{W-1}+\frac{3}{W-2}\right)\,dW=-\int\frac{dU}{U}.`$
 
 
 
@@ -63,9 +55,7 @@ $$
 
 
 
-$$
-\boxed{(y^2-2x^2-3)^3=C(y^2-x^2-1)^2.}
-$$
+$`\displaystyle \boxed{(y^2-2x^2-3)^3=C(y^2-x^2-1)^2.}`$
 
 
 

@@ -32,33 +32,25 @@
 对半空间内任意小球应用 Gauss 公式，得到
 
 
-$$
-\iiint_{B}x\bigl(f''(x)-f'(x)+f(x)-\sin x\bigr)\,dx\,dy\,dz=0.
-$$
+$`\displaystyle \iiint_{B}x\bigl(f''(x)-f'(x)+f(x)-\sin x\bigr)\,dx\,dy\,dz=0.`$
 
 
 被积函数连续，若某点非零，则充分小球内同号，矛盾。因此对所有 $`x>0`$，
 
 
-$$
-f''-f'+f=\sin x.
-$$
+$`\displaystyle f''-f'+f=\sin x.`$
 
 
 齐次方程的特征根为 $`(1\pm i\sqrt3)/2`$，一个特解为 $`\cos x`$，故
 
 
-$$
-f(x)=e^{x/2}\left(C_1\cos\frac{\sqrt3x}{2}+C_2\sin\frac{\sqrt3x}{2}\right)+\cos x.
-$$
+$`\displaystyle f(x)=e^{x/2}\left(C_1\cos\frac{\sqrt3x}{2}+C_2\sin\frac{\sqrt3x}{2}\right)+\cos x.`$
 
 
 两个零点右极限条件分别给出 $`C_1=-1`$、$`C_1+\sqrt3C_2=0`$，所以
 
 
-$$
-\boxed{f(x)=e^{x/2}\left(\frac1{\sqrt3}\sin\frac{\sqrt3x}{2}-\cos\frac{\sqrt3x}{2}\right)+\cos x},\quad x>0.
-$$
+$`\displaystyle \boxed{f(x)=e^{x/2}\left(\frac1{\sqrt3}\sin\frac{\sqrt3x}{2}-\cos\frac{\sqrt3x}{2}\right)+\cos x},\quad x>0.`$
 
 </details>
 

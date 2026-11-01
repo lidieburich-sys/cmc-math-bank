@@ -16,9 +16,7 @@
 原方程要求 $`y>0`$。令 $`z=\ln y`$，则 $`z''=(yy''-(y')^2)/y^2=z`$，故 $`z=C_1e^x+C_2e^{-x}`$。因此全部实解为
 
 
-$$
-\boxed{y(x)=\exp(C_1e^x+C_2e^{-x})},\qquad C_1,C_2\in\mathbb R.
-$$
+$`\displaystyle \boxed{y(x)=\exp(C_1e^x+C_2e^{-x})},\qquad C_1,C_2\in\mathbb R.`$
 
 
 其中包含常值解 $`y\equiv1`$。

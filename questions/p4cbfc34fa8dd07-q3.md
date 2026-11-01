@@ -21,9 +21,7 @@
 被积微分形式为全微分
 
 
-$$
-d\big(e^{\sin x}\cos y+\sin z\big).
-$$
+$`\displaystyle d\big(e^{\sin x}\cos y+\sin z\big).`$
 
 
 起点为 $`(0,0,0)`$，终点为 $`(\pi,\pi,0)`$，故积分等于势函数之差 $`(-1)-1=\boxed{-2}`$。

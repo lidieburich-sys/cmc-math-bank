@@ -28,17 +28,13 @@
 （1）固定 $`z_0\in\mathbb D`$，记 $`a=f(z_0)`$。令 $`\phi_c(z)=(z-c)/(1-\overline c z)`$，则
 
 
-$$
-h=\phi_a\circ f\circ\phi_{z_0}^{-1}
-$$
+$`\displaystyle h=\phi_a\circ f\circ\phi_{z_0}^{-1}`$
 
 
 将 $`\mathbb D`$ 解析映入自身，且 $`h(0)=0`$。由 Schwarz 引理，$`|h'(0)|\le1`$，即
 
 
-$$
-\frac{(1-|z_0|^2)|f'(z_0)|}{1-|f(z_0)|^2}\le1.
-$$
+$`\displaystyle \frac{(1-|z_0|^2)|f'(z_0)|}{1-|f(z_0)|^2}\le1.`$
 
 
 

@@ -21,17 +21,13 @@ f(C)=\begin{pmatrix}a&\varepsilon&&0\\&a&\ddots&\\&&\ddots&\varepsilon\\0&&&a\en
 令 $`N`$ 为上超对角元均为 1 的幂零 Jordan 块，$`J=I+N`$。由 $`f(1)=a,f'(1)=b`$，
 
 
-$$
-W=f(J)=aI+bN+N^2R(N).
-$$
+$`\displaystyle W=f(J)=aI+bN+N^2R(N).`$
 
 
 于是 $`W-aI`$ 幂零，且
 
 
-$$
-(W-aI)^{n-1}=b^{n-1}N^{n-1}\ne0.
-$$
+$`\displaystyle (W-aI)^{n-1}=b^{n-1}N^{n-1}\ne0.`$
 
 
 故 $`W`$ 的 Jordan 型为唯一一个大小为 $`n`$ 的特征值 $`a`$ 的块。目标矩阵 $`V=aI+\varepsilon N`$ 同样如此，因而存在可逆 $`P`$ 使 $`P^{-1}WP=V`$。取 $`C=P^{-1}JP`$，则 $`f(C)=P^{-1}f(J)P=V`$。

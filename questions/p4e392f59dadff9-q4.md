@@ -24,10 +24,7 @@ f_{n+1}(x)=\frac{2f_n(x)^2}{f_n(x)+f_{n-1}(x)},\qquad n\ge1.
 直接整理得
 
 
-$$
-f_{n+1}-\frac32f_n+\frac12f_{n-1}
-=\frac{(f_n-f_{n-1})^2}{2(f_n+f_{n-1})}\ge0.
-$$
+$`\displaystyle f_{n+1}-\frac32f_n+\frac12f_{n-1} =\frac{(f_n-f_{n-1})^2}{2(f_n+f_{n-1})}\ge0.`$
 
 
 积分后有 $`a_{n+1}-a_n\ge(a_n-a_{n-1})/2`$。由 $`a_1\ge a_0`$ 归纳知 $`a_n`$ 单调递增。
@@ -35,10 +32,7 @@ $$
 由正连续性，可取 $`K\ge1`$ 使 $`f_1\le Kf_0`$。令 $`c_1=K`$、$`c_{n+1}=2c_n/(c_n+1)`$，则 $`c_n\ge1`$。因函数 $`2r/(1+r)`$ 递增，由比值递推归纳得 $`f_n\le c_nf_{n-1}`$，所以 $`a_{n+1}\le c_{n+1}a_n`$。进而
 
 
-$$
-c_{n+1}a_{n+1}\le c_{n+1}^2a_n
-=\frac{4c_n^2}{(c_n+1)^2}a_n\le c_na_n.
-$$
+$`\displaystyle c_{n+1}a_{n+1}\le c_{n+1}^2a_n =\frac{4c_n^2}{(c_n+1)^2}a_n\le c_na_n.`$
 
 
 所以 $`a_n\le c_na_n\le Ka_1`$，上界与 $`n`$ 无关。单调有界，故收敛。

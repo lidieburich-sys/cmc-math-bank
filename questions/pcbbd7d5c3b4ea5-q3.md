@@ -21,9 +21,7 @@
 函数 $`\ln(x+\sqrt{x^2+1})`$ 为奇函数，乘以偶函数 $`x^2`$ 后积分仍为零。而
 
 
-$$
-\int_{-1}^1f(x)dx=\int_0^1[f(x)+f(-x)]dx=2.
-$$
+$`\displaystyle \int_{-1}^1f(x)dx=\int_0^1[f(x)+f(-x)]dx=2.`$
 
 
 所以所求为 $`\boxed2`$。

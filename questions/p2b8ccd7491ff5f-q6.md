@@ -24,17 +24,13 @@ A^{2025}=E,\qquad B^{2026}=E,\qquad AB=BA.
 在复数域上考虑 $`W=\ker(A+B+E)`$。若 $`W\ne\{0\}`$，由 $`AB=BA`$，$`W`$ 在 $`A`$ 下不变，故 $`A|_W`$ 有特征向量 $`v\ne0`$，设 $`Av=\lambda v`$。由 $`v\in W`$，有 $`Bv=-(1+\lambda)v=\mu v`$。因此
 
 
-$$
-\lambda^{2025}=1,\quad\mu^{2026}=1,\quad\lambda+\mu+1=0.
-$$
+$`\displaystyle \lambda^{2025}=1,\quad\mu^{2026}=1,\quad\lambda+\mu+1=0.`$
 
 
 特别地，$`|\lambda|=|\mu|=1`$。由 $`|1+\lambda|=1`$，得 $`\operatorname{Re}\lambda=-1/2`$，从而
 
 
-$$
-\{\lambda,\mu\}=\{e^{2\pi i/3},e^{-2\pi i/3}\}.
-$$
+$`\displaystyle \{\lambda,\mu\}=\{e^{2\pi i/3},e^{-2\pi i/3}\}.`$
 
 
 于是 $`\mu`$ 是本原三次单位根，但 $`3\nmid2026`$，与 $`\mu^{2026}=1`$ 矛盾。故 $`W=\{0\}`$，$`A+B+E`$ 可逆。

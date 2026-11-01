@@ -16,17 +16,13 @@
 在切点 $`Q=(u,v,w)`$ 处，椭球的切平面为 $`ux/a^2+vy/b^2+wz/c^2=1`$。切线 $`AQ`$ 位于该平面，故
 
 
-$$
-\frac{x_0u}{a^2}+\frac{y_0v}{b^2}+\frac{z_0w}{c^2}=1.
-$$
+$`\displaystyle \frac{x_0u}{a^2}+\frac{y_0v}{b^2}+\frac{z_0w}{c^2}=1.`$
 
 
 因此所有切点均在平面
 
 
-$$
-\boxed{\Pi:\frac{x_0x}{a^2}+\frac{y_0y}{b^2}+\frac{z_0z}{c^2}=1}.
-$$
+$`\displaystyle \boxed{\Pi:\frac{x_0x}{a^2}+\frac{y_0y}{b^2}+\frac{z_0z}{c^2}=1}.`$
 
 
 反之，若 $`Q\in S\cap\Pi`$，则 $`A`$ 位于 $`Q`$ 的切平面，故 $`AQ`$ 的方向与法向量正交。把 $`Q+t(A-Q)`$ 代入椭球方程，常数项为 $`1`$，一次项为零，二次项为正。因此该直线与椭球仅在 $`t=0`$ 接触，确为切线。于是两交集相等。

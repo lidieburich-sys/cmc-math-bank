@@ -21,17 +21,13 @@ z_{xy}-z_x-z_y+z=0.
 求导并代入 $`u_{xy}=0`$，得
 
 
-$$
-z_{xy}-z_x-z_y+z=e^{ax+by}\big[(b-1)u_x+(a-1)u_y+(ab-a-b+1)u\big].
-$$
+$`\displaystyle z_{xy}-z_x-z_y+z=e^{ax+by}\big[(b-1)u_x+(a-1)u_y+(ab-a-b+1)u\big].`$
 
 
 为使该式对满足条件的 $`u`$ 恒为零，令各项系数为零，得到
 
 
-$$
-\boxed{a=b=1}.
-$$
+$`\displaystyle \boxed{a=b=1}.`$
 
 
 代回时括号内三项均为零，故这组常数满足要求。

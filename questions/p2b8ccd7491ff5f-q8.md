@@ -34,34 +34,26 @@
 （1）令 $`K=(E-BB^T)^{-1}`$。直接展开左边，得
 
 
-$$
-K-AB^TK-KBA^T+AB^TKBA^T-E+AA^T,
-$$
+$`\displaystyle K-AB^TK-KBA^T+AB^TKBA^T-E+AA^T,`$
 
 
 合并后即为所需右边。
 （2）由 $`BB^T-E>0`$ 可知 $`B^TB-E>0`$。利用恒等式
 
 
-$$
-(E-BB^T)^{-1}=E+B(E-B^TB)^{-1}B^T,\qquad E+B^T(E-BB^T)^{-1}B=(E-B^TB)^{-1},
-$$
+$`\displaystyle (E-BB^T)^{-1}=E+B(E-B^TB)^{-1}B^T,\qquad E+B^T(E-BB^T)^{-1}B=(E-B^TB)^{-1},`$
 
 
 将（1）整理为
 
 
-$$
-(AA^T-E)+(A-B)(B^TB-E)^{-1}(A-B)^T=(E-AB^T)(BB^T-E)^{-1}(E-AB^T)^T.
-$$
+$`\displaystyle (AA^T-E)+(A-B)(B^TB-E)^{-1}(A-B)^T=(E-AB^T)(BB^T-E)^{-1}(E-AB^T)^T.`$
 
 
 左边两项记为 $`P,Q`$，均正定，其中 $`Q>0`$ 用到 $`\det(A-B)=1`$。任意 $`n\ge2`$ 阶正定矩阵满足 $`\det(P+Q)>\det P+\det Q`$：令 $`\mu_i>0`$ 为 $`P^{-1/2}QP^{-1/2}`$ 的特征值，则 $`\prod_i(1+\mu_i)>1+\prod_i\mu_i`$。故对上述等式取行列式并乘以 $`\det(BB^T-E)>0`$，得到
 
 
-$$
-\det(E-AB^T)^2>\det(AA^T-E)\det(BB^T-E)+\det(A-B)^2.
-$$
+$`\displaystyle \det(E-AB^T)^2>\det(AA^T-E)\det(BB^T-E)+\det(A-B)^2.`$
 
 
 两负号的行列式符号抵消，且 $`\det(A-B)^2=1`$，结论成立。

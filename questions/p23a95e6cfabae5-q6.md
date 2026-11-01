@@ -27,17 +27,13 @@ f(x)=\begin{cases}-1,&0\le x<a,\\
 反之，逐段积分可得：若 $`a^k\le n<a^{k+1}`$，则
 
 
-$$
-a_n=-\frac{2a}{1+a}+(-1)^k\left(\frac{2a^{k+1}}{1+a}-n\right).
-$$
+$`\displaystyle a_n=-\frac{2a}{1+a}+(-1)^k\left(\frac{2a^{k+1}}{1+a}-n\right).`$
 
 
 取偶数 $`k\to\infty`$，考察整下标区间
 
 
-$$
-\frac{4a^{k+1}}{a+3}\le n<a^{k+1}.
-$$
+$`\displaystyle \frac{4a^{k+1}}{a+3}\le n<a^{k+1}.`$
 
 
 它确实包含在原段中，且其中 $`a_n\le-cn<0`$，$`c=(a-1)/(2(a+1))>0`$。该区间整数个数至少为 $`c_1a^{k+1}`$，其中 $`c_1>0`$ 与 $`k`$ 无关（当 $`k`$ 足够大）。
@@ -45,9 +41,7 @@ $$
 若 $`\beta\le2`$，则这段的同号负项满足
 
 
-$$
--\sum\frac{a_n}{n^\beta}\ge c\sum\frac1n\ge cc_1>0.
-$$
+$`\displaystyle -\sum\frac{a_n}{n^\beta}\ge c\sum\frac1n\ge cc_1>0.`$
 
 
 区间起点趋于无穷，尾段和却不趋零，违反级数的 Cauchy 准则。因此普通收敛也不成立。

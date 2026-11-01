@@ -24,28 +24,19 @@
 系数比值趋于 $`0`$，故收敛半径为 $`+\infty`$，收敛域为 $`\mathbb R`$。令 $`t=x-1`$，由
 
 
-$$
-\frac{n^3+2}{(n+1)!}=\frac1{(n-2)!}+\frac1{n!}+\frac1{(n+1)!}\quad(n\ge2)
-$$
+$`\displaystyle \frac{n^3+2}{(n+1)!}=\frac1{(n-2)!}+\frac1{n!}+\frac1{(n+1)!}\quad(n\ge2)`$
 
 
 （前两项直接核对），得到
 
 
-$$
-S(x)=(t^2+1)e^t+\frac{e^t-1}{t}\quad(t\ne0).
-$$
+$`\displaystyle S(x)=(t^2+1)e^t+\frac{e^t-1}{t}\quad(t\ne0).`$
 
 
 因此
 
 
-$$
-\boxed{S(x)=\begin{cases}
-(x^2-2x+2)e^{x-1}+\dfrac{e^{x-1}-1}{x-1},&x\ne1,\\
-2,&x=1.
-\end{cases}}
-$$
+$`\displaystyle \boxed{S(x)=\begin{cases} (x^2-2x+2)e^{x-1}+\dfrac{e^{x-1}-1}{x-1},&x\ne1,\\ 2,&x=1. \end{cases}}`$
 
 </details>
 

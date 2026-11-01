@@ -19,41 +19,31 @@
 <details>
 <summary>展开参考解答</summary>
 
-$$
-e^2
-$$
+$`\displaystyle e^2`$
 
 
 
 
 
-$$
-\frac{x+3}{x+2}=1+\frac1{x+2}
-$$
+$`\displaystyle \frac{x+3}{x+2}=1+\frac1{x+2}`$
 
 
 
 
 
-$$
-2x-1=2(x+2)-5
-$$
+$`\displaystyle 2x-1=2(x+2)-5`$
 
 
 
 
 
-$$
-\left(1+\frac1{x+2}\right)^{2x-1}=\left[\left(1+\frac1{x+2}\right)^{x+2}\right]^2\left(1+\frac1{x+2}\right)^{-5}
-$$
+$`\displaystyle \left(1+\frac1{x+2}\right)^{2x-1}=\left[\left(1+\frac1{x+2}\right)^{x+2}\right]^2\left(1+\frac1{x+2}\right)^{-5}`$
 
 
 
 
 
-$$
-\lim_{x\to\infty}\left(\frac{x+3}{x+2}\right)^{2x-1}=e^2
-$$
+$`\displaystyle \lim_{x\to\infty}\left(\frac{x+3}{x+2}\right)^{2x-1}=e^2`$
 
 </details>
 

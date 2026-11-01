@@ -32,26 +32,19 @@
 设 $`f(x)=A\prod_{j=1}^k(x-a_j)^{r_j}`$，其中 $`0<a_1<\cdots<a_k`$，$`r_j\ge1`$。当 $`|x|<a_1`$ 时，
 
 
-$$
--\frac{f'(x)}{f(x)}=\sum_{j=1}^k\frac{r_j}{a_j-x}
-=\sum_{n=0}^{\infty}\left(\sum_{j=1}^k\frac{r_j}{a_j^{n+1}}\right)x^n.
-$$
+$`\displaystyle -\frac{f'(x)}{f(x)}=\sum_{j=1}^k\frac{r_j}{a_j-x} =\sum_{n=0}^{\infty}\left(\sum_{j=1}^k\frac{r_j}{a_j^{n+1}}\right)x^n.`$
 
 
 由幂级数系数的唯一性，
 
 
-$$
-c_n=\sum_{j=1}^k\frac{r_j}{a_j^{n+1}}>0.
-$$
+$`\displaystyle c_n=\sum_{j=1}^k\frac{r_j}{a_j^{n+1}}>0.`$
 
 
 记 $`N=\sum_jr_j`$，则
 
 
-$$
-\frac{r_1}{a_1^{n+1}}\le c_n\le\frac{N}{a_1^{n+1}}.
-$$
+$`\displaystyle \frac{r_1}{a_1^{n+1}}\le c_n\le\frac{N}{a_1^{n+1}}.`$
 
 
 两端取 $`n`$ 次方根并令 $`n\to\infty`$，得 $`\sqrt[n]{c_n}\to1/a_1`$，所以所求极限为 $`a_1`$。

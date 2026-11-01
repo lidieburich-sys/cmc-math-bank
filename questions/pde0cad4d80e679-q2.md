@@ -20,9 +20,7 @@
 令 $`M=\begin{pmatrix}A&B/2\\B/2&C\end{pmatrix}`$。新二次型矩阵为 $`M'=Q^{\mathsf T}MQ`$，故
 
 
-$$
-A'C'-\frac{B'^2}4=\det M'=\det M=AC-\frac{B^2}4.
-$$
+$`\displaystyle A'C'-\frac{B'^2}4=\det M'=\det M=AC-\frac{B^2}4.`$
 
 
 因变换不含平移，常数项仍为 $`F`$，结论得证。
@@ -30,9 +28,7 @@ $$
 设 $`Q`$ 的两列为单位正交向量 $`u,v`$，则交叉项系数为 $`2u^{\mathsf T}Mv`$，所以充要条件为 $`\boxed{u^{\mathsf T}Mv=0}`$。具体地，写
 
 
-$$
-Q=\begin{pmatrix}\cos\theta&-\varepsilon\sin\theta\\\sin\theta&\varepsilon\cos\theta\end{pmatrix},\qquad\varepsilon=\pm1,
-$$
+$`\displaystyle Q=\begin{pmatrix}\cos\theta&-\varepsilon\sin\theta\\\sin\theta&\varepsilon\cos\theta\end{pmatrix},\qquad\varepsilon=\pm1,`$
 
 
 则等价于 $`\boxed{(C-A)\sin2\theta+B\cos2\theta=0}`$。

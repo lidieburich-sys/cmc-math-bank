@@ -24,14 +24,7 @@
 因 $`f(x)\ge f(0)>0`$，对任意 $`N>0`$，
 
 
-$$
-\begin{aligned}
-0&\le\int_0^N\frac{dx}{f(x)}-\int_0^N\frac{dx}{f(x)+f'(x)}\\
-&=\int_0^N\frac{f'(x)}{f(x)[f(x)+f'(x)]}dx
-\le\int_0^N\frac{f'(x)}{f(x)^2}dx\\
-&=\frac1{f(0)}-\frac1{f(N)}\le\frac1{f(0)}.
-\end{aligned}
-$$
+$`\displaystyle \begin{aligned} 0&\le\int_0^N\frac{dx}{f(x)}-\int_0^N\frac{dx}{f(x)+f'(x)}\\ &=\int_0^N\frac{f'(x)}{f(x)[f(x)+f'(x)]}dx \le\int_0^N\frac{f'(x)}{f(x)^2}dx\\ &=\frac1{f(0)}-\frac1{f(N)}\le\frac1{f(0)}. \end{aligned}`$
 
 
 所以 $`\int_0^N1/f`$ 对 $`N`$ 单调递增且有统一上界，必有有限极限。

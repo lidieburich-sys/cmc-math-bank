@@ -16,17 +16,13 @@
 设单位轴向为 $`\boldsymbol n=(n_1,n_2,n_3)`$，半顶角为 $`\theta`$。三条坐标轴均为母线，故 $`|n_1|=|n_2|=|n_3|=\cos\theta=1/\sqrt3`$。于是取 $`\varepsilon_i\in\{1,-1\}`$，圆锥为
 
 
-$$
-(\varepsilon_1x+\varepsilon_2y+\varepsilon_3z)^2=x^2+y^2+z^2.
-$$
+$`\displaystyle (\varepsilon_1x+\varepsilon_2y+\varepsilon_3z)^2=x^2+y^2+z^2.`$
 
 
 同时反转三个符号不改变方程，故共有四个圆锥面：
 
 
-$$
-\boxed{xy+xz+yz=0;\quad xy-xz-yz=0;\quad -xy+xz-yz=0;\quad -xy-xz+yz=0}.
-$$
+$`\displaystyle \boxed{xy+xz+yz=0;\quad xy-xz-yz=0;\quad -xy+xz-yz=0;\quad -xy-xz+yz=0}.`$
 
 </details>
 

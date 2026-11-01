@@ -23,24 +23,18 @@
 设 $`n\ge1`$，对任意首一 $`n`$ 次多项式定义
 
 
-$$
-Q(x)=\frac2{na}\big(P(x+a/2)-P(x)\big).
-$$
+$`\displaystyle Q(x)=\frac2{na}\big(P(x+a/2)-P(x)\big).`$
 
 
 最高次项相减后，$`Q`$ 为首一 $`n-1`$ 次多项式。由三角不等式及归纳假设，
 
 
-$$
-\int_b^{b+a}|P(x)|\,dx\ge\int_b^{b+a/2}|P(x+a/2)-P(x)|\,dx
-$$
+$`\displaystyle \int_b^{b+a}|P(x)|\,dx\ge\int_b^{b+a/2}|P(x+a/2)-P(x)|\,dx`$
 
 
 
 
-$$
-=\frac{na}2\int_b^{b+a/2}|Q(x)|\,dx\ge\frac n{2^{n+1}}c_{n-1}a^{n+1}.
-$$
+$`\displaystyle =\frac{na}2\int_b^{b+a/2}|Q(x)|\,dx\ge\frac n{2^{n+1}}c_{n-1}a^{n+1}.`$
 
 
 故可取 $`c_n=n c_{n-1}/2^{n+1}=n!/2^{n(n+3)/2}>0`$。于是题中的下确界至少为 $`c_n`$，证毕。

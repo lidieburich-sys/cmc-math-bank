@@ -16,9 +16,7 @@
 区域为 $`0\le x\le y\le1`$。令 $`x=r\cos\theta,y=r\sin\theta`$，则 $`\pi/4\le\theta\le\pi/2`$、$`0\le r\le1/\sin\theta`$，故所求为
 
 
-$$
-\boxed{\int_{\pi/4}^{\pi/2}d\theta\int_0^{\csc\theta}f(r\cos\theta,r\sin\theta)\,r\,dr}.
-$$
+$`\displaystyle \boxed{\int_{\pi/4}^{\pi/2}d\theta\int_0^{\csc\theta}f(r\cos\theta,r\sin\theta)\,r\,dr}.`$
 
 </details>
 

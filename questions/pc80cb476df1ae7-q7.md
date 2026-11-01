@@ -28,9 +28,7 @@ A=\begin{pmatrix}2&2\\2&a\end{pmatrix},\qquad B=\begin{pmatrix}4&b\\3&1\end{pmat
 （3）$`A`$ 对称，若 $`B=S^{\mathsf T}AS`$ 且 $`S`$ 可逆，则 $`B`$ 必对称，即 $`b=3`$。此时 $`\det B=-5<0`$，惯性指数为一正一负。$`A`$ 的二次型为
 
 
-$$
-2x_1^2+4x_1x_2+ax_2^2=2(x_1+x_2)^2+(a-2)x_2^2.
-$$
+$`\displaystyle 2x_1^2+4x_1x_2+ax_2^2=2(x_1+x_2)^2+(a-2)x_2^2.`$
 
 
 由惯性定律，二者合同当且仅当 $`a<2`$。

@@ -24,25 +24,19 @@ f(x)=-\frac12\left(1+\frac1e\right)+\int_{-1}^1|x-t|e^{-t^2}\,dt.
 由积分的对称性，$`f`$ 是偶函数。对 $`-1<x<1`$，在 $`t=x`$ 处分拆积分可得
 
 
-$$
-f(x)=-\frac12-\frac3{2e}+e^{-x^2}+2x\int_0^x e^{-t^2}\,dt.
-$$
+$`\displaystyle f(x)=-\frac12-\frac3{2e}+e^{-x^2}+2x\int_0^x e^{-t^2}\,dt.`$
 
 
 故
 
 
-$$
-f(0)=\frac{e-3}{2e}<0,\qquad f(1)=-\frac12-\frac1{2e}+2\int_0^1e^{-t^2}\,dt>\frac32-\frac5{2e}>0,
-$$
+$`\displaystyle f(0)=\frac{e-3}{2e}<0,\qquad f(1)=-\frac12-\frac1{2e}+2\int_0^1e^{-t^2}\,dt>\frac32-\frac5{2e}>0,`$
 
 
 其中利用了 $`e^{-t^2}>e^{-t}`$（$`0<t<1`$）。同时
 
 
-$$
-f'(x)=2\int_0^x e^{-t^2}\,dt>0\qquad(0<x<1).
-$$
+$`\displaystyle f'(x)=2\int_0^x e^{-t^2}\,dt>0\qquad(0<x<1).`$
 
 
 连续性与严格单调性说明 $`(0,1)`$ 内恰有一个零点；偶性说明 $`(-1,0)`$ 内也恰有一个零点，而 $`0`$ 不是零点。因此共有且仅有两个实根。

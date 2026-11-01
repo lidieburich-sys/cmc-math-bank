@@ -16,9 +16,7 @@
 以椭球中心为原点并取主轴坐标，写 $`S:x^2/a^2+y^2/b^2+z^2/c^2=1`$，$`V=(\alpha,\beta,\gamma)\ne0`$。在点 $`P=(x,y,z)\in S`$，法向量为 $`(x/a^2,y/b^2,z/c^2)`$。光线相切当且仅当方向与法向量正交，即
 
 
-$$
-\frac\alpha{a^2}x+\frac\beta{b^2}y+\frac\gamma{c^2}z=0.
-$$
+$`\displaystyle \frac\alpha{a^2}x+\frac\beta{b^2}y+\frac\gamma{c^2}z=0.`$
 
 
 所以所有切点都位于这张经过原点、即经过椭球中心的平面内。

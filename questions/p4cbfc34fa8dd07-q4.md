@@ -16,9 +16,7 @@
 写成 $`A=(1-a)I+a\mathbf1\mathbf1^T`$。单位向量 $`\mathbf1/\sqrt n`$ 对应特征值 $`1+(n-1)a`$；其正交补上特征值均为 $`1-a`$。取相应正交特征向量为基，标准形为
 
 
-$$
-\boxed{[1+(n-1)a]y_1^2+(1-a)\sum_{j=2}^ny_j^2}.
-$$
+$`\displaystyle \boxed{[1+(n-1)a]y_1^2+(1-a)\sum_{j=2}^ny_j^2}.`$
 
 </details>
 

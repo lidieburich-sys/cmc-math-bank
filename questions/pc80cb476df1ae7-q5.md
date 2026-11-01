@@ -24,14 +24,7 @@
 所求和为 $`(1+x)^n/(1-x)^4`$ 中 $`x^{n-1}`$ 的系数。用 $`1+x=2-(1-x)`$ 展开，只有前四项可能有贡献，得到
 
 
-$$
-\begin{aligned}
-\sum_{i=0}^{n-1}a_i
-={}&2^n\binom{n+2}{3}-n2^{n-1}\binom{n+1}{2}\\
-&+\binom n2 2^{n-2}n-\binom n3 2^{n-3}\\
-={}&\boxed{\frac{n(n+2)(n+7)}3\,2^{n-4}}.
-\end{aligned}
-$$
+$`\displaystyle \begin{aligned} \sum_{i=0}^{n-1}a_i ={}&2^n\binom{n+2}{3}-n2^{n-1}\binom{n+1}{2}\\ &+\binom n2 2^{n-2}n-\binom n3 2^{n-3}\\ ={}&\boxed{\frac{n(n+2)(n+7)}3\,2^{n-4}}. \end{aligned}`$
 
 
 其中二项式系数 $`\binom nk`$ 在 $`k>n`$ 时按零计，故结果也覆盖 $`n=1,2`$。

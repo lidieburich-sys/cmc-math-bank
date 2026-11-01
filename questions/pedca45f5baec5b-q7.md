@@ -29,17 +29,13 @@
 记 $`D_r=\{x^2+y^2\le r^2\}`$、$`\rho^2=x^2+y^2`$。分部积分（或 Green 公式）给出
 
 
-$$
-\iint_{D_r}(xf_x+yf_y)\,dx\,dy=\frac12\int_{\partial D_r}\rho^2\partial_n f\,ds-\frac12\iint_{D_r}\rho^2\Delta f\,dx\,dy.
-$$
+$`\displaystyle \iint_{D_r}(xf_x+yf_y)\,dx\,dy=\frac12\int_{\partial D_r}\rho^2\partial_n f\,ds-\frac12\iint_{D_r}\rho^2\Delta f\,dx\,dy.`$
 
 
 由于边界上 $`\rho=r`$，且 $`\int_{\partial D_r}\partial_n f\,ds=\iint_{D_r}\Delta f\,dx\,dy`$，上式等于
 
 
-$$
-\frac12\iint_{D_r}(r^2-\rho^2)\rho^2\,dx\,dy=\pi\int_0^r(r^2-\rho^2)\rho^3\,d\rho=\frac\pi{12}r^6.
-$$
+$`\displaystyle \frac12\iint_{D_r}(r^2-\rho^2)\rho^2\,dx\,dy=\pi\int_0^r(r^2-\rho^2)\rho^3\,d\rho=\frac\pi{12}r^6.`$
 
 
 又 $`\tan r-\sin r=\tfrac12r^3+o(r^3)`$，所以极限为 $`\boxed{\pi/3}`$。

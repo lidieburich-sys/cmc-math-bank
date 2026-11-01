@@ -16,17 +16,13 @@
 若存在，则因 $`f>0`$，
 
 
-$$
-\frac d{dx}f(x)^{1-\alpha}=(1-\alpha)f^{-\alpha}f'\le1-\alpha.
-$$
+$`\displaystyle \frac d{dx}f(x)^{1-\alpha}=(1-\alpha)f^{-\alpha}f'\le1-\alpha.`$
 
 
 在 $`[0,x]`$ 上积分（也可对两边差应用中值定理），得
 
 
-$$
-0<f(x)^{1-\alpha}\le f(0)^{1-\alpha}-(\alpha-1)x.
-$$
+$`\displaystyle 0<f(x)^{1-\alpha}\le f(0)^{1-\alpha}-(\alpha-1)x.`$
 
 
 当 $`x>f(0)^{1-\alpha}/(\alpha-1)`$ 时右边为负，矛盾。

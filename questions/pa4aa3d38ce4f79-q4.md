@@ -27,9 +27,7 @@ y=1+\arctan(xy)
 
 
 
-$$
-y'=\frac{xy'+y}{1+x^2y^2}.
-$$
+$`\displaystyle y'=\frac{xy'+y}{1+x^2y^2}.`$
 
 
 
@@ -37,9 +35,7 @@ $$
 
 
 
-$$
-\boxed{y'(0)=1.}
-$$
+$`\displaystyle \boxed{y'(0)=1.}`$
 
 </details>
 

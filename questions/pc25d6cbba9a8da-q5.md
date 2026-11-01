@@ -24,13 +24,7 @@ a_n=\int_0^{\pi/2}t\left|\frac{\sin nt}{\sin t}\right|^3dt.
 利用 $`|\sin nt|\le n\sin t`$（$`0\le t\le\pi/2`$，可由几何级数或归纳证明），以及 $`\sin t\ge2t/\pi`$，把积分在 $`1/n`$ 处分开：
 
 
-$$
-\begin{aligned}
-a_n&\le n^3\int_0^{1/n}t\,dt
-+\frac{\pi^3}{8}\int_{1/n}^{\pi/2}\frac{dt}{t^2}\\
-&\le\left(\frac12+\frac{\pi^3}{8}\right)n.
-\end{aligned}
-$$
+$`\displaystyle \begin{aligned} a_n&\le n^3\int_0^{1/n}t\,dt +\frac{\pi^3}{8}\int_{1/n}^{\pi/2}\frac{dt}{t^2}\\ &\le\left(\frac12+\frac{\pi^3}{8}\right)n. \end{aligned}`$
 
 
 又 $`a_n>0`$，故 $`1/a_n\ge C/n`$，其中 $`C>0`$ 为常数。由调和级数及比较判别法，所给级数发散。

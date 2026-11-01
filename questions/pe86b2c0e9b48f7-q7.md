@@ -18,26 +18,20 @@
 记 $`A=\lim a_n`$。（1）映射 $`F(x)=f(x)+A`$ 在完备空间 $`\mathbb R`$ 上以常数 $`\alpha<1`$ 压缩，故有唯一不动点 $`\xi`$。由中值定理，
 
 
-$$
-|x_{n+1}-\xi|\le\alpha|x_n-\xi|+|a_n-A|.
-$$
+$`\displaystyle |x_{n+1}-\xi|\le\alpha|x_n-\xi|+|a_n-A|.`$
 
 
 该不等式先推出误差有界，再取上极限得 $`L\le\alpha L`$，从而 $`L=0`$，即 $`x_n\to\xi`$。
 （2）仍然收敛。令 $`K=\sup_n|a_n+f(0)|<\infty`$，并设
 
 
-$$
-H(t)=t-\ln\frac{M+1+t}{M+1},\qquad t\ge0.
-$$
+$`\displaystyle H(t)=t-\ln\frac{M+1+t}{M+1},\qquad t\ge0.`$
 
 
 由导数比较（分别在正、负半轴使用中值定理）可得 $`|f(x)-f(0)|\le H(|x|)`$，且 $`H`$ 单调递增。选 $`\beta\ge|x_1|`$，使 $`\ln((M+1+\beta)/(M+1))\ge K`$，则
 
 
-$$
-|x_n|\le\beta\ \Longrightarrow\ |x_{n+1}|\le H(\beta)+K\le\beta.
-$$
+$`\displaystyle |x_n|\le\beta\ \Longrightarrow\ |x_{n+1}|\le H(\beta)+K\le\beta.`$
 
 
 故所有 $`x_n`$ 都在 $`[-\beta,\beta]`$ 内。又 $`|A+f(0)|\le K`$，所以 $`F(x)=f(x)+A`$ 把此闭区间映入自身；在该区间上有一致压缩常数 $`q=(\beta+M)/(\beta+M+1)<1`$。应用（1）的误差论证，得 $`x_n`$ 收敛到 $`F`$ 的唯一不动点。

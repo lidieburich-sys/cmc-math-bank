@@ -24,18 +24,13 @@ du(x,y)=\frac{y\,dx-x\,dy}{3x^2-2xy+3y^2},
 在 $`y\ne0`$ 的局部区域令 $`t=x/y`$，有
 
 
-$$
-du=\frac{dt}{3t^2-2t+3}
-=\frac13\frac{dt}{(t-\tfrac13)^2+\tfrac89}.
-$$
+$`\displaystyle du=\frac{dt}{3t^2-2t+3} =\frac13\frac{dt}{(t-\tfrac13)^2+\tfrac89}.`$
 
 
 积分得
 
 
-$$
-\boxed{u(x,y)=\frac1{2\sqrt2}\arctan\!\left[\frac3{2\sqrt2}\left(\frac xy-\frac13\right)\right]+C}.
-$$
+$`\displaystyle \boxed{u(x,y)=\frac1{2\sqrt2}\arctan\!\left[\frac3{2\sqrt2}\left(\frac xy-\frac13\right)\right]+C}.`$
 
 
 此式为局部原函数；跨越反正切的分支时应相应调整常数。

@@ -20,13 +20,24 @@ def require(condition, message):
 
 
 def math_parts(source):
-    return [(match.group(1) if match.group(1) is not None else match.group(2)).strip()
+    return [' '.join((match.group(1) if match.group(1) is not None else match.group(2)).split())
             for match in MATH.finditer(source)]
 
 
-def rendered_math_parts(markdown):
-    return [next(group for group in match.groups() if group is not None).strip()
-            for match in RENDERED_MATH.finditer(markdown)]
+def rendered_math_parts(markdown, collapsed_source=None):
+    parts = [next(group for group in match.groups() if group is not None).strip()
+             for match in RENDERED_MATH.finditer(markdown)]
+    if collapsed_source is not None:
+        original = list(MATH.finditer(collapsed_source))
+        require(len(parts) == len(original), 'Collapsed formula count changed')
+        for index, match in enumerate(original):
+            if match.group(1) is not None:
+                prefix = '\\displaystyle '
+                require(parts[index].startswith(prefix), 'Collapsed block is missing automatic displaystyle')
+                # Remove only the prefix added for an original display block.
+                # Any original displaystyle command remains part of the formula.
+                parts[index] = parts[index][len(prefix):]
+    return [' '.join(part.split()) for part in parts]
 
 
 data = load_data()
@@ -51,9 +62,9 @@ for question in questions:
     for field in ('question', 'answer'):
         source = question[field]
         require(source.strip(), f'Empty {field}: {identifier}')
-        markdown = github_math(source, display_style='dollars' if field == 'answer' else 'fence')
+        markdown = github_math(source, display_style='display_inline' if field == 'answer' else 'fence')
         original_parts = math_parts(source)
-        require(original_parts == rendered_math_parts(markdown), f'Math changed: {identifier}/{field}')
+        require(original_parts == rendered_math_parts(markdown, source if field == 'answer' else None), f'Math changed: {identifier}/{field}')
         source_prose = MATH.sub(' FORMULA ', source)
         output_prose = RENDERED_MATH.sub(' FORMULA ', markdown)
         require(' '.join(source_prose.split()) == ' '.join(output_prose.split()), f'Prose changed: {identifier}/{field}')
@@ -98,7 +109,8 @@ for name, expected in expected_files.items():
         answer = re.search(r'<details>\n<summary>.*?</summary>\n\n(.*?)\n\n</details>', expected, re.S)
         require(answer is not None, f'Missing blank lines around collapsed answer: {name}')
         require('```math' not in answer.group(1), f'Math fence inside collapsed answer: {name}')
-        require(rendered_math_parts(answer.group(1)) == math_parts(by_id[path.stem]['answer']),
+        require(not re.search(r'^\$\$$', answer.group(1), re.M), f'Dollar block inside collapsed answer: {name}')
+        require(rendered_math_parts(answer.group(1), by_id[path.stem]['answer']) == math_parts(by_id[path.stem]['answer']),
                 f'Collapsed answer formula mismatch: {name}')
 for directory, members in [('questions', by_id), ('papers', paper_ids), ('topics', topic_ids)]:
     actual = {path.stem for path in (ROOT / directory).glob('*.md') if path.name != 'README.md'}

@@ -24,32 +24,19 @@ I=\iiint_\Omega\frac{xyz}{x^2+y^2}\,dx\,dy\,dz,
 用球坐标
 
 
-$$
-x=\rho\sin\varphi\cos\theta,\quad y=\rho\sin\varphi\sin\theta,\quad z=\rho\cos\varphi.
-$$
+$`\displaystyle x=\rho\sin\varphi\cos\theta,\quad y=\rho\sin\varphi\sin\theta,\quad z=\rho\cos\varphi.`$
 
 
 积分区域为
 
 
-$$
-0\le\theta,\varphi\le\frac\pi2,\qquad
-0\le\rho\le\sqrt{2\sin^2\varphi\sin\theta\cos\theta}.
-$$
+$`\displaystyle 0\le\theta,\varphi\le\frac\pi2,\qquad 0\le\rho\le\sqrt{2\sin^2\varphi\sin\theta\cos\theta}.`$
 
 
 于是
 
 
-$$
-\begin{aligned}
-I&=\int_0^{\pi/2}\int_0^{\pi/2}\int_0^{\sqrt{2\sin^2\varphi\sin\theta\cos\theta}}
-\rho^3\sin\varphi\cos\varphi\sin\theta\cos\theta\,d\rho\,d\varphi\,d\theta\\
-&=\left(\int_0^{\pi/2}\sin^3\theta\cos^3\theta\,d\theta\right)
-\left(\int_0^{\pi/2}\sin^5\varphi\cos\varphi\,d\varphi\right)
-=\frac1{12}\cdot\frac16=\boxed{\frac1{72}}.
-\end{aligned}
-$$
+$`\displaystyle \begin{aligned} I&=\int_0^{\pi/2}\int_0^{\pi/2}\int_0^{\sqrt{2\sin^2\varphi\sin\theta\cos\theta}} \rho^3\sin\varphi\cos\varphi\sin\theta\cos\theta\,d\rho\,d\varphi\,d\theta\\ &=\left(\int_0^{\pi/2}\sin^3\theta\cos^3\theta\,d\theta\right) \left(\int_0^{\pi/2}\sin^5\varphi\cos\varphi\,d\varphi\right) =\frac1{12}\cdot\frac16=\boxed{\frac1{72}}. \end{aligned}`$
 
 </details>
 

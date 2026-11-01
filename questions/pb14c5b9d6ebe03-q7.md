@@ -24,17 +24,13 @@ x''+f(x')+g(x)=0
 若 $`x(t)`$ 为周期 $`T>0`$ 的解，则 $`x'`$ 也为 $`T`$ 周期函数。定义
 
 
-$$
-E(t)=\frac12x'(t)^2+\int_0^{x(t)}g(s)\,ds.
-$$
+$`\displaystyle E(t)=\frac12x'(t)^2+\int_0^{x(t)}g(s)\,ds.`$
 
 
 由方程，
 
 
-$$
-E'(t)=x'(t)\bigl(x''(t)+g(x(t))\bigr)=-x'(t)f(x'(t))\le0.
-$$
+$`\displaystyle E'(t)=x'(t)\bigl(x''(t)+g(x(t))\bigr)=-x'(t)f(x'(t))\le0.`$
 
 
 又 $`E(0)=E(T)`$，所以 $`E`$ 在一个周期内为常数，$`x'f(x')\equiv0`$。由严格符号条件，$`x'\equiv0`$，故 $`x`$ 为常数，矛盾。

@@ -24,40 +24,30 @@ U=\{(a_{ij})_{3\times3}\mid a_{ij}\in R\}.
 用 $`|E|`$ 表示有限集合 $`E`$ 的元素个数，显然 $`|U|=5^9`$。在 $`U`$ 中构造四个两两不交的集合：
 
 
-$$
-D=\{\operatorname{diag}(r_1,r_2,r_3):r_i\in R\},\qquad J=\{E,9E\},
-$$
+$`\displaystyle D=\{\operatorname{diag}(r_1,r_2,r_3):r_i\in R\},\qquad J=\{E,9E\},`$
 
 
 其中 $`E`$ 为所有元素均为 $`1`$ 的三阶矩阵；并令
 
 
-$$
-L=\left\{\begin{pmatrix}1&t&0\\0&1&0\\0&0&r\end{pmatrix}:r\in R,\ t\in\{1,4\}\right\},
-$$
+$`\displaystyle L=\left\{\begin{pmatrix}1&t&0\\0&1&0\\0&0&r\end{pmatrix}:r\in R,\ t\in\{1,4\}\right\},`$
 
 
 
 
-$$
-H=\left\{\begin{pmatrix}r&0&0\\0&1&0\\0&t&1\end{pmatrix}:r\in R,\ t\in\{1,4\}\right\}.
-$$
+$`\displaystyle H=\left\{\begin{pmatrix}r&0&0\\0&1&0\\0&t&1\end{pmatrix}:r\in R,\ t\in\{1,4\}\right\}.`$
 
 
 这四个集合各自内部任意两个矩阵均可交换，且
 
 
-$$
-|D|=5^3,\qquad |J|=2,\qquad |L|=|H|=10.
-$$
+$`\displaystyle |D|=5^3,\qquad |J|=2,\qquad |L|=|H|=10.`$
 
 
 记 $`T=D\cup J\cup L\cup H`$，则 $`|U\setminus T|=5^9-5^3-22`$。若 $`S`$ 中任意两个不同元素均不可交换，则 $`S`$ 与 $`D,J,L,H`$ 的交集各至多含一个元素，所以 $`|S\cap T|\le4`$。因此
 
 
-$$
-|S|\le |S\cap T|+|U\setminus T|\le4+5^9-5^3-22=5^9-5^3-18,
-$$
+$`\displaystyle |S|\le |S\cap T|+|U\setminus T|\le4+5^9-5^3-22=5^9-5^3-18,`$
 
 
 与假设矛盾，故结论成立。

@@ -21,9 +21,7 @@
 令 $`u=\sqrt[3]{1-\cos x}`$，则 $`u\to0`$。分子可写成
 
 
-$$
-\ln\!\left(1+ue^{-\sin x}\right)\sim ue^{-\sin x}\sim u,
-$$
+$`\displaystyle \ln\!\left(1+ue^{-\sin x}\right)\sim ue^{-\sin x}\sim u,`$
 
 
 而分母 $`\arctan(4u)\sim4u`$，故所求极限为 $`\boxed{\tfrac14}`$。

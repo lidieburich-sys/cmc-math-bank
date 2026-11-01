@@ -18,9 +18,7 @@
 （1）求导得
 
 
-$$
-f'(x)=2\sin^2x(3-4\sin^2x).
-$$
+$`\displaystyle f'(x)=2\sin^2x(3-4\sin^2x).`$
 
 
 故在 $`(0,\pi/3)`$、$`(2\pi/3,\pi)`$ 严格递增，在 $`(\pi/3,2\pi/3)`$ 严格递减。
@@ -28,17 +26,13 @@ $$
 （2）令 $`u=\sin^2t\in[0,1]`$，则
 
 
-$$
-\sin^2t\sin^2(2t)=4u^2(1-u)\le\frac{16}{27},
-$$
+$`\displaystyle \sin^2t\sin^2(2t)=4u^2(1-u)\le\frac{16}{27},`$
 
 
 最大值在 $`u=2/3`$ 取得。将 $`a_n`$ 的相邻因子两两配对，剩余的一个因子不超过 $`1`$，可得
 
 
-$$
-0\le a_n\le\left(\frac{16}{27}\right)^{\lfloor(n+1)/2\rfloor}.
-$$
+$`\displaystyle 0\le a_n\le\left(\frac{16}{27}\right)^{\lfloor(n+1)/2\rfloor}.`$
 
 
 右端的级数为收敛的几何级数分组，所以对每个实数 $`x`$，原级数均收敛。

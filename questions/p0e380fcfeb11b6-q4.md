@@ -26,17 +26,13 @@ f(x)>f(x_0)+f^{\prime}(x_0)(x-x_0),
 由非仿射性，可取 $`a<u<v<w<b`$，使图像三点不共线。令 $`\ell`$ 为连接两端点的直线。不妨先设 $`h=f(v)-\ell(v)>0`$。取足够小的 $`\varepsilon>0`$，令
 
 
-$$
-p(x)=\ell(x)+h-\varepsilon(x-v)^2,
-$$
+$`\displaystyle p(x)=\ell(x)+h-\varepsilon(x-v)^2,`$
 
 
 使 $`p(u)>f(u)`$、$`p(w)>f(w)`$，而 $`p(v)=f(v)`$。函数 $`p-f`$ 在 $`[u,w]`$ 的最小值 $`m\le0`$ 于内点 $`\xi`$ 达到，所以 $`p^{\prime}(\xi)=f^{\prime}(\xi)`$。对全部 $`x\in[u,w]`$，
 
 
-$$
-f(x)\le p(x)-m=f(\xi)+f^{\prime}(\xi)(x-\xi)-\varepsilon(x-\xi)^2.
-$$
+$`\displaystyle f(x)\le p(x)-m=f(\xi)+f^{\prime}(\xi)(x-\xi)-\varepsilon(x-\xi)^2.`$
 
 
 当 $`x\ne\xi`$ 时严格小于切线，故 $`\xi`$ 为凸点。如果 $`h<0`$，对 $`-f`$ 作同样论证，得到 $`f`$ 的凹点。

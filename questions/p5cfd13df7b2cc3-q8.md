@@ -24,25 +24,19 @@
 切线方程为 $`Y-f(x)=f^{\prime}(x)(X-x)`$，故
 
 
-$$
-u=x-\frac{f(x)}{f^{\prime}(x)}.
-$$
+$`\displaystyle u=x-\frac{f(x)}{f^{\prime}(x)}.`$
 
 
 记 $`A=f^{\prime\prime}(0)>0`$。由二阶可导及初值，
 
 
-$$
-f(x)=\frac A2x^2+o(x^2),\qquad f^{\prime}(x)=Ax+o(x).
-$$
+$`\displaystyle f(x)=\frac A2x^2+o(x^2),\qquad f^{\prime}(x)=Ax+o(x).`$
 
 
 于是 $`u/x\to1/2`$，特别地 $`u\to0`$。再由 $`f(u)\sim Au^2/2`$、$`\sin u\sim u`$，有
 
 
-$$
-\frac{x^3f(u)}{f(x)\sin^3u}\sim\frac{x^3u^2}{x^2u^3}=\frac xu\longrightarrow\boxed{2}.
-$$
+$`\displaystyle \frac{x^3f(u)}{f(x)\sin^3u}\sim\frac{x^3u^2}{x^2u^3}=\frac xu\longrightarrow\boxed{2}.`$
 
 </details>
 

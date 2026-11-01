@@ -16,9 +16,7 @@
 设 $`fv=\lambda v`$，$`v\ne0`$。取 $`g`$-循环子空间 $`W=\operatorname{span}\{v,gv,g^2v,\ldots\}`$，设其维数为 $`m`$，则 $`v,gv,\ldots,g^{m-1}v`$ 为一组基。由 $`fg=(g+I)f`$ 归纳得
 
 
-$$
-fg^jv=(g+I)^jfv=\lambda\sum_{k=0}^j\binom jk g^kv.
-$$
+$`\displaystyle fg^jv=(g+I)^jfv=\lambda\sum_{k=0}^j\binom jk g^kv.`$
 
 
 故 $`W`$ 在 $`f,g`$ 下均不变，且 $`f|_W`$ 的矩阵为对角元全是 $`\lambda`$ 的上三角矩阵。把 $`fg-gf=f`$ 限制在 $`W`$ 上并取迹，得 $`0=\operatorname{tr}(f|_W)=m\lambda`$，所以 $`\lambda=0`$。

@@ -22,9 +22,7 @@ x^3+3x^2y-2y^3=2
 隐式求导得
 
 
-$$
-y^{\prime}=\frac{x(x+2y)}{2y^2-x^2}.
-$$
+$`\displaystyle y^{\prime}=\frac{x(x+2y)}{2y^2-x^2}.`$
 
 
 令 $`y^{\prime}=0`$，得 $`x=0`$ 或 $`x=-2y`$。代入原方程，驻点分别为 $`(0,-1)`$、$`(-2,1)`$，且两点均有 $`2y^2-x^2\ne0`$。
@@ -32,17 +30,13 @@ $$
 在驻点处 $`y^{\prime}=0`$，再次求导可得
 
 
-$$
-y^{\prime\prime}=\frac{2x+2y}{2y^2-x^2}.
-$$
+$`\displaystyle y^{\prime\prime}=\frac{2x+2y}{2y^2-x^2}.`$
 
 
 故 $`(0,-1)`$ 处 $`y^{\prime\prime}=-1<0`$，$`(-2,1)`$ 处 $`y^{\prime\prime}=1>0`$。所以
 
 
-$$
-\boxed{y(0)=-1\text{ 为极大值，}\qquad y(-2)=1\text{ 为极小值}}.
-$$
+$`\displaystyle \boxed{y(0)=-1\text{ 为极大值，}\qquad y(-2)=1\text{ 为极小值}}.`$
 
 </details>
 

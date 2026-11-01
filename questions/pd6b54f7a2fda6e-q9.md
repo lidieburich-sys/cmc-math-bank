@@ -24,11 +24,7 @@
 （1）若处处 $`|f|\le4`$，则
 
 
-$$
-1=\int_0^1\left(x-\frac12\right)f(x)\,dx
-\le\int_0^1\left|x-\frac12\right||f(x)|\,dx
-\le4\int_0^1\left|x-\frac12\right|\,dx=1.
-$$
+$`\displaystyle 1=\int_0^1\left(x-\frac12\right)f(x)\,dx \le\int_0^1\left|x-\frac12\right||f(x)|\,dx \le4\int_0^1\left|x-\frac12\right|\,dx=1.`$
 
 
 于是 $`\int_0^1|x-\tfrac12|(4-|f(x)|)\,dx=0`$。非负连续被积函数只能恒为零，结合连续性得 $`|f|\equiv4`$。连续函数不能在 $`4`$ 与 $`-4`$ 之间跳跃，故 $`f\equiv4`$ 或 $`f\equiv-4`$，与积分为零矛盾。

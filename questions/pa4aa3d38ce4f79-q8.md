@@ -25,9 +25,7 @@
 
 
 
-$$
-\frac12S''(x)=\sum_{n=1}^{\infty}(-1)^{n-1}x^{2n-2}=\frac{1}{1+x^2}.
-$$
+$`\displaystyle \frac12S''(x)=\sum_{n=1}^{\infty}(-1)^{n-1}x^{2n-2}=\frac{1}{1+x^2}.`$
 
 
 
@@ -35,17 +33,13 @@ $$
 
 
 
-$$
-S'(x)=2\int_0^x\frac{1}{1+s^2}\,ds=2\arctan x,
-$$
+$`\displaystyle S'(x)=2\int_0^x\frac{1}{1+s^2}\,ds=2\arctan x,`$
 
 
 
 
 
-$$
-S(x)=2\int_0^x\arctan s\,ds=2x\arctan x-\ln(1+x^2).
-$$
+$`\displaystyle S(x)=2\int_0^x\arctan s\,ds=2x\arctan x-\ln(1+x^2).`$
 
 
 
@@ -53,9 +47,7 @@ $$
 
 
 
-$$
-\boxed{S(x)=2x\arctan x-\ln(1+x^2),\qquad -1\le x\le1.}
-$$
+$`\displaystyle \boxed{S(x)=2x\arctan x-\ln(1+x^2),\qquad -1\le x\le1.}`$
 
 </details>
 
