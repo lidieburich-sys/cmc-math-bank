@@ -18,9 +18,9 @@
 （1）由中值定理，所有 $`f_n`$ 都满足共同的 Lipschitz 界 $`|f_n(x)-f_n(y)|\le M|x-y|`$。给定 $`\varepsilon>0`$，取有限网格使每个点到某个网格点的距离小于 $`\varepsilon/[3(M+1)]`$。由网格点处的逐点收敛，存在 $`N`$，使 $`m,n>N`$ 时所有网格点上 $`|f_m-f_n|<\varepsilon/3`$。于是任意 $`x`$ 处，
 
 
-```math
+$$
 |f_m(x)-f_n(x)|\le M|x-x_j|+\varepsilon/3+M|x-x_j|<\varepsilon.
-```
+$$
 
 
 所以序列一致满足 Cauchy 准则，从而一致收敛。

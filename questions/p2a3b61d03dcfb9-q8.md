@@ -21,18 +21,18 @@ I=\int_0^{2\pi}d\varphi\int_0^\pi e^{\sin\theta(\cos\varphi-\sin\varphi)}\sin\th
 令 $`\Sigma:x^2+y^2+z^2=1`$。由球面参数方程及 $`dS=\sin\theta\,d\theta\,d\varphi`$，
 
 
-```math
+$$
 I=\iint_\Sigma e^{x-y}\,dS.
-```
+$$
 
 
 将球面坐标的极轴转到单位向量 $`(1,-1,0)/\sqrt2`$ 的方向，记对应坐标 $`t=(x-y)/\sqrt2`$。单位球面上高度介于 $`t,t+dt`$ 的球带面积为 $`2\pi\,dt`$，故
 
 
-```math
+$$
 I=2\pi\int_{-1}^{1}e^{\sqrt2t}\,dt
 =\boxed{\sqrt2\pi\left(e^{\sqrt2}-e^{-\sqrt2}\right)}.
-```
+$$
 
 </details>
 

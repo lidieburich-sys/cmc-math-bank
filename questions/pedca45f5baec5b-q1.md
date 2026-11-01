@@ -16,9 +16,9 @@
 由 $`0<\ln(1+t)<t`$（$`t>0`$），$`x_n`$ 正且严格递减，其极限满足 $`\ell=\ln(1+\ell)`$，故 $`\ell=0`$。由 Stolz 定理和泰勒展开，
 
 
-```math
+$$
 \lim_{n\to\infty}\frac{1/x_n}{n}=\lim_{n\to\infty}\left(\frac1{x_{n+1}}-\frac1{x_n}\right)=\lim_{t\to0^+}\frac{t-\ln(1+t)}{t\ln(1+t)}=\frac12.
-```
+$$
 
 
 所以 $`\boxed{\lim_{n\to\infty}nx_n=2}`$。

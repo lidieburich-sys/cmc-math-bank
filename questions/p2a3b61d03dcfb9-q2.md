@@ -21,19 +21,19 @@
 令 $`t=y/x`$。在被积式有定义的局部区间内，原方程给出
 
 
-```math
+$$
 x=\frac1{t^2(1-t)},\qquad y=\frac1{t(1-t)},\qquad dx=\frac{-2+3t}{t^3(1-t)^2}\,dt.
-```
+$$
 
 
 因此
 
 
-```math
+$$
 \int\frac{dx}{y^2}=\int\frac{-2+3t}{t}\,dt
 =3t-2\ln|t|+C
 =\boxed{\frac{3y}{x}-2\ln\left|\frac yx\right|+C}.
-```
+$$
 
 </details>
 

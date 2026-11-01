@@ -23,25 +23,25 @@ I_a(r)=\oint_C\frac{y\,dx-x\,dy}{(x^2+y^2)^a},
 用极坐标表示正向椭圆：
 
 
-```math
+$$
 x=R(\theta)\cos\theta,\quad y=R(\theta)\sin\theta,\quad R(\theta)=\frac r{\sqrt{1+\tfrac12\sin2\theta}},\quad0\le\theta\le2\pi.
-```
+$$
 
 
 则 $`y\,dx-x\,dy=-R^2\,d\theta`$，所以
 
 
-```math
+$$
 I_a(r)=-r^{2-2a}\int_0^{2\pi}\left(1+\frac12\sin2\theta\right)^{a-1}\,d\theta.
-```
+$$
 
 
 该定积分为与 $`r`$ 无关的有限正常数；当 $`a=1`$ 时等于 $`2\pi`$。因此
 
 
-```math
+$$
 \boxed{\lim_{r\to+\infty}I_a(r)=\begin{cases}0,&a>1,\\-2\pi,&a=1,\\-\infty,&a<1.\end{cases}}
-```
+$$
 
 </details>
 

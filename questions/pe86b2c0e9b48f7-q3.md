@@ -16,9 +16,9 @@
 $`\boxed{\dfrac{\pi}{3\sqrt3}}`$。对 $`x>0`$，
 
 
-```math
+$$
 g'(x)=\frac1{1+x^3}+\frac{x}{1+x^3}=\frac1{x^2-x+1},\qquad g(1)=0.
-```
+$$
 
 
 因此 $`\displaystyle g(2)=\int_1^2\frac{dx}{x^2-x+1}=\frac2{\sqrt3}\left[\arctan\frac{2x-1}{\sqrt3}\right]_1^2=\frac\pi{3\sqrt3}`$。

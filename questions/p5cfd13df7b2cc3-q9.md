@@ -29,17 +29,17 @@
 令 $`t=\sqrt x`$，则
 
 
-```math
+$$
 \int_0^1 f(\sqrt x)\,dx=2\int_0^1tf(t)\,dt\le2\int_0^1|f(t)|\,dt=2.
-```
+$$
 
 
 因此 $`C=2`$ 可行。为证明不能更小，取 $`f_n(t)=(n+1)t^n`$，则 $`f_n`$ 连续非负且积分为 $`1`$，而
 
 
-```math
+$$
 \int_0^1f_n(\sqrt x)\,dx=2\int_0^1tf_n(t)\,dt=\frac{2(n+1)}{n+2}\longrightarrow2.
-```
+$$
 
 
 所以最小实数为 $`\boxed{C=2}`$。

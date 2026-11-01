@@ -50,9 +50,9 @@ W=\operatorname{diag}((1-s_1^2)w_1,\ldots,(1-s_n^2)w_n).
 （1）将（ii）乘 $`x`$，并减去（iii）中指标换为 $`n-1`$ 的等式，得
 
 
-```math
+$$
 x^2L_n'-nxL_n=xL_{n-1}'=L_n'-nL_{n-1},
-```
+$$
 
 
 整理即得结论。
@@ -60,26 +60,26 @@ x^2L_n'-nxL_n=xL_{n-1}'=L_n'-nL_{n-1},
 （2）对（1）求导，再由（ii），得到
 
 
-```math
+$$
 \bigl((x^2-1)L_i'\bigr)'=i(i+1)L_i.
-```
+$$
 
 
 分部积分的边界项为零，故
 
 
-```math
+$$
 \begin{aligned}\int_{-1}^1(1-x^2)L_i'L_j'\,dx&=i(i+1)\int_{-1}^1L_iL_j\,dx\\&=\frac{2i(i+1)}{2i+1}\delta_{ij}.\end{aligned}
-```
+$$
 
 
 
 （3）按通常 $`A_{ij}=L_i'(s_j)`$ 的定义，原题的转置位置有误，结论不成立。例如 $`n=2`$，取 $`s_1=-1/\sqrt3,s_2=1/\sqrt3`$，$`w_1=w_2=1`$，则
 
 
-```math
+$$
 A=\begin{pmatrix}1&1\\-\sqrt3&\sqrt3\end{pmatrix},\quad W=\frac23I,\quad A^{\mathsf T}WA=\begin{pmatrix}8/3&-4/3\\-4/3&8/3\end{pmatrix},
-```
+$$
 
 
 并非对角矩阵。
@@ -87,9 +87,9 @@ A=\begin{pmatrix}1&1\\-\sqrt3&\sqrt3\end{pmatrix},\quad W=\frac23I,\quad A^{\mat
 正确形式为 $`\boxed{AWA^{\mathsf T}\text{ 为对角矩阵}}`$，或者将 $`A`$ 的定义改成 $`A_{ij}=L_j'(s_i)`$ 后保留 $`A^{\mathsf T}WA`$。证明如下：对 $`i\ne j`$，多项式 $`(1-x^2)L_i'L_j'`$ 的次数为 $`i+j\le2n-1`$，由 $`n`$ 点 Gauss 公式的精确性及（2），
 
 
-```math
+$$
 (AWA^{\mathsf T})_{ij}=\sum_{k=1}^nw_k(1-s_k^2)L_i'(s_k)L_j'(s_k)=\int_{-1}^1(1-x^2)L_i'L_j'\,dx=0.
-```
+$$
 
 
 故修正后的矩阵确为对角矩阵。

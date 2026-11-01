@@ -21,9 +21,9 @@ d(f')\ge C\,d(f).
 答案为 $`\boxed{C=\sqrt{1-2/n}}`$。$`n=2`$ 时导数只有一个根，结论显然。以下设 $`n\ge3`$。平移并除去首项系数，设
 
 
-```math
+$$
 f(x)=\prod_{j=1}^n(x-x_j),\qquad0=x_1\le\cdots\le x_n=a.
-```
+$$
 
 
 若 $`a=0`$，不等式成立。
@@ -31,17 +31,17 @@ f(x)=\prod_{j=1}^n(x-x_j),\qquad0=x_1\le\cdots\le x_n=a.
 先用以下收缩引理：保持两个内根之和不变，将它们移向彼此，不会增大导数的根距。设旧内根为 $`r<s`$，新内根为 $`r'<s'`$，其中 $`r\le r'\le s'\le s`$、$`r+s=r'+s'`$。记新多项式为 $`g`$，则
 
 
-```math
+$$
 f=g-\delta h,\quad h=\frac{g}{(x-r')(x-s')},\quad\delta=r's'-rs\ge0.
-```
+$$
 
 
 令 $`\eta,\xi`$ 为 $`g'`$ 的最小、最大根。由 Rolle 定理 $`\eta\le r'\le s'\le\xi`$，且
 
 
-```math
+$$
 f'(\xi)=\delta\frac{2\xi-r'-s'}{(\xi-r')^2(\xi-s')^2}g(\xi)\le0.
-```
+$$
 
 
 因首项系数为正，$`f'`$ 在 $`\xi`$ 右侧至少有一根；在 $`\eta`$ 左侧的同样符号论证给出另一根。因此 $`d(f')\ge d(g')`$。重根及相等情形由根对系数的连续性得到。
@@ -49,26 +49,26 @@ f'(\xi)=\delta\frac{2\xi-r'-s'}{(\xi-r')^2(\xi-s')^2}g(\xi)\le0.
 反复将内根成对平均，取极限可将它们全部移到平均值 $`b=(x_2+\cdots+x_{n-1})/(n-2)`$，故
 
 
-```math
+$$
 d(f')\ge d\!\left([x(x-a)(x-b)^{n-2}]'\right).
-```
+$$
 
 
 而
 
 
-```math
+$$
 [x(x-a)(x-b)^{n-2}]'=(x-b)^{n-3}[nx^2-((n-1)a+2b)x+ab].
-```
+$$
 
 
 该二次因子的两个根夹住 $`b`$，其根距为
 
 
-```math
+$$
 \sqrt{\left(1-\frac2n\right)a^2+\frac{(a-2b)^2}{n^2}}
 \ge a\sqrt{1-\frac2n}.
-```
+$$
 
 
 当 $`f=x(x-a)(x-a/2)^{n-2}`$ 时取等号，故常数不能再增大。

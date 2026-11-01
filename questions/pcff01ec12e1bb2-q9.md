@@ -24,19 +24,19 @@ I=\oint_L\frac{x^2+y^2}{2\sqrt{1-x^2}}\,dx+f(x)\,dy,
 取正向参数方程 $`x=\cos\theta`$、$`y=-1+\sin\theta`$，$`0\le\theta\le2\pi`$。则
 
 
-```math
+$$
 I=-\int_0^{2\pi}\frac{(1-\sin\theta)\sin\theta}{|\sin\theta|}d\theta
 +\int_0^{2\pi}f(\cos\theta)\cos\theta\,d\theta.
-```
+$$
 
 
 第一项按上下半圆分段为
 
 
-```math
+$$
 -\int_0^\pi(1-\sin\theta)d\theta
 +\int_\pi^{2\pi}(1-\sin\theta)d\theta=4.
-```
+$$
 
 
 第二项由 $`\theta\mapsto\theta+\pi`$ 及 $`f`$ 的偶性相消，等于 0。因此 $`\boxed{I=4}`$。

@@ -24,17 +24,17 @@ L_R=\max_{B_R}f(x,y),\qquad \ell_R=\min_{B_R}f(x,y).
 $`\boxed{-\frac12}`$。令 $`x=R\rho\cos\theta,y=R\rho\sin\theta`$，则
 
 
-```math
+$$
 \frac{f(x,y)}{R^2}=3R\rho^3\sin3\theta+\rho^2\cos2\theta,\qquad 0\le\rho\le1.
-```
+$$
 
 
 在紧集上，当主项的最大值为 $`1`$ 时，最大点必趋向其最大点集；次项极值取该集合上的最大值。因此 $`L_R/R^2=3R+\max_{\rho^3\sin3\theta=1}\rho^2\cos2\theta+o(1)`$。这里 $`\rho=1`$，$`\theta=\pi/6,5\pi/6,3\pi/2`$，次项最大值为 $`1/2`$。同理，主项最小点为 $`\rho=1`$、$`\theta=\pi/2,7\pi/6,11\pi/6`$，次项最小值为 $`-1`$。故
 
 
-```math
+$$
 L_R=3R^3+\tfrac12R^2+o(R^2),\qquad \ell_R=-3R^3-R^2+o(R^2),
-```
+$$
 
 
 所求为 $`-1/2`$。上述紧集结论可由极值点的任意收敛子列证明：主项损失非负，比较主项极值点即可夹出次项极限。

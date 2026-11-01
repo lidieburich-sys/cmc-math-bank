@@ -16,9 +16,9 @@
 利用四个象限的对称性，在第一象限有 $`y=(1-x^3)/3`$、$`0\le x\le1`$，故
 
 
-```math
+$$
 \int_L|x|^3\,ds=4\int_0^1x^3\sqrt{1+x^4}\,dx=\frac23\bigl[(1+x^4)^{3/2}\bigr]_0^1=\boxed{\frac23(2\sqrt2-1)}.
-```
+$$
 
 </details>
 

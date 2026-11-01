@@ -30,7 +30,7 @@ python3 scripts/export_markdown.py --check
 
 `questions.json` 是数组，`id` 是稳定题目 ID；旧 ID 保留在 `aliases`。`paper_id` 关联试卷，`index` 与 `number` 分别表示本卷排序和原题号。分问已按原题库规则展开，相关条目保留 `parent_group` 与 `part_number`。
 
-`question`、`answer` 保留原始 Markdown 和 LaTeX。行内公式使用 `\(...\)`，独立公式使用 `\[...\]`；导出为 GitHub Markdown 时分别转为 `$` 反引号包围的行内数学格式和 `math` 代码块。所有题目的数学内容与文字内容均参与导出前后完整性校验。
+`question`、`answer` 保留原始 Markdown 和 LaTeX。行内公式使用 `\(...\)`，独立公式使用 `\[...\]`。导出为 GitHub Markdown 时，行内公式转为 `$` 反引号包围的数学格式；题面的块公式使用 `math` 代码块，折叠答案内的块公式使用前后空行分隔的独立 `$$` 行，以避免 GitHub 将折叠区域内的数学代码块显示成源代码。所有题目的数学内容与文字内容均参与导出前后完整性校验。
 
 `topics` 是专题 ID 数组，`primary_topic` 是主专题。`duplicate_of` 表示已确认的同题关系，指向另一个有效题目 ID；试卷中的原入口仍保留，928 是试卷题目入口数，不是按同题关系去重后的数量。
 

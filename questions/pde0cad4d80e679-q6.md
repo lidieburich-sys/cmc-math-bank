@@ -32,26 +32,26 @@
 证明更一般的换权结论。对 $`a,b>0`$，记 $`F_a(x)=\int_0^x t^{a-1}f(t)\,dt`$。若 $`F_a(x)/x^a\to A`$，则分部积分得
 
 
-```math
+$$
 F_b(x)=x^{b-a}F_a(x)-(b-a)\int_0^x t^{b-a-1}F_a(t)\,dt.
-```
+$$
 
 
 由于 $`F_a(t)=At^a+o(t^a)`$，边界项在零点为零，且
 
 
-```math
+$$
 \frac{F_b(x)}{x^b}\longrightarrow A-\frac{b-a}{b}A=\frac{aA}{b}.
-```
+$$
 
 
 其中余项估计为
 
 
-```math
+$$
 \frac1{x^b}\left|\int_0^x t^{b-1}\left(\frac{F_a(t)}{t^a}-A\right)dt\right|
 \le\frac1b\sup_{0<t\le x}\left|\frac{F_a(t)}{t^a}-A\right|\to0.
-```
+$$
 
 
 交换 $`a,b`$ 得逆向结论。取 $`a=1,b=\alpha`$ 即证；若第一个极限为 $`L`$，第二个极限为 $`L/\alpha`$。

@@ -16,9 +16,9 @@
 若不恒为0，取 $`a`$ 使 $`\varphi(a)\ne0`$。由 $`\varphi(a)=\varphi(0)\varphi(a)`$，得 $`\varphi(0)=1`$。对任意 $`x`$，有 $`px=0`$，故
 
 
-```math
+$$
 \varphi(x)^p=\varphi(px)=1.
-```
+$$
 
 
 域的非零特征 $`p`$ 为素数，且在该特征下 $`(u-1)^p=u^p-1`$，所以 $`(\varphi(x)-1)^p=0`$。域中无非零幂零元，故 $`\varphi(x)=1`$。

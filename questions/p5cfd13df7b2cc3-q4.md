@@ -24,25 +24,25 @@
 由与路径无关的必要条件 $`P_y=Q_x`$，有
 
 
-```math
+$$
 2u=u+(x+4u^3)u^{\prime},\qquad (x+4u^3)u^{\prime}=u.
-```
+$$
 
 
 在经过初值 $`(x,u)=(2,1)`$ 的分支上，$`u\ne0`$，于是
 
 
-```math
+$$
 \frac d{dx}\left(\frac xu-2u^2\right)=\frac{u-(x+4u^3)u^{\prime}}{u^2}=0.
-```
+$$
 
 
 所以 $`x/u-2u^2=C`$。代入初值得 $`C=0`$，从而
 
 
-```math
+$$
 \boxed{u(x)=\sqrt[3]{\frac x2},\qquad x>0}.
-```
+$$
 
 
 该函数在右半平面连续可微，并使 $`P_y=Q_x`$ 成立，故亦满足充分条件。

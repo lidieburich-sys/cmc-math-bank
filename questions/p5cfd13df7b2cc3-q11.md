@@ -28,17 +28,17 @@
 （1）由极限大于零，存在 $`\delta>0`$ 和 $`N`$，使 $`n\ge N`$ 时
 
 
-```math
+$$
 \frac{a_n}{a_{n+1}b_n}-\frac1{b_{n+1}}>\delta.
-```
+$$
 
 
 乘以 $`a_{n+1}>0`$，并从 $`N`$ 到 $`m`$ 求和，得
 
 
-```math
+$$
 \delta\sum_{n=N}^m a_{n+1}<\sum_{n=N}^m\left(\frac{a_n}{b_n}-\frac{a_{n+1}}{b_{n+1}}\right)=\frac{a_N}{b_N}-\frac{a_{m+1}}{b_{m+1}}\le\frac{a_N}{b_N}.
-```
+$$
 
 
 正项级数的部分和有上界，故收敛。
@@ -46,9 +46,9 @@
 （2）由极限小于零，充分大的 $`n`$ 都有
 
 
-```math
+$$
 \frac{a_n}{a_{n+1}b_n}<\frac1{b_{n+1}},\qquad \frac{a_{n+1}}{b_{n+1}}>\frac{a_n}{b_n}.
-```
+$$
 
 
 因此从某个 $`N`$ 起，$`a_n\ge(a_N/b_N)b_n`$。由比较判别法及 $`\sum b_n`$ 发散，得 $`\sum a_n`$ 发散。

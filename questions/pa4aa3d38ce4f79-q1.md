@@ -19,41 +19,41 @@
 <details>
 <summary>展开参考解答</summary>
 
-```math
+$$
 e^2
-```
+$$
 
 
 
 
 
-```math
+$$
 \frac{x+3}{x+2}=1+\frac1{x+2}
-```
+$$
 
 
 
 
 
-```math
+$$
 2x-1=2(x+2)-5
-```
+$$
 
 
 
 
 
-```math
+$$
 \left(1+\frac1{x+2}\right)^{2x-1}=\left[\left(1+\frac1{x+2}\right)^{x+2}\right]^2\left(1+\frac1{x+2}\right)^{-5}
-```
+$$
 
 
 
 
 
-```math
+$$
 \lim_{x\to\infty}\left(\frac{x+3}{x+2}\right)^{2x-1}=e^2
-```
+$$
 
 </details>
 

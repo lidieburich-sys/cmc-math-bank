@@ -24,17 +24,17 @@ f(x)=\begin{cases}\dfrac{\ln(1+\sin^2x)-6(\sqrt[3]{2-\cos x}-1)}{x^3},&x\ne0,\\0
 在 $`x\to0`$ 时，
 
 
-```math
+$$
 \ln(1+\sin^2x)=x^2-\frac56x^4+o(x^4),\qquad6(\sqrt[3]{2-\cos x}-1)=x^2-\frac14x^4+o(x^4).
-```
+$$
 
 
 因此分子为 $`-\frac7{12}x^4+o(x^4)`$，从而
 
 
-```math
+$$
 f'(0)=\lim_{x\to0}\frac{f(x)-f(0)}x=\boxed{-\frac7{12}}.
-```
+$$
 
 
 该极限存在，故可导。

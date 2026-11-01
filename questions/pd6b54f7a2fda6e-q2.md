@@ -24,20 +24,20 @@ F\left(x+\frac zy,y+\frac zx\right)=0
 分别对 $`x,y`$ 求偏导并消去分母，得到
 
 
-```math
+$$
 \begin{aligned}
 xz_x&=\frac{y(zF_v-x^2F_u)}{xF_u+yF_v},\\
 yz_y&=\frac{x(zF_u-y^2F_v)}{xF_u+yF_v}.
 \end{aligned}
-```
+$$
 
 
 相加得
 
 
-```math
+$$
 \boxed{xz_x+yz_y=z-xy.}
-```
+$$
 
 </details>
 

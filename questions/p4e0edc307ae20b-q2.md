@@ -30,26 +30,26 @@ $`a_0,a,b,c,d,e,f,g,h,k`$ 均为实数，且 $`2`$ 是 $`A`$ 的一个几何重�
 （2）由 $`\operatorname{rank}(A-2E)=1`$，当 $`a_0=2`$ 时，各行均为第一行的倍数，从而
 
 
-```math
+$$
 A=\begin{pmatrix}2&2&2&-2\\0&0&-2&2\\0&-2&0&2\\0&-2&-2&4\end{pmatrix},\qquad
 B=\frac{A+A^{\mathsf T}}2=\begin{pmatrix}2&1&1&-1\\1&0&-2&0\\1&-2&0&0\\-1&0&0&4\end{pmatrix}.
-```
+$$
 
 
 二次型只取决于 $`B`$。计算得
 
 
-```math
+$$
 \det(\lambda E-B)=(\lambda-2)^2(\lambda^2-2\lambda-11),
-```
+$$
 
 
 其特征值为 $`2,2,1+2\sqrt3,1-2\sqrt3`$。由实对称矩阵的正交对角化，所求标准型为
 
 
-```math
+$$
 \boxed{2y_1^2+2y_2^2+(1+2\sqrt3)y_3^2+(1-2\sqrt3)y_4^2.}
-```
+$$
 
 </details>
 

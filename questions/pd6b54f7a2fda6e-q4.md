@@ -24,9 +24,9 @@ f(x)=\begin{cases}3,&-5\le x<0,\\0,&0\le x<5.\end{cases}
 在跳跃点处，Fourier 级数收敛于左右极限的平均值：
 
 
-```math
+$$
 \boxed{\frac{f(0^-)+f(0^+)}2=\frac32.}
-```
+$$
 
 </details>
 

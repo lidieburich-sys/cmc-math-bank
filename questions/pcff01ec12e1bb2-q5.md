@@ -24,10 +24,10 @@ x^2+y^2+z^2=a^2,\qquad x\ge0,\ y\ge0,\ z\ge0
 由对称性，$`\bar x=\bar y=\bar z`$。取面密度为 1，曲面面积为 $`M=\pi a^2/2`$。设其在 $`xOy`$ 平面的投影为四分之一圆盘 $`D`$，由 $`z\,dS=a\,dx\,dy`$，得
 
 
-```math
+$$
 \bar z=\frac1M\iint_\Sigma z\,dS
 =\frac{a\cdot(\pi a^2/4)}{\pi a^2/2}=\frac a2.
-```
+$$
 
 
 所以重心为 $`\boxed{(a/2,a/2,a/2)}`$。

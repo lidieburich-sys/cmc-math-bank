@@ -16,11 +16,11 @@
 切平面为 $`z=2x-2y-1`$，与抛物面的交线在 $`xy`$ 平面上的投影为 $`D:(x-1)^2+(y+1)^2\le1`$。令 $`x-1=r\cos\theta,\ y+1=r\sin\theta`$，则
 
 
-```math
+$$
 V=\iint_D[1-(x-1)^2-(y+1)^2]\,dx\,dy
 =\int_0^{2\pi}\!d\theta\int_0^1(1-r^2)r\,dr
 =\boxed{\frac\pi2}.
-```
+$$
 
 </details>
 

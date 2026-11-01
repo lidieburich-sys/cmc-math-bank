@@ -20,9 +20,9 @@
 由对数函数的中值定理，分子为 $`(\tan x-\sin x)/(1+\xi_x)`$，其中 $`\xi_x`$ 位于 $`\sin x`$、$`\tan x`$ 之间并趋于零。又
 
 
-```math
+$$
 \frac{\tan x-\sin x}{x^3}=\frac{\sin x}{x}\frac{1-\cos x}{x^2\cos x}\longrightarrow\frac12.
-```
+$$
 
 
 故所求极限为 $`\boxed{1/2}`$。

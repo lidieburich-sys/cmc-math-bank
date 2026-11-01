@@ -3,7 +3,8 @@
 
 Run from any directory. --check verifies generated files without changing them.
 Raw question/answer text and math live in data/questions.json; never edit a
-generated page to correct a question. GitHub renders fenced math and $`...`$.
+generated page to correct a question. Display math uses fences in questions and
+standalone $$ delimiters inside collapsed answers; inline math uses $`...`$.
 """
 from __future__ import annotations
 
@@ -31,13 +32,17 @@ def load_data(root=ROOT):
             for name in ('questions', 'papers', 'topics', 'coverage')}
 
 
-def github_math(text):
+def github_math(text, display_style='fence'):
     """Convert only math delimiters, leaving all prose and TeX commands intact.
 
     No HTML stripping is performed. An HTML-bearing future source must be
     reviewed first because HTML blocks can inhibit GitHub Markdown/math parsing.
     The imported corpus contains Markdown prose and raw TeX, not rendered HTML.
+    GitHub's repository preview can leave math fences inside <details> as code,
+    so collapsed answers use dollar-delimited display math instead.
     """
+    if display_style not in ('fence', 'dollars'):
+        raise ValueError('Unknown display math style: ' + display_style)
     prose = MATH.sub('', text)
     if HTML.search(prose):
         raise ValueError('HTML in source: normalize it explicitly before exporting')
@@ -45,6 +50,8 @@ def github_math(text):
     def convert(match):
         display, inline = match.groups()
         if display is not None:
+            if display_style == 'dollars':
+                return '\n\n$$\n' + display.strip() + '\n$$\n\n'
             return '\n\n```math\n' + display.strip() + '\n```\n\n'
         if '`' in inline:
             raise ValueError('Backtick in inline math needs explicit handling')
@@ -100,7 +107,7 @@ def rendered_files(data):
                  f"[全部题目](README.md) · [所属试卷](../papers/{paper['id']}.md) · [专题目录](../topics/README.md)", '',
                  f"归档年份：{question['year']} · {question['kind']} · 题号：{question['number']}", '',
                  f'专题：{topic_links}', '', '## 题目', '', github_math(question['question']), '',
-                 '<details>', '<summary>展开参考解答</summary>', '', github_math(question['answer']), '', '</details>', '',
+                 '<details>', '<summary>展开参考解答</summary>', '', github_math(question['answer'], display_style='dollars'), '', '</details>', '',
                  '## 来源与核对说明', '',
                  f"题库核对标记：{question['verification_status']}。", '',
                  f"原档案处理标记：{SOURCE_KINDS.get(question['source_kind'], question['source_kind'])}（`{question['source_kind']}`）。后续题文核对见下列历史备注；全库并非全部题目重新人工终审。", '',

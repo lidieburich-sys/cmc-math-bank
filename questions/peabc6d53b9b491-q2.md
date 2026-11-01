@@ -21,16 +21,16 @@ f(x)=f(a)+f^{\prime}(a)(x-a)+\int_a^x(x-t)f^{\prime\prime}(t)\,dt.
 因为 $`f^{\prime\prime}`$ 黎曼可积，牛顿—莱布尼茨公式和分部积分公式均适用。于是
 
 
-```math
+$$
 \int_a^x(x-t)f^{\prime\prime}(t)\,dt=\big[(x-t)f^{\prime}(t)\big]_a^x+\int_a^xf^{\prime}(t)\,dt
-```
+$$
 
 
 
 
-```math
+$$
 =-(x-a)f^{\prime}(a)+f(x)-f(a).
-```
+$$
 
 
 移项即得所证公式。

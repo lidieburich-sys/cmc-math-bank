@@ -20,17 +20,17 @@ I=\int_{-\pi}^{\pi}\frac{x\sin x\,\arctan(e^x)}{1+\cos^2x}\,dx.
 利用 $`x\sin x/(1+\cos^2x)`$ 为偶函数，且 $`\arctan(e^x)+\arctan(e^{-x})=\pi/2`$，得
 
 
-```math
+$$
 I=\frac\pi2\int_0^\pi\frac{x\sin x}{1+\cos^2x}\,dx.
-```
+$$
 
 
 记右侧积分为 $`J`$。作代换 $`x=\pi-t`$，可得
 
 
-```math
+$$
 2J=\pi\int_0^\pi\frac{\sin x}{1+\cos^2x}\,dx=\pi\big[-\arctan(\cos x)\big]_0^\pi=\frac{\pi^2}{2}.
-```
+$$
 
 
 所以 $`J=\pi^2/4`$，从而 $`\boxed{I=\pi^3/8}`$。

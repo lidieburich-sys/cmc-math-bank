@@ -16,17 +16,17 @@
 圆锥的轴为 $`x=y=z`$，取单位轴向量 $`\boldsymbol e=(1,1,1)/\sqrt3`$。母线与轴的夹角满足 $`\cos\alpha=1/\sqrt3`$。因而
 
 
-```math
+$$
 \frac{x+y+z}{\sqrt3\sqrt{x^2+y^2+z^2}}=\frac1{\sqrt3}.
-```
+$$
 
 
 平方后得 $`xy+yz+zx=0`$，并须选取含正半轴的那一半。因此
 
 
-```math
+$$
 \boxed{xy+yz+zx=0,\qquad x+y+z\ge0.}
-```
+$$
 
 
 原点作为顶点包含在内。

@@ -22,17 +22,17 @@
 （1）先设 $`z\in\mathbb R^n`$ 满足 $`Az=z`$。取 $`z_i=\max_j z_j`$，则
 
 
-```math
+$$
 z_i=\sum_{j=1}^n a_{ij}z_j,\qquad a_{ij}>0,\qquad\sum_{j=1}^n a_{ij}=1.
-```
+$$
 
 
 若有某个 $`z_j<z_i`$，右侧严格小于 $`z_i`$，矛盾。因此所有分量相等。对任意复向量 $`v=x+iy\in V_1`$，由 $`A`$ 为实矩阵，有 $`Ax=x`$、$`Ay=y`$，故 $`x,y`$ 均为 $`e`$ 的实数倍。因此
 
 
-```math
+$$
 \boxed{V_1=\operatorname{span}_{\mathbb C}\{e\},\quad\dim_{\mathbb C}V_1=1},
-```
+$$
 
 
 其一组基为 $`\{e\}`$。
@@ -40,17 +40,17 @@ z_i=\sum_{j=1}^n a_{ij}z_j,\qquad a_{ij}>0,\qquad\sum_{j=1}^n a_{ij}=1.
 （2）若 $`1`$ 的代数重数大于 $`1`$，由其几何重数为 $`1`$，相应 Jordan 块的阶数至少为 $`2`$。于是存在复向量 $`w`$ 满足
 
 
-```math
+$$
 (A-I)w=e.
-```
+$$
 
 
 利用 $`Ae=e`$ 归纳可得 $`A^m w=w+me`$。另一方面，$`A^m`$ 的元素非负且各行和仍为 $`1`$，所以对向量的最大模范数有
 
 
-```math
+$$
 \|A^m w\|_\infty\le\|w\|_\infty.
-```
+$$
 
 
 但 $`\|w+me\|_\infty\ge m-\|w\|_\infty\to\infty`$，矛盾。故 $`1`$ 的代数重数必为 $`\boxed{1}`$。

@@ -27,9 +27,9 @@ B=\begin{pmatrix}8/3&y_1&y_2\\y_2&8/3&y_1\\y_1&y_2&8/3\end{pmatrix}.
 令 $`\omega=e^{2\pi i/3}`$，$`q(t)=8/3+y_1t+y_2t^2`$。$`B`$ 的特征值为 $`q(1),q(\omega),q(\omega^2)`$，须是 $`(6,1,1)`$ 的排列。反向 Fourier 变换得到三组解：
 
 
-```math
+$$
 \boxed{x=4,\quad(y_1,y_2)\in\left\{\left(\frac53,\frac53\right),\left(-\frac56+\frac{5\sqrt3}6i,-\frac56-\frac{5\sqrt3}6i\right),\left(-\frac56-\frac{5\sqrt3}6i,-\frac56+\frac{5\sqrt3}6i\right)\right\}.}
-```
+$$
 
 </details>
 

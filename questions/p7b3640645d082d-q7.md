@@ -24,17 +24,17 @@ x\ln x\,\sin y\,y'+(1-x\cos y)\cos y=0
 令 $`v=\cos y`$，得 $`x\ln x\,v'=v-xv^2`$。在 $`v\ne0`$、$`x>0,x\ne1`$ 的区间上，令 $`u=1/v`$，化为
 
 
-```math
+$$
 u'+\frac{u}{x\ln x}=\frac1{\ln x},\qquad(u\ln x)'=1.
-```
+$$
 
 
 积分得到 $`u\ln x=x+C`$，故
 
 
-```math
+$$
 \boxed{(x+C)\cos y=\ln x}.
-```
+$$
 
 
 按实解有定义的区间选择分支。另有换元时排除的常值解 $`\boxed{y=\pi/2+k\pi,\ k\in\mathbb Z}`$，直接代入原方程也成立。

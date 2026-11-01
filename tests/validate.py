@@ -11,6 +11,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
 from export_markdown import MATH, github_math, load_data, rendered_files
 
+RENDERED_MATH = re.compile(r'```math\n(.*?)\n```|^\$\$\n(.*?)\n\$\$(?=\n|$)|\$`(.*?)`\$', re.S | re.M)
+
 
 def require(condition, message):
     if not condition:
@@ -23,8 +25,8 @@ def math_parts(source):
 
 
 def rendered_math_parts(markdown):
-    return [(match.group(1) if match.group(1) is not None else match.group(2)).strip()
-            for match in re.finditer(r'```math\n(.*?)\n```|\$`(.*?)`\$', markdown, re.S)]
+    return [next(group for group in match.groups() if group is not None).strip()
+            for match in RENDERED_MATH.finditer(markdown)]
 
 
 data = load_data()
@@ -49,11 +51,11 @@ for question in questions:
     for field in ('question', 'answer'):
         source = question[field]
         require(source.strip(), f'Empty {field}: {identifier}')
-        markdown = github_math(source)
+        markdown = github_math(source, display_style='dollars' if field == 'answer' else 'fence')
         original_parts = math_parts(source)
         require(original_parts == rendered_math_parts(markdown), f'Math changed: {identifier}/{field}')
         source_prose = MATH.sub(' FORMULA ', source)
-        output_prose = re.sub(r'```math\n.*?\n```|\$`.*?`\$', ' FORMULA ', markdown, flags=re.S)
+        output_prose = RENDERED_MATH.sub(' FORMULA ', markdown)
         require(' '.join(source_prose.split()) == ' '.join(output_prose.split()), f'Prose changed: {identifier}/{field}')
         formulas += len(original_parts)
     seen = set()
@@ -92,6 +94,12 @@ expected_files = rendered_files(data)
 for name, expected in expected_files.items():
     path = ROOT / name
     require(path.is_file() and path.read_text() == expected, f'Generated file differs: {name}')
+    if name.startswith('questions/') and path.name != 'README.md':
+        answer = re.search(r'<details>\n<summary>.*?</summary>\n\n(.*?)\n\n</details>', expected, re.S)
+        require(answer is not None, f'Missing blank lines around collapsed answer: {name}')
+        require('```math' not in answer.group(1), f'Math fence inside collapsed answer: {name}')
+        require(rendered_math_parts(answer.group(1)) == math_parts(by_id[path.stem]['answer']),
+                f'Collapsed answer formula mismatch: {name}')
 for directory, members in [('questions', by_id), ('papers', paper_ids), ('topics', topic_ids)]:
     actual = {path.stem for path in (ROOT / directory).glob('*.md') if path.name != 'README.md'}
     require(actual == set(members), f'Stale/missing generated pages: {directory}')
@@ -102,7 +110,8 @@ for name in markdown_files:
     path = ROOT / name
     markdown = path.read_text()
     # Formula brackets and function calls are not Markdown links.
-    markdown = re.sub(r'```.*?```|\$`.*?`\$', '', markdown, flags=re.S)
+    markdown = RENDERED_MATH.sub('', markdown)
+    markdown = re.sub(r'```.*?```', '', markdown, flags=re.S)
     for target in re.findall(r'(?<!!)\[[^\]\n]*\]\(([^\s)]+)\)', markdown):
         parsed = urlsplit(target)
         if parsed.scheme or target.startswith('#'):

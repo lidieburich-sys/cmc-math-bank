@@ -20,9 +20,9 @@
 由 $`1\le n!\le n^n`$，得
 
 
-```math
+$$
 0\le\frac{\ln(n!)}{n^2}\le\frac{\ln n}{n}\longrightarrow0.
-```
+$$
 
 
 取指数可知，所求极限为 $`\boxed{1}`$。

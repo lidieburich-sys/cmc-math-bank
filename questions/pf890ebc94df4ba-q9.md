@@ -36,17 +36,17 @@ E_f=\{\xi\in\mathbb R^2:\xi\text{ 是 }f\text{ 在某个 }S_r\text{ 上的最小
 （4）存在。令 Cantor 型集
 
 
-```math
+$$
 F=\left\{\theta=\sum_{n\ge1}\frac{a_n}{3^n}:a_n\in\{0,1\}\right\}\subset[0,1/2],\quad b(\theta)=\sum_{n\ge1}\frac{a_n}{2^n}.
-```
+$$
 
 
 数字展开在 $`F`$ 中唯一，$`b`$ 连续并映满 $`[0,1]`$，且 $`b^{-1}(1)=\{1/2\}`$。对 $`\theta\in F\setminus\{1/2\}`$，令
 
 
-```math
+$$
 R(\theta)=\tan\frac{\pi b(\theta)}2,\qquad G(\theta)=R(\theta)(\cos\theta,\sin\theta),\qquad E=G(F\setminus\{1/2\}).
-```
+$$
 
 
 $`R`$ 映满 $`[0,\infty)`$，故 $`E`$ 与每个 $`S_r`$ 相交。$`G`$ 连续一一，且当 $`\theta\to1/2`$ 时 $`|G(\theta)|\to\infty`$，因此任何有界收敛像点列的参数有极限留在定义域内，$`E`$ 为闭集。除原点外，参数可由连续极角恢复；在原点处，由 $`0\le\theta\le b(\theta)=(2/\pi)\arctan|G(\theta)|`$ 亦知逆映射连续。因此 $`G`$ 是到 $`E`$ 的同胚。$`F`$ 完全不连通，所以 $`E`$ 的非空连通子集只能是单点。最后取 $`g=\operatorname{dist}(\cdot,E)`$，由（2）完成构造。

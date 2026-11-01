@@ -32,18 +32,18 @@ u=x,\qquad v=\frac1y-\frac1x,\qquad w=\frac1z-\frac1x.
 由变换得 $`x=u`$、$`y=u/(uv+1)`$。保持 $`v`$ 不变时，
 
 
-```math
+$$
 x_u=1,\qquad y_u=\frac1{(uv+1)^2}=\frac{y^2}{u^2}.
-```
+$$
 
 
 所以
 
 
-```math
+$$
 w_u=-\frac1{z^2}\left(z_x+\frac{y^2}{u^2}z_y\right)+\frac1{u^2}
 =-\frac{x^2z_x+y^2z_y}{u^2z^2}+\frac1{u^2}=-\frac1{u^2}.
-```
+$$
 
 
 代入 $`u=2`$，得 $`\boxed{-1/4}`$。

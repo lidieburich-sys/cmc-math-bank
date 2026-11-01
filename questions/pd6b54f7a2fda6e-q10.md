@@ -29,27 +29,27 @@ f_{xx}^2+2f_{xy}^2+f_{yy}^2\le M,\qquad f(0,0)=f_x(0,0)=f_y(0,0)=0.
 固定 $`(x,y)`$，令 $`g(t)=f(tx,ty)`$。由 Cauchy 不等式，
 
 
-```math
+$$
 |g''(t)|=|x^2f_{xx}+2xyf_{xy}+y^2f_{yy}|
 \le\sqrt{f_{xx}^2+2f_{xy}^2+f_{yy}^2}\sqrt{x^4+2x^2y^2+y^4}
 \le\sqrt M(x^2+y^2).
-```
+$$
 
 
 因 $`g(0)=g'(0)=0`$，有
 
 
-```math
+$$
 |f(x,y)|=\left|\int_0^1(1-t)g''(t)\,dt\right|\le\frac{\sqrt M}2(x^2+y^2).
-```
+$$
 
 
 故
 
 
-```math
+$$
 \left|\iint_Df\right|\le\frac{\sqrt M}2\int_0^{2\pi}\!d\theta\int_0^1r^3\,dr=\frac{\pi\sqrt M}4.
-```
+$$
 
 </details>
 

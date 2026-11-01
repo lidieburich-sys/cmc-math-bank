@@ -26,17 +26,17 @@ f'(x)=\alpha f(x)+\beta f''(x).
 若 $`\beta\ne0`$，则
 
 
-```math
+$$
 f''=\frac1\beta f'-\frac\alpha\beta f.
-```
+$$
 
 
 右端可导，故 $`f^{(3)}`$ 存在。归纳地，若 $`f^{(n)}`$ 存在，则由
 
 
-```math
+$$
 f^{(n)}=\frac1\beta f^{(n-1)}-\frac\alpha\beta f^{(n-2)}\qquad(n\ge2)
-```
+$$
 
 
 可再求一次导数。故 $`f`$ 无穷次可导。

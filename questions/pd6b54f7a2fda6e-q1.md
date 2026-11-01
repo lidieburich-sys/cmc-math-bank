@@ -21,11 +21,11 @@
 由于 $`0\le\sin(k\pi/n)`$，有
 
 
-```math
+$$
 \frac1{n+1}\sum_{k=1}^n\sin\frac{k\pi}n
 \le n\sum_{k=1}^n\frac{\sin(k\pi/n)}{n^2+k}
 \le\frac1n\sum_{k=1}^n\sin\frac{k\pi}n.
-```
+$$
 
 
 右端是 Riemann 和，趋于 $`\int_0^1\sin(\pi t)\,dt=2/\pi`$；左端也趋于同一值。由夹逼定理，极限为 $`\boxed{2/\pi}`$。

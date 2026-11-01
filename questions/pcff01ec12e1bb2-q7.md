@@ -25,18 +25,18 @@
 给定 $`\varepsilon>0`$，存在 $`\delta>0`$，使 $`0<t<\delta`$ 时
 
 
-```math
+$$
 |f(t)-f(t/3)|\le\varepsilon t.
-```
+$$
 
 
 对任意 $`0<x<\delta`$，望远镜求和得
 
 
-```math
+$$
 \left|f(x)-f\left(\frac{x}{3^N}\right)\right|
 \le\varepsilon x\sum_{k=0}^{N-1}3^{-k}\le\frac32\varepsilon x.
-```
+$$
 
 
 令 $`N\to\infty`$，用 $`f(x/3^N)\to0`$，得 $`|f(x)|/x\le3\varepsilon/2`$。由 $`\varepsilon`$ 的任意性即得结论。

@@ -31,37 +31,37 @@
 （1）令 $`t=1/(1+x)`$，利用非负项逐项积分，
 
 
-```math
+$$
 \begin{aligned}
 \psi(1)&=\int_0^1\frac{-\ln t}{1-t}\,dt
 =\sum_{j=0}^{\infty}\int_0^1t^j(-\ln t)\,dt\\
 &=\sum_{j=0}^{\infty}\frac1{(j+1)^2}=\frac{\pi^2}{6}.
 \end{aligned}
-```
+$$
 
 
 （2）$`s`$ 限制在任一正的紧区间上时，对参数求导后的被积函数可由 $`C/(1+x)^2`$ 控制，因此可以积分号下求导，得
 
 
-```math
+$$
 \psi'(s)=\int_0^\infty\frac{dx}{(1+x)(1+sx)}=\frac{\ln s}{s-1}\quad(s\ne1),
-```
+$$
 
 
 并且 $`\psi'(1)=1`$。于是 $`F(s)=\psi(s)+\psi(1/s)`$ 满足
 
 
-```math
+$$
 F'(s)=\frac{\ln s}{s-1}-\frac1{s^2}\frac{\ln(1/s)}{1/s-1}=\frac{\ln s}{s}.
-```
+$$
 
 
 在 $`s=1`$ 处连续延拓仍成立。由 $`F(1)=\pi^2/3`$，从 $`1`$ 积分到 $`s`$ 即得
 
 
-```math
+$$
 \boxed{F(s)=\frac{\pi^2}{3}+\frac12\ln^2s.}
-```
+$$
 
 </details>
 

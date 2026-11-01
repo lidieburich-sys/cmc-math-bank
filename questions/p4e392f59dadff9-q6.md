@@ -21,18 +21,18 @@
 令 $`h=f-g`$，则 $`\int_0^1h=0`$。若 $`x\ge y`$，由单调性，
 
 
-```math
+$$
 -[g(x)-g(y)]\le h(x)-h(y)\le f(x)-f(y),
-```
+$$
 
 
 故任意两点处 $`|h(x)-h(y)|\le1`$。记 $`m=\inf h`$、$`M=\sup h`$，则 $`m\le0\le M`$、$`M-m\le1`$。由 $`(h-m)(M-h)\ge0`$，积分得到
 
 
-```math
+$$
 \int_0^1h^2\le(M+m)\int_0^1h-mM=-mM
 \le\frac{(M-m)^2}{4}\le\frac14.
-```
+$$
 
 
 再由 Cauchy 不等式，$`\int_0^1|h|\le(\int_0^1h^2)^{1/2}\le1/2`$。

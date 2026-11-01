@@ -16,11 +16,11 @@
 分部积分得
 
 
-```math
+$$
 \int_1^\infty\frac{\ln x}{(1+x)^2}dx
 =\left[-\frac{\ln x}{1+x}\right]_1^\infty+\int_1^\infty\frac{dx}{x(1+x)}
 =\left[\ln\frac{x}{1+x}\right]_1^\infty=\boxed{\ln2}.
-```
+$$
 
 </details>
 

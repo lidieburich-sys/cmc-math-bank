@@ -29,34 +29,34 @@ f(x)=\int_0^x\frac{\ln(1+t)}{1+e^{-t}\sin^3t}\,dt,\qquad x>0.
 当 $`0<t\le x\le1`$ 时，$`t-t^2/2<\ln(1+t)<t`$，且
 
 
-```math
+$$
 1\le1+e^{-t}\sin^3t\le1+x.
-```
+$$
 
 
 因此
 
 
-```math
+$$
 \frac{x^2}{3(1+x)}\le\frac{x^2/2-x^3/6}{1+x}<f(x)<\frac{x^2}2.
-```
+$$
 
 
 取 $`x=1/n`$，由比较判别法可知级数收敛，并且
 
 
-```math
+$$
 \sum_{n=1}^\infty f(1/n)
 >\frac13\sum_{n=1}^\infty\frac1{n(n+1)}=\frac13,
-```
+$$
 
 
 
 
-```math
+$$
 \sum_{n=1}^\infty f(1/n)
 <\frac12\sum_{n=1}^\infty\frac1{n^2}=\frac{\pi^2}{12}<\frac56.
-```
+$$
 
 </details>
 

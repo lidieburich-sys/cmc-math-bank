@@ -25,9 +25,9 @@ f(x)=\limsup_{n\to\infty}\frac{x_1+\cdots+x_n}n.
 （1）若两个数列首次在第 $`k`$ 项不同，则
 
 
-```math
+$$
 |\Pi(x)-\Pi(y)|\ge\frac2{3^k}-\sum_{n>k}\frac2{3^n}=\frac1{3^k}>0.
-```
+$$
 
 
 
@@ -36,9 +36,9 @@ f(x)=\limsup_{n\to\infty}\frac{x_1+\cdots+x_n}n.
 （3）显然值域包含于 $`[0,2]`$。任取 $`\alpha\in[0,2]`$，令
 
 
-```math
+$$
 x_n=2\left(\left\lfloor\frac{n\alpha}2\right\rfloor-\left\lfloor\frac{(n-1)\alpha}2\right\rfloor\right)\in\{0,2\}.
-```
+$$
 
 
 则前 $`n`$ 项平均为 $`2\lfloor n\alpha/2\rfloor/n\to\alpha`$，故 $`f(x)=\alpha`$，值域正是 $`[0,2]`$。

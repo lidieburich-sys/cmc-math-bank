@@ -18,9 +18,9 @@
 由 Frenet 公式 $`B'=-\tau N`$，得 $`n'=-\varepsilon\tau N`$。形算子 $`\mathcal S=-dn`$ 因而满足 $`\mathcal S(T)=\varepsilon\tau N`$。在切平面的正交基 $`(T,N)`$ 下，形算子的对称矩阵为
 
 
-```math
+$$
 \begin{pmatrix}0&\varepsilon\tau\\\varepsilon\tau&b\end{pmatrix}.
-```
+$$
 
 
 故 $`K=\det\mathcal S=-\tau^2`$，即 $`\boxed{|\tau|=\sqrt{-K}}`$。

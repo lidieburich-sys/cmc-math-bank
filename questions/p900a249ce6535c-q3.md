@@ -24,33 +24,33 @@ B=(a_i+b_j)_{1\le i,j\le n}.
 实对称矩阵的不同特征值对应的特征向量正交，故 $`w^Tv=0`$。设 $`e=(1,\ldots,1)^T`$、$`\alpha=e^Tv=\sum_i a_i`$、$`\beta=w^Te=\sum_i b_i`$。则
 
 
-```math
+$$
 B=ve^T+ew^T=UV,\qquad U=(v\ e),\qquad V=\begin{pmatrix}e^T\\w^T\end{pmatrix},
-```
+$$
 
 
 且
 
 
-```math
+$$
 VU=\begin{pmatrix}\alpha&n\\0&\beta\end{pmatrix}.
-```
+$$
 
 
 由 $`\det(I+UV)=\det(I+VU)`$，先对 $`t\ne0`$ 计算，再由多项式恒等性得到
 
 
-```math
+$$
 \det(tI_n-B)=t^{n-2}\det(tI_2-VU)=t^{n-2}(t-\alpha)(t-\beta).
-```
+$$
 
 
 所以全部特征值（按代数重数列出）为
 
 
-```math
+$$
 \boxed{\sum_{i=1}^na_i,\quad\sum_{i=1}^nb_i,\quad\underbrace{0,\ldots,0}_{n-2\text{ 个}}.}
-```
+$$
 
 
 若这些数相同，其重数相加；公式仍适用。

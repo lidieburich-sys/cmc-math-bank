@@ -17,9 +17,9 @@
 
 
 
-```math
+$$
 \int_0^1(3ax^2+2bx)\,dx=a+b=1.
-```
+$$
 
 
 
@@ -27,14 +27,14 @@
 
 
 
-```math
+$$
 \begin{aligned}
 V&=\pi\int_0^1(3ax^2+2bx)^2\,dx\\
 &=\pi\left(\frac95a^2+3ab+\frac43b^2\right)\\
 &=\pi\left(\frac{2}{15}a^2+\frac13a+\frac43\right)\\
 &=\pi\left[\frac{2}{15}\left(a+\frac54\right)^2+\frac98\right].
 \end{aligned}
-```
+$$
 
 
 
@@ -42,9 +42,9 @@ V&=\pi\int_0^1(3ax^2+2bx)^2\,dx\\
 
 
 
-```math
+$$
 \boxed{a=-\frac54,\qquad b=\frac94,\qquad c=1}
-```
+$$
 
 
 

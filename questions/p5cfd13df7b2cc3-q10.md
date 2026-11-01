@@ -24,25 +24,25 @@ F(t)=\iiint_{\Omega_t}f(x^2+y^2+z^2)\,dV.
 在球坐标中记球半径为 $`r`$，极角为 $`\theta`$。抛物面条件 $`z\ge x^2+y^2`$ 等价于
 
 
-```math
+$$
 r\cos\theta\ge r^2\sin^2\theta.
-```
+$$
 
 
 令 $`g(r)=(\sqrt{1+4r^2}-1)/2`$，则每个 $`r>0`$ 上允许的极角为 $`0\le\theta\le\arccos(g(r)/r)`$。因此
 
 
-```math
+$$
 F(t)=2\pi\int_0^t f(r^2)r^2\left(1-\frac{g(r)}r\right)\,dr.
-```
+$$
 
 
 由微积分基本定理，
 
 
-```math
+$$
 \boxed{F^{\prime}(t)=2\pi t^2f(t^2)\left(1-\frac{g(t)}t\right)=\pi t\left(2t+1-\sqrt{1+4t^2}\right)f(t^2)}.
-```
+$$
 
 </details>
 

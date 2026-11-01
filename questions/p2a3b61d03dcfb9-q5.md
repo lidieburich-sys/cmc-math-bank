@@ -24,17 +24,17 @@
 令 $`X=x/a,Y=y/b,Z=z/c`$。在单位球面 $`X^2+Y^2+Z^2=1`$ 上，相切点处 $`XYZ`$ 取非零驻值。拉格朗日乘数法给出
 
 
-```math
+$$
 YZ=2\lambda X,\quad XZ=2\lambda Y,\quad XY=2\lambda Z,
-```
+$$
 
 
 因而 $`X^2=Y^2=Z^2=1/3`$。由 $`\mu>0`$ 得
 
 
-```math
+$$
 \boxed{\mu=abc\,XYZ=\frac{abc}{3\sqrt3}}.
-```
+$$
 
 </details>
 

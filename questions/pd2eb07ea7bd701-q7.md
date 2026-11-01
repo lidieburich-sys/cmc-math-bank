@@ -24,16 +24,16 @@
 由于任意阶导数及其任意多项式倍均快速衰减，所需函数均可积，可在积分号内求导并反复分部积分：
 
 
-```math
+$$
 \widehat f^{(k)}(x)=\int(-2\pi iy)^kf(y)e^{-2\pi ixy}dy,
-```
+$$
 
 
 
 
-```math
+$$
 x^m\widehat f^{(k)}(x)=\frac1{(2\pi i)^m}\int\frac{d^m}{dy^m}[(-2\pi iy)^kf(y)]e^{-2\pi ixy}dy.
-```
+$$
 
 
 右侧由其被积系数的 $`L^1`$ 范数统一控制，故 $`\widehat f\in\mathcal S`$。
@@ -41,10 +41,10 @@ x^m\widehat f^{(k)}(x)=\frac1{(2\pi i)^m}\int\frac{d^m}{dy^m}[(-2\pi iy)^kf(y)]e
 为证明反演，取 $`\varepsilon>0`$，用 Gaussian 正则化及 Fubini 定理，得到
 
 
-```math
+$$
 \int\widehat f(y)e^{2\pi ixy}e^{-\pi\varepsilon y^2}dy
 =\int f(t)\varepsilon^{-1/2}e^{-\pi(x-t)^2/\varepsilon}dt.
-```
+$$
 
 
 这里使用 Gaussian Fourier 公式 $`\int e^{-\pi\varepsilon y^2}e^{2\pi isy}dy=\varepsilon^{-1/2}e^{-\pi s^2/\varepsilon}`$。右侧为 Gaussian 近似恒等算子，令 $`t=x+\sqrt\varepsilon u`$，由控制收敛趋于 $`f(x)`$。左侧因 $`\widehat f\in L^1`$，也由控制收敛趋于所需反演积分，结论成立。

@@ -16,9 +16,9 @@
 设圆锥半顶角为 $`\theta`$。在轴截面中，球心到母线的距离为 $`r`$，故 $`\sin\theta=r/h`$，$`\cot\theta=\sqrt{h^2-r^2}/r`$。漏斗为朝上的单叶圆锥：
 
 
-```math
+$$
 \boxed{z=\frac{\sqrt{h^2-r^2}}r\sqrt{x^2+y^2}}.
-```
+$$
 
 </details>
 

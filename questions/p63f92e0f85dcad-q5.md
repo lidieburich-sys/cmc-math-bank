@@ -24,13 +24,13 @@ I(f)=\int_0^\pi(\sin x-f(x))f(x)\,dx.
 配方得到
 
 
-```math
+$$
 \begin{aligned}
 I(f)&=\int_0^\pi\bigl(f(x)\sin x-f(x)^2\bigr)\,dx\\
 &=\int_0^\pi\frac{\sin^2x}{4}\,dx-\int_0^\pi\left(f(x)-\frac{\sin x}{2}\right)^2\,dx\\
 &=\frac\pi8-\int_0^\pi\left(f(x)-\frac{\sin x}{2}\right)^2\,dx\le\frac\pi8.
 \end{aligned}
-```
+$$
 
 
 取连续函数 $`f(x)=\tfrac12\sin x`$ 时等号成立，故最大值为 $`\boxed{\pi/8}`$。

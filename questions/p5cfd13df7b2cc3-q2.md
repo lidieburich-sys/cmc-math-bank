@@ -24,25 +24,25 @@ L:\begin{cases}2x+y-3z+2=0,\\5x+5y-4z+3=0\end{cases}
 过 $`L`$ 的平面束为
 
 
-```math
+$$
 \lambda(2x+y-3z+2)+\mu(5x+5y-4z+3)=0.
-```
+$$
 
 
 代入点 $`(4,-3,1)`$ 得 $`\lambda+\mu=0`$，故可取
 
 
-```math
+$$
 \boxed{\pi_1:3x+4y-z+1=0}.
-```
+$$
 
 
 平面束的法向量为 $`(2\lambda+5\mu,\lambda+5\mu,-3\lambda-4\mu)`$，与 $`(3,4,-1)`$ 垂直的条件是 $`13\lambda+39\mu=0`$，即 $`\lambda=-3\mu`$。于是
 
 
-```math
+$$
 \boxed{\pi_2:x-2y-5z+3=0}.
-```
+$$
 
 </details>
 

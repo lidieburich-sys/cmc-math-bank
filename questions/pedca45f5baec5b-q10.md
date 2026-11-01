@@ -34,25 +34,25 @@ f(x)=\sum_{n=1}^{\infty}a_n^n x^n.
 取 $`n_0`$ 使 $`A=e/a_{n_0}\ge1`$。对 $`x\ge A`$，设 $`m`$ 是满足 $`x\ge e/a_m`$ 的最大整数（因 $`a_n\to0`$，它存在且有限）。则
 
 
-```math
+$$
 f(x)\ge(a_mx)^m\ge e^m,\qquad \ln f(x)\ge m.
-```
+$$
 
 
 因此，对任意 $`N\ge n_0`$，都有
 
 
-```math
+$$
 \ln f(x)\ge\sum_{n=n_0}^{N}\mathbf1_{[e/a_n,\infty)}(x)\qquad(x\ge A).
-```
+$$
 
 
 两边乘 $`x^{-2}`$ 并在 $`[A,+\infty)`$ 上积分，得到
 
 
-```math
+$$
 \int_A^\infty\frac{\ln f(x)}{x^2}\,dx\ge\sum_{n=n_0}^{N}\int_{e/a_n}^\infty\frac{dx}{x^2}=\frac1e\sum_{n=n_0}^{N}a_n.
-```
+$$
 
 
 右边随 $`N\to\infty`$ 趋于 $`+\infty`$。区间 $`[1,A]`$ 上的积分有限，故原反常积分发散到 $`+\infty`$。

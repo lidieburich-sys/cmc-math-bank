@@ -23,9 +23,9 @@ C_1x(t)<|\dot x(t)|<C_2x(t)\qquad(t\in\mathbb R).
 将 $`\ddot x=g(t)x`$ 乘以 $`\dot x>0`$，从 $`-\infty`$ 积到 $`t`$，利用 $`1<g<2`$，得
 
 
-```math
+$$
 \int_{-\infty}^tx\dot x\,ds<\int_{-\infty}^t\ddot x\dot x\,ds<2\int_{-\infty}^tx\dot x\,ds.
-```
+$$
 
 
 即 $`x(t)^2<\dot x(t)^2<2x(t)^2`$，所以 $`x(t)<\dot x(t)<\sqrt2x(t)`$。

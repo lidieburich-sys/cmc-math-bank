@@ -36,9 +36,9 @@ Y=\min(X_1,\ldots,X_n),\qquad Z_i=X_i-Y,\qquad S_n=\sum_{i=1}^nX_i.
 先取 $`n\ge2`$。（1）$`\mathbb P(Y>y)=e^{-ny}`$（$`y>0`$），故
 
 
-```math
+$$
 f_Y(y)=ne^{-ny}\mathbf1_{\{y>0\}},\qquad f_{S_n}(s)=\frac{s^{n-1}e^{-s}}{(n-1)!}\mathbf1_{\{s>0\}}.
-```
+$$
 
 
 最小值几乎必然唯一，依对称性 $`\mathbb P(Y=X_1)=1/n`$。
@@ -46,9 +46,9 @@ f_Y(y)=ne^{-ny}\mathbf1_{\{y>0\}},\qquad f_{S_n}(s)=\frac{s^{n-1}e^{-s}}{(n-1)!}
 （2）记 $`I`$ 为取得最小值的指标。在 $`I=1`$ 时作变换 $`X_1=y`$、$`X_i=y+z_i`$（$`i\ge2`$），Jacobian 为 $`1`$，得到
 
 
-```math
+$$
 f_{Y,Z_2,\ldots,Z_n,I=1}=e^{-ny}\prod_{i=2}^ne^{-z_i},\qquad y,z_i>0.
-```
+$$
 
 
 除以 $`\mathbb P(I=1)=1/n`$ 后，条件密度分解为 $`ne^{-ny}\prod_{i=2}^ne^{-z_i}`$。这证明 $`Y`$ 与这些余量条件独立，余量均为 $`\operatorname{Exp}(1)`$，所要求的条件分布式也随之成立。
@@ -56,9 +56,9 @@ f_{Y,Z_2,\ldots,Z_n,I=1}=e^{-ny}\prod_{i=2}^ne^{-z_i},\qquad y,z_i>0.
 （3）在任一 $`I=i`$ 条件下，$`T`$ 都是 $`n-1`$ 个独立 $`\operatorname{Exp}(1)`$ 变量之和，且独立于 $`Y`$；此条件联合分布不随 $`i`$ 改变。对 $`i`$ 求和后仍有
 
 
-```math
+$$
 f_{Y,T}(y,t)=ne^{-ny}\frac{t^{n-2}e^{-t}}{(n-2)!},\qquad y,t>0.
-```
+$$
 
 
 故 $`T\sim\operatorname{Gamma}(n-1,1)`$，与 $`S_{n-1}`$ 同分布，并且与 $`Y`$ 独立。
@@ -66,17 +66,17 @@ f_{Y,T}(y,t)=ne^{-ny}\frac{t^{n-2}e^{-t}}{(n-2)!},\qquad y,t>0.
 （4）记 $`R=Y/(nY+T)`$。对 $`0<r<1/n`$，由独立性，
 
 
-```math
+$$
 \mathbb P(R>r)=\mathbb E\exp\left(-\frac{nr}{1-nr}T\right)=(1-nr)^{n-1}.
-```
+$$
 
 
 因此
 
 
-```math
+$$
 \boxed{f_R(r)=n(n-1)(1-nr)^{n-2}\mathbf1_{\{0<r<1/n\}}}.
-```
+$$
 
 
 若 $`n=1`$，则 $`Y=S_1`$、$`T=0`$，且 $`Y/S_1\equiv1`$，为点质量分布，没有通常的 Lebesgue 概率密度；第三问可将 $`S_0`$ 理解为 $`0`$。

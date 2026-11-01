@@ -20,9 +20,9 @@
 当 $`x>1`$ 且 $`x\le t\le x+1`$ 时，$`t+\cos t\ge x-1`$。因此
 
 
-```math
+$$
 \left|\sqrt[3]x\int_x^{x+1}\frac{\sin t}{\sqrt{t+\cos t}}\,dt\right|\le\frac{x^{1/3}}{\sqrt{x-1}}\longrightarrow0.
-```
+$$
 
 
 由夹逼准则，所求极限为 $`\boxed{0}`$。

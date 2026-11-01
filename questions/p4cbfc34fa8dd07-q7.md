@@ -21,9 +21,9 @@
 记 $`M=\max|f^{\prime}|`$、$`m=\min|f^{\prime}|`$。由导数的全变差估计，
 
 
-```math
+$$
 M-m\le\int_0^1|f^{\prime\prime}(x)|\,dx,\qquad\int_0^1|f^{\prime}|\le M.
-```
+$$
 
 
 只需证 $`m\le2\int_0^1|f|`$。若 $`m=0`$，显然成立。否则 $`f^{\prime}`$ 连续且不变号，必要时将 $`f`$ 换成 $`-f`$，可设 $`f^{\prime}\ge m>0`$。
@@ -31,9 +31,9 @@ M-m\le\int_0^1|f^{\prime\prime}(x)|\,dx,\qquad\int_0^1|f^{\prime}|\le M.
 由端点同号条件，或者 $`f(0)\ge0`$，此时 $`f(x)\ge mx`$，或者 $`f(1)\le0`$，此时 $`-f(x)\ge m(1-x)`$。两种情况均得到 $`\int_0^1|f|\ge m/2`$。因此
 
 
-```math
+$$
 \int_0^1|f^{\prime}|\le m+(M-m)\le2\int_0^1|f|+\int_0^1|f^{\prime\prime}|,
-```
+$$
 
 
 证毕。

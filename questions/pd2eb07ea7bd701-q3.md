@@ -24,10 +24,10 @@ I=\iint_S\frac{ax\,dy\,dz+(z+a)^2\,dx\,dy}{\sqrt{x^2+y^2+z^2}},\qquad a>0,
 在 $`S`$ 上分母为 $`a`$。给下半球体补上 $`z=0`$ 的圆盘，并取封闭面的内侧；这在球面上正好是所需上侧，圆盘法向向下。对向量场 $`(ax,0,(z+a)^2)`$，散度为 $`3a+2z`$。下半球体体积为 $`2\pi a^3/3`$，且 $`\iiint z\,dV=-\pi a^4/4`$。故
 
 
-```math
+$$
 aI-\pi a^4=-\iiint(3a+2z)dV=-\frac32\pi a^4,
 \qquad\boxed{I=-\frac\pi2a^3}.
-```
+$$
 
 </details>
 

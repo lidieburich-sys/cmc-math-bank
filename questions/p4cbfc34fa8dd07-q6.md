@@ -22,9 +22,9 @@
 （1）因 $`C`$ 与 $`A,B`$ 交换，对每个 $`k\ge1`$，
 
 
-```math
+$$
 \operatorname{tr}(C^k)=\operatorname{tr}((AB-BA)C^{k-1})=0.
-```
+$$
 
 
 由 $`k=1,\ldots,n`$ 的幂和与 Newton 恒等式，$`C`$ 的特征多项式为 $`\lambda^n`$。Cayley–Hamilton 定理给出 $`C^n=0`$。

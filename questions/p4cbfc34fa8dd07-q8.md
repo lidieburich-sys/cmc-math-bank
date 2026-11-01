@@ -24,9 +24,9 @@ G(x)=(g_{ij}(x))=\sum_{k=0}^\infty a_k(xI+A)^k.
 记 $`F(x)=(1-x)^\alpha`$，设 $`m`$ 为 $`A^m\ne0`$、$`A^{m+1}=0`$ 的最大指数（若 $`A=0`$，取 $`m=0`$）。展开矩阵幂并对标量幂级数逐项求导，得到有限和
 
 
-```math
+$$
 G(x)=\sum_{j=0}^m\frac{F^{(j)}(x)}{j!}A^j=\sum_{j=0}^m\frac{(-1)^j\alpha(\alpha-1)\cdots(\alpha-j+1)}{j!}(1-x)^{\alpha-j}A^j.
-```
+$$
 
 
 若 $`m\le2`$，每项指数均大于 $`-1`$，故全部元素均可积。
@@ -34,9 +34,9 @@ G(x)=\sum_{j=0}^m\frac{F^{(j)}(x)}{j!}A^j=\sum_{j=0}^m\frac{(-1)^j\alpha(\alpha-
 若 $`m\ge3`$，取 $`(A^m)_{ij}\ne0`$。由于 $`\alpha`$ 不是整数，最高项系数非零，此元素满足
 
 
-```math
+$$
 g_{ij}(x)\sim c(1-x)^{\alpha-m},\qquad c\ne0,\quad x\to1^-.
-```
+$$
 
 
 而 $`\alpha-m<-1`$，其广义积分发散。因此全部积分存在恰等价于 $`m\le2`$，也就是 $`\boxed{A^3=0}`$。

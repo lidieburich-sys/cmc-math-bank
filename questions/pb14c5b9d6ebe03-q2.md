@@ -16,17 +16,17 @@
 记 $`D=\operatorname{diag}(1,2,3)`$、$`Q=P^{\mathsf T}DP`$。沿单位方向 $`v`$ 的直线相切，当且仅当
 
 
-```math
+$$
 (P^{\mathsf T}Dv)^2-(v^{\mathsf T}Dv)(Q-4)=0.
-```
+$$
 
 
 令 $`T=(DP)(DP)^{\mathsf T}-(Q-4)D`$。若存在正交单位方向 $`v_1,v_2,v_3`$，则 $`v_j^{\mathsf T}Tv_j=0`$，相加得 $`\operatorname{tr}T=0`$。即
 
 
-```math
+$$
 x^2+4y^2+9z^2-6(x^2+2y^2+3z^2-4)=0,
-```
+$$
 
 
 所以轨迹方程为 $`\boxed{5x^2+8y^2+9z^2=24}`$。

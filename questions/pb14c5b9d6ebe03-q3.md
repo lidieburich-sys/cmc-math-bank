@@ -22,34 +22,34 @@ A^4=I\quad\Longleftrightarrow\quad
 记 $`B=I-A`$、$`C=I+A+A^2+A^3`$、$`U=(A^2+2A+3I)/4`$、$`V=I/4`$，则
 
 
-```math
+$$
 UB+VC=I,\qquad BC=I-A^4,
-```
+$$
 
 
 所有矩阵彼此交换。因此 $`\operatorname{Im}B+\operatorname{Im}C=\mathbb R^n`$。又
 
 
-```math
+$$
 \operatorname{Im}B\cap\operatorname{Im}C=\operatorname{Im}(BC).
-```
+$$
 
 
 确实，右边包含于左边；反之，若 $`w=Bx=Cy`$，则
 
 
-```math
+$$
 w=(UB+VC)w=BC(Uy+Vx).
-```
+$$
 
 
 由维数公式，
 
 
-```math
+$$
 \operatorname{rank}B+\operatorname{rank}C=n+\operatorname{rank}(BC)
 =n+\operatorname{rank}(I-A^4).
-```
+$$
 
 
 故秩之和等于 $`n`$ 当且仅当 $`A^4=I`$。

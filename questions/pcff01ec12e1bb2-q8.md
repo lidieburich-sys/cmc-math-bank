@@ -21,20 +21,20 @@ f'(\xi_1)f'(\xi_2)\sqrt{1-\xi_3}\ge2.
 令 $`F(x)=f(x)-2+x`$，则 $`F(0)=-2`$、$`F(1)=1`$。由介值定理，存在 $`c\in(0,1)`$ 使 $`f(c)=2-c`$。在 $`[0,c]`$、$`[c,1]`$ 上分别用 Lagrange 中值定理，得到
 
 
-```math
+$$
 \xi_1\in(0,c),\quad\xi_2\in(c,1),\qquad
 f'(\xi_1)=\frac{2-c}{c},\quad f'(\xi_2)=\frac c{1-c}.
-```
+$$
 
 
 取 $`\xi_3=c`$，三点两两不同，且
 
 
-```math
+$$
 f'(\xi_1)f'(\xi_2)\sqrt{1-c}
 =\frac{2-c}{\sqrt{1-c}}
 =\sqrt{1-c}+\frac1{\sqrt{1-c}}\ge2.
-```
+$$
 
 </details>
 

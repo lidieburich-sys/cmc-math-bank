@@ -17,41 +17,41 @@
 
 
 
-```math
+$$
 0<\xi_1<x_0<\xi_2<1,\quad f(\xi_1)=f(\xi_2)=0
-```
+$$
 
 
 
 
 
-```math
+$$
 F(x)=f(x)e^{\int_0^x3f^2(s)\,ds}
-```
+$$
 
 
 
 
 
-```math
+$$
 F^{\prime}(x)=[f^{\prime}(x)+3f^3(x)]e^{\int_0^x3f^2(s)\,ds}
-```
+$$
 
 
 
 
 
-```math
+$$
 F(\xi_1)=F(\xi_2)=0\quad\Rightarrow\quad F^{\prime}(\xi)=0
-```
+$$
 
 
 
 
 
-```math
+$$
 f^{\prime}(\xi)+3f^3(\xi)=0
-```
+$$
 
 </details>
 

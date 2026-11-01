@@ -24,25 +24,25 @@ L:\begin{cases}2x-4y+z=0,\\3x-y-2z=9,\end{cases}\qquad \pi:4x-y+z=1.
 过 $`L`$ 的平面束为
 
 
-```math
+$$
 \lambda(2x-4y+z)+\mu(3x-y-2z-9)=0.
-```
+$$
 
 
 使该平面与 $`\pi`$ 垂直，其法向量需满足
 
 
-```math
+$$
 4(2\lambda+3\mu)+4\lambda+\mu+\lambda-2\mu=13\lambda+11\mu=0.
-```
+$$
 
 
 取 $`\lambda=-11,\mu=13`$，得到 $`17x+31y-37z=117`$。所求投影为两平面的交线：
 
 
-```math
+$$
 \boxed{\begin{cases}17x+31y-37z=117,\\4x-y+z=1.\end{cases}}
-```
+$$
 
 </details>
 
